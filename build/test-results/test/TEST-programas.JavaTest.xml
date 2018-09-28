@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="programas.JavaTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-09-28T08:05:35" hostname="DESKTOP-NVG3H6F" time="0.006">
+  <properties/>
+  <testcase name="test2" classname="programas.JavaTest" time="0.005"/>
+  <testcase name="test3" classname="programas.JavaTest" time="0.001"/>
+  <system-out><![CDATA[TUE
+asd
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
