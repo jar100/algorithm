@@ -4,11 +4,15 @@ import org.junit.Test;
 
 import java.util.Arrays;
 
+import static org.assertj.core.api.Assertions.assertThat;
+
 public class JavaTest {
     @Test
     public void test2() {
         String a = Test_2.solution(5,24);
         System.out.println(a);
+        assertThat(a).isEqualTo("TUE");
+
     }
 
     @Test
