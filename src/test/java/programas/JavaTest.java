@@ -53,4 +53,12 @@ public class JavaTest {
             System.out.println("true4");
         }
     }
+
+    @Test
+    public void maxNumOrMinNum() {
+        String s = "5 -1 -2 3 4 -2";
+        assertThat(MaximumOrMinimum.solution(s)).isEqualTo("-2 5");
+        assertThat(MaximumOrMinimum.solution("-1 -2 -3 -4")).isEqualTo("-4 -1");
+        assertThat(MaximumOrMinimum.solution("-1 -1")).isEqualTo("-1 -1");
+    }
 }
