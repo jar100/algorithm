@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 
-public class JavaTest3 {
+public class ProgrammersAlgorithm {
 
     public static int[] solution(int[] arr, int divisor) {
         ArrayList<Integer> result = new ArrayList<>();

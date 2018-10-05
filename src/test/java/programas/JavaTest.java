@@ -18,7 +18,7 @@ public class JavaTest {
     @Test
     public void test3() {
         int[] a = {5, 9, 7, 10	};
-        int[] result = JavaTest3.solution(a, 5);
+        int[] result = ProgrammersAlgorithm.solution(a, 5);
         System.out.println(Arrays.toString(result));
 
     }
@@ -60,5 +60,11 @@ public class JavaTest {
         assertThat(MaximumOrMinimum.solution(s)).isEqualTo("-2 5");
         assertThat(MaximumOrMinimum.solution("-1 -2 -3 -4")).isEqualTo("-4 -1");
         assertThat(MaximumOrMinimum.solution("-1 -1")).isEqualTo("-1 -1");
+    }
+    @Test
+    public void fibonacciTest() {
+        System.out.println(Fibonacci.fibo(4));
+        assertThat(Fibonacci.solution(3)).isEqualTo(2);
+        assertThat(Fibonacci.solution(5)).isEqualTo(5);
     }
 }
