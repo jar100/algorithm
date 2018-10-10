@@ -8,6 +8,22 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 public class JavaTest {
     @Test
+    public void phonekemonTest() {
+        int[] nums1 = {3,1,2,3};
+        assertThat(Phonekemon.solution(nums1)).isEqualTo(2);
+        int[] nums2 = {3,3,3,2,2,4};
+        assertThat(Phonekemon.solution(nums2)).isEqualTo(3);
+        int[] nums3 = {3,3,3,2,2,2};
+        assertThat(Phonekemon.solution(nums3)).isEqualTo(2);
+    }
+
+    @Test
+    public void fiboequals() {
+        int n = 5;
+        assertThat(Fibonacci.fibo(5)).isEqualTo(5);
+    }
+
+    @Test
     public void test2() {
         String a = Test_2.solution(5,24);
         System.out.println(a);
