@@ -21,6 +21,7 @@ public class JavaTest {
     public void fiboequals() {
         int n = 5;
         assertThat(Fibonacci.fibo(5)).isEqualTo(5);
+
     }
 
     @Test
