@@ -1,6 +1,11 @@
-package programas;
+package programas.clear;
 
 import org.junit.Test;
+import programas.FindBigSquare;
+import programas.clear.Fibonacci;
+import programas.clear.MaximumOrMinimum;
+import programas.clear.Phonekemon;
+import programas.clear.programas2016;
 
 import java.util.Arrays;
 
@@ -26,7 +31,7 @@ public class JavaTest {
 
     @Test
     public void test2() {
-        String a = Test_2.solution(5,24);
+        String a = programas2016.solution(5,24);
         System.out.println(a);
         assertThat(a).isEqualTo("TUE");
 
@@ -35,7 +40,7 @@ public class JavaTest {
     @Test
     public void test3() {
         int[] a = {5, 9, 7, 10	};
-        int[] result = ProgrammersAlgorithm.solution(a, 5);
+        int[] result = FindBigSquare.solution(a, 5);
         System.out.println(Arrays.toString(result));
 
     }

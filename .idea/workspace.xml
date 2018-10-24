@@ -2,14 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23586ee2-4605-423a-a2cc-a7fb8717802a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/programas/NewBigNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/programas/NewBigNumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programas/JumpIronsuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programas/MakeJadenCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/programas/JumpIronsuitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/programas/MakeJadenCaseTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/Fibonacci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/FindLCM.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/FindLCM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/JavaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/JavaTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programas/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/programas/JavaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/JavaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/MaximumOrMinimum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/NewBigNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/ProgrammersAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/JavaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programas/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/clear/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programas/FindLCM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/clear/FindLCM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programas/FindPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/clear/FindPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programas/MaximumOrMinimum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/clear/MaximumOrMinimum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programas/NewBigNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/clear/NewBigNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programas/Phonekemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/clear/Phonekemon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programas/ProgrammersAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/FindBigSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programas/Test_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/clear/programas2016.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programas/test_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/clear/test_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/FindLCMTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/FindLCMTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/FindPositionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/FindPositionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/JavaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/JavaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/NewBigNumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/NewBigNumTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,35 +41,35 @@
     <session id="-1804102672">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.0" value="3" />
-          <entry key="project.open.time.1" value="9" />
+          <entry key="project.open.time.1" value="10" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gradle" value="1" />
-          <entry key="java" value="23" />
+          <entry key="java" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="23" />
+          <entry key="JAVA" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="32" />
-          <entry key="java" value="4988" />
+          <entry key="dummy" value="34" />
+          <entry key="java" value="5730" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4988" />
-          <entry key="PLAIN_TEXT" value="32" />
+          <entry key="JAVA" value="5730" />
+          <entry key="PLAIN_TEXT" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -64,100 +78,109 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/programas/Fibonacci.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/FindLCMTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+            <state relative-caret-position="133">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/programas/Phonekemon.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/programas2016.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+            <state relative-caret-position="38">
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/programas/NewBigNum.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/JavaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+            <state relative-caret-position="148">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/NewBigNumTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/FindPositionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/FindBigSquare.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programas/MakeJadenCaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/MakeJadenCase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="25" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Integer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/JumpIronsuit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="1443" column="22" selection-start-line="1443" selection-start-column="22" selection-end-line="1443" selection-end-column="22" />
+            <state relative-caret-position="346">
+              <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/programas/NewBigNumTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programas/JumpIronsuitTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/programas/JavaTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/programas/test_1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/programas/Test_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/programas/FindPositionTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/programas/ProgrammersAlgorithm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+            <state relative-caret-position="285">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -480,24 +503,38 @@
       <list>
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/programas/JavaTest3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/MaximumOrMinimum.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/FindPosition.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/FindPositionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/FindPosition.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/phone.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/phonekemon.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/Phonekemon.java" />
-        <option value="$PROJECT_DIR$/src/test/java/programas/FindLCMTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/FindLCM.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/JavaTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/Fibonacci.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/NewBigNumTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/NewBigNum.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/FindLCMTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/MaximumOrMinimum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/ProgrammersAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/FindBigSquare.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/J.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/MakejadenCaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/MakeJadenCase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/MakeJadenCaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/clear/Test_2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/clear/programas2016.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/clear/JumpSuit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/clear/JumpIronsuit.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/JumpIronsuit.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/JumpIronsuitTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/JumpIronsuit.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
+    <option name="x" value="960" />
+    <option name="y" value="115" />
     <option name="width" value="980" />
     <option name="height" value="1030" />
   </component>
@@ -506,9 +543,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -567,10 +601,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539854785741" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540363829620" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -587,43 +624,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.NewBigNumTest.test">
+  <component name="RunManager" selected="JUnit.JumpIronsuitTest.jumpTest">
     <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programas.Fibonacci" />
+      <option name="MAIN_CLASS_NAME" value="programas.clear.Fibonacci" />
       <module name="algorithm_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programas.*" />
+          <option name="PATTERN" value="programas.MakeJadenCaseTest" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programas.FindPosition" />
-      <module name="algorithm_main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindLCMTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="programas" />
-      <option name="MAIN_CLASS_NAME" value="programas.FindLCMTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -632,19 +642,19 @@
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programas.*" />
+          <option name="PATTERN" value="programas.MakeJadenCaseTest" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="programas" />
-      <option name="MAIN_CLASS_NAME" value="programas.FindLCMTest" />
+      <option name="PACKAGE_NAME" value="programas.clear" />
+      <option name="MAIN_CLASS_NAME" value="programas.clear.FindLCMTest" />
       <option name="METHOD_NAME" value="mainTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewBigNumTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="JumpIronsuitTest.jumpTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
@@ -653,7 +663,40 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="programas" />
-      <option name="MAIN_CLASS_NAME" value="programas.NewBigNumTest" />
+      <option name="MAIN_CLASS_NAME" value="programas.JumpIronsuitTest" />
+      <option name="METHOD_NAME" value="jumpTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MakeJadenCaseTest.Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programas.MakeJadenCaseTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programas" />
+      <option name="MAIN_CLASS_NAME" value="programas.MakeJadenCaseTest" />
+      <option name="METHOD_NAME" value="Tests" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewBigNumTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programas.MakeJadenCaseTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programas.clear" />
+      <option name="MAIN_CLASS_NAME" value="programas.clear.NewBigNumTest" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -661,19 +704,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.FindLCMTest" />
-      <item itemvalue="JUnit.FindLCMTest.mainTest" />
-      <item itemvalue="Application.FindPosition" />
       <item itemvalue="Application.Fibonacci" />
+      <item itemvalue="JUnit.FindLCMTest.mainTest" />
       <item itemvalue="JUnit.NewBigNumTest.test" />
+      <item itemvalue="JUnit.MakeJadenCaseTest.Tests" />
+      <item itemvalue="JUnit.JumpIronsuitTest.jumpTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.JumpIronsuitTest.jumpTest" />
+        <item itemvalue="JUnit.MakeJadenCaseTest.Tests" />
         <item itemvalue="JUnit.NewBigNumTest.test" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="JUnit.FindLCMTest.mainTest" />
-        <item itemvalue="Application.FindPosition" />
-        <item itemvalue="JUnit.FindLCMTest" />
       </list>
     </recent_temporary>
   </component>
@@ -691,42 +734,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NewBigNumTest_test - 2018.10.18 at 18h 17m 33s.xml">
-      <configuration name="NewBigNumTest.test" configurationId="JUnit" />
+    <history-entry file="MakeJadenCaseTest_Tests - 2018.10.24 at 14h 30m 27s.xml">
+      <configuration name="MakeJadenCaseTest.Tests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NewBigNumTest_test - 2018.10.18 at 18h 17m 49s.xml">
-      <configuration name="NewBigNumTest.test" configurationId="JUnit" />
+    <history-entry file="MakeJadenCaseTest_Tests - 2018.10.24 at 14h 31m 27s.xml">
+      <configuration name="MakeJadenCaseTest.Tests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NewBigNumTest_test - 2018.10.18 at 18h 18m 14s.xml">
-      <configuration name="NewBigNumTest.test" configurationId="JUnit" />
+    <history-entry file="MakeJadenCaseTest_Tests - 2018.10.24 at 14h 32m 06s.xml">
+      <configuration name="MakeJadenCaseTest.Tests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NewBigNumTest_test - 2018.10.18 at 18h 18m 44s.xml">
-      <configuration name="NewBigNumTest.test" configurationId="JUnit" />
+    <history-entry file="MakeJadenCaseTest_Tests - 2018.10.24 at 14h 33m 11s.xml">
+      <configuration name="MakeJadenCaseTest.Tests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NewBigNumTest_test - 2018.10.18 at 18h 19m 34s.xml">
-      <configuration name="NewBigNumTest.test" configurationId="JUnit" />
+    <history-entry file="MakeJadenCaseTest_Tests - 2018.10.24 at 14h 34m 18s.xml">
+      <configuration name="MakeJadenCaseTest.Tests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NewBigNumTest_test - 2018.10.18 at 18h 19m 45s.xml">
-      <configuration name="NewBigNumTest.test" configurationId="JUnit" />
+    <history-entry file="MakeJadenCaseTest_Tests - 2018.10.24 at 14h 34m 34s.xml">
+      <configuration name="MakeJadenCaseTest.Tests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NewBigNumTest_test - 2018.10.18 at 18h 20m 12s.xml">
-      <configuration name="NewBigNumTest.test" configurationId="JUnit" />
+    <history-entry file="MakeJadenCaseTest_Tests - 2018.10.24 at 14h 54m 17s.xml">
+      <configuration name="MakeJadenCaseTest.Tests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NewBigNumTest_test - 2018.10.18 at 18h 24m 52s.xml">
-      <configuration name="NewBigNumTest.test" configurationId="JUnit" />
+    <history-entry file="MakeJadenCaseTest_Tests - 2018.10.24 at 14h 54m 40s.xml">
+      <configuration name="MakeJadenCaseTest.Tests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NewBigNumTest_test - 2018.10.18 at 18h 25m 15s.xml">
-      <configuration name="NewBigNumTest.test" configurationId="JUnit" />
+    <history-entry file="MakeJadenCaseTest_Tests - 2018.10.24 at 14h 55m 02s.xml">
+      <configuration name="MakeJadenCaseTest.Tests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NewBigNumTest_test - 2018.10.18 at 18h 26m 21s.xml">
-      <configuration name="NewBigNumTest.test" configurationId="JUnit" />
+    <history-entry file="JumpIronsuitTest_jumpTest - 2018.10.24 at 15h 29m 55s.xml">
+      <configuration name="JumpIronsuitTest.jumpTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29932886" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30268458" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -770,119 +813,153 @@
     <entry file="file://$PROJECT_DIR$/../StudyToJavaArgorithm/src/main/java/algorithm/KaKaoTest1.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/FindLCM.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="148">
+          <caret line="1443" column="22" selection-start-line="1443" selection-start-column="22" selection-end-line="1443" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/FindLCMTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/FindPosition.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/FindLCM.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        <state relative-caret-position="103">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/MaximumOrMinimum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/test_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/FindPositionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/ProgrammersAlgorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/JavaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/NewBigNumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/Phonekemon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/Test_2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/FindPosition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/NewBigNum.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/MaximumOrMinimum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Integer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/NewBigNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/Phonekemon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/test_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/programas2016.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/FindLCMTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/FindPositionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
-          <caret line="1443" column="22" selection-start-line="1443" selection-start-column="22" selection-end-line="1443" selection-end-column="22" />
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/JavaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/NewBigNumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/MakeJadenCaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/MakeJadenCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/JumpIronsuitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/FindBigSquare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/JumpIronsuit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
         </state>
       </provider>
     </entry>

@@ -1,8 +1,8 @@
-package programas;
+package programas.clear;
 
 import org.junit.Test;
+import programas.clear.NewBigNum;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 import static org.assertj.core.api.Java6Assertions.assertThat;

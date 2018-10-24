@@ -1,4 +1,4 @@
-package programas;
+package programas.clear;
 /*
  *   두 수의 최소공배수(Least Common Multiple)란 입력된 두 수의 배수 중 공통이 되는 가장 작은 숫자를 의미합니다.
  *  예를 들어 2와 7의 최소공배수는 14가 됩니다.

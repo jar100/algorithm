@@ -1,4 +1,4 @@
-package programas;
+package programas.clear;
 
 public class NewBigNum {
 //    자연수 n이 주어졌을 때, n의 다음 큰 숫자는 다음과 같이 정의 합니다.
