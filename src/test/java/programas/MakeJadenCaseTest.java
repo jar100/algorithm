@@ -19,6 +19,6 @@ public class MakeJadenCaseTest {
         b = a.split(" ");
         System.out.println(Arrays.toString(b));
         assertThat(MakeJadenCase.solution(a)).isEqualTo("   Abs Aee");
-        assertThat(MakeJadenCase.solution("a a a    a a -a")).isEqualTo("A A A    A A -a");
+        assertThat(MakeJadenCase.solution("answer answer answer    answer answer -answer ")).isEqualTo("A A A    A A -answer ");
     }
 }
