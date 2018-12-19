@@ -1,4 +1,4 @@
-package programas.stockprices;
+package programas.clear.stockprices;
 
 public class StockPrices {
     public static int[] solution(int[] prices) {

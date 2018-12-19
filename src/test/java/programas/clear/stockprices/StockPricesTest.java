@@ -1,4 +1,4 @@
-package programas.stockprices;
+package programas.clear.stockprices;
 
 import org.junit.Test;
 
