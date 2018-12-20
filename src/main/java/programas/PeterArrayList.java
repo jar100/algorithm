@@ -33,6 +33,7 @@ public class PeterArrayList<E> implements DynamicArrayADT<E> {
         element[index] = value;
 
     }
+// 시간복잡도, 공간복잡도
 
     @Override
     public E get(int index) {

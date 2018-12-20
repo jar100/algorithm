@@ -2,30 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23586ee2-4605-423a-a2cc-a7fb8717802a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/programas/Baseball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programas/DynamicArrayADT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programas/KakaoTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programas/PeterArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programas/stockprices/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programas/stockprices/StockPrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/programas/BaseballTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/programas/DynamicArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/programas/IteratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/programas/KakaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/programas/stockprices/StockPricesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programas/numcountry/NumCountry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programas/numcountry/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/programas/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/programas/numcountry/NumCountryTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/JumpIronsuit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/JumpIronsuit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/JumpIronsuitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/JumpIronsuitTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/MakeJadenCaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/MakeJadenCaseTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/programas/JumpIronsuitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/JumpIronsuitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/programas/MakeJadenCaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/MakeJadenCaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/stockprices/StockPrices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/DynamicArrayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/DynamicArrayTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/stockprices/StockPricesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programas/PeterArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/PeterArrayList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,38 +45,39 @@
     <session id="-1804102672">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="21" />
-          <entry key="project.open.time.0" value="4" />
-          <entry key="project.open.time.1" value="13" />
+          <entry key="project.closed" value="24" />
+          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.1" value="14" />
           <entry key="project.open.time.2" value="5" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gradle" value="2" />
-          <entry key="java" value="94" />
-          <entry key="md" value="1" />
+          <entry key="java" value="101" />
+          <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="2" />
-          <entry key="JAVA" value="94" />
-          <entry key="Markdown" value="1" />
+          <entry key="JAVA" value="101" />
+          <entry key="Markdown" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="75" />
-          <entry key="java" value="9240" />
-          <entry key="md" value="39" />
+          <entry key="java" value="9549" />
+          <entry key="md" value="141" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9240" />
-          <entry key="Markdown" value="39" />
+          <entry key="JAVA" value="9549" />
+          <entry key="Markdown" value="141" />
           <entry key="PLAIN_TEXT" value="75" />
         </counts>
       </usages-collector>
@@ -100,14 +86,86 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/DynamicArrayADT.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programas/DynamicArrayTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="60" column="21" lean-forward="true" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/numcountry/NumCountry.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/programas/stockprices/README.md">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programas/numcountry/NumCountryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
+              <folding>
+                <element signature="e#1657#1658#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/numcountry/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="272">
-                <caret line="16" column="12" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="12" />
+              <first_editor relative-caret-position="306">
+                <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programas/BaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/PeterArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1054">
+              <caret line="70" selection-start-line="70" selection-end-line="70" />
             </state>
           </provider>
         </entry>
@@ -118,6 +176,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -470,13 +529,17 @@
         <option value="$PROJECT_DIR$/src/test/java/programas/BaseballTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/Baseball.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/DynamicArrayADT.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/PeterArrayList.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/JumpIronsuitTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/programas/DynamicArrayTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/stockprices/README.md" />
         <option value="$PROJECT_DIR$/src/test/java/programas/stockprices/Stockprices.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/stockprices/StockPricesTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/stockprices/StockPrices.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/PeterArrayList.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/DynamicArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/numcountry/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/numcountry/NumCountry.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/numcountry/NumCountryTest.java" />
       </list>
     </option>
   </component>
@@ -510,6 +573,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -550,7 +615,16 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="programas" type="462c0819:PsiDirectoryNode" />
-              <item name="stockprices" type="462c0819:PsiDirectoryNode" />
+              <item name="clear" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="programas" type="462c0819:PsiDirectoryNode" />
+              <item name="numcountry" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -580,22 +654,30 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="programas" type="462c0819:PsiDirectoryNode" />
-              <item name="stockprices" type="462c0819:PsiDirectoryNode" />
+              <item name="numcountry" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545212931899" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545310230430" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="programas.numcountry" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -609,7 +691,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StockPricesTest.solutionTest">
+  <component name="RunManager" selected="JUnit.NumCountryTest.test2">
     <configuration name="Unnamed" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -626,43 +708,11 @@
       </ExternalSystemSettings>
       <method v="2" />
     </configuration>
-    <configuration name="DynamicArrayTest.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programas.stockprices.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="programas" />
-      <option name="MAIN_CLASS_NAME" value="programas.DynamicArrayTest" />
-      <option name="METHOD_NAME" value="get" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DynamicArrayTest.remove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programas.stockprices.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="programas" />
-      <option name="MAIN_CLASS_NAME" value="programas.DynamicArrayTest" />
-      <option name="METHOD_NAME" value="remove" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="DynamicArrayTest.set" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programas.stockprices.*" />
+          <option name="PATTERN" value="programas.clear.stockprices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -678,7 +728,7 @@
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programas.stockprices.*" />
+          <option name="PATTERN" value="programas.clear.stockprices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -690,16 +740,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NumCountryTest.solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programas.numcountry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programas.numcountry" />
+      <option name="MAIN_CLASS_NAME" value="programas.numcountry.NumCountryTest" />
+      <option name="METHOD_NAME" value="solution" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumCountryTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programas.numcountry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programas.numcountry" />
+      <option name="MAIN_CLASS_NAME" value="programas.numcountry.NumCountryTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StockPricesTest.solutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programas.stockprices.*" />
+          <option name="PATTERN" value="programas.clear.stockprices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="programas.stockprices" />
-      <option name="MAIN_CLASS_NAME" value="programas.stockprices.StockPricesTest" />
+      <option name="PACKAGE_NAME" value="programas.clear.stockprices" />
+      <option name="MAIN_CLASS_NAME" value="programas.clear.stockprices.StockPricesTest" />
       <option name="METHOD_NAME" value="solutionTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -708,19 +790,19 @@
     </configuration>
     <list>
       <item itemvalue="Gradle.Unnamed" />
-      <item itemvalue="JUnit.DynamicArrayTest.get" />
       <item itemvalue="JUnit.DynamicArrayTest.set" />
-      <item itemvalue="JUnit.DynamicArrayTest.remove" />
       <item itemvalue="JUnit.JumpIronsuitTest.test" />
       <item itemvalue="JUnit.StockPricesTest.solutionTest" />
+      <item itemvalue="JUnit.NumCountryTest.solution" />
+      <item itemvalue="JUnit.NumCountryTest.test2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.NumCountryTest.test2" />
+        <item itemvalue="JUnit.NumCountryTest.solution" />
+        <item itemvalue="JUnit.DynamicArrayTest.set" />
         <item itemvalue="JUnit.StockPricesTest.solutionTest" />
         <item itemvalue="JUnit.JumpIronsuitTest.test" />
-        <item itemvalue="JUnit.DynamicArrayTest.remove" />
-        <item itemvalue="JUnit.DynamicArrayTest.set" />
-        <item itemvalue="JUnit.DynamicArrayTest.get" />
       </list>
     </recent_temporary>
   </component>
@@ -738,24 +820,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DynamicArrayTest_remove - 2018.12.01 at 15h 57m 34s.xml">
-      <configuration name="DynamicArrayTest.remove" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DynamicArrayTest_remove - 2018.12.01 at 16h 00m 36s.xml">
-      <configuration name="DynamicArrayTest.remove" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DynamicArrayTest_remove - 2018.12.01 at 16h 01m 47s.xml">
-      <configuration name="DynamicArrayTest.remove" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DynamicArrayTest_remove - 2018.12.01 at 16h 02m 07s.xml">
-      <configuration name="DynamicArrayTest.remove" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DynamicArrayTest_remove - 2018.12.01 at 16h 02m 37s.xml">
-      <configuration name="DynamicArrayTest.remove" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DynamicArrayTest_remove - 2018.12.01 at 16h 02m 57s.xml">
-      <configuration name="DynamicArrayTest.remove" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DynamicArrayTest_remove - 2018.12.01 at 16h 03m 02s.xml">
       <configuration name="DynamicArrayTest.remove" configurationId="JUnit" />
     </history-entry>
@@ -768,6 +832,24 @@
     <history-entry file="StockPricesTest_solutionTest - 2018.12.19 at 18h 40m 20s.xml">
       <configuration name="StockPricesTest.solutionTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="DynamicArrayTest_set - 2018.12.20 at 15h 06m 54s.xml">
+      <configuration name="DynamicArrayTest.set" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DynamicArrayTest_set - 2018.12.20 at 15h 07m 38s.xml">
+      <configuration name="DynamicArrayTest.set" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumCountryTest_solution - 2018.12.20 at 20h 09m 40s.xml">
+      <configuration name="NumCountryTest.solution" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumCountryTest_solution - 2018.12.20 at 21h 46m 41s.xml">
+      <configuration name="NumCountryTest.solution" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumCountryTest_solution - 2018.12.20 at 21h 47m 06s.xml">
+      <configuration name="NumCountryTest.solution" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumCountryTest_solution - 2018.12.20 at 21h 48m 57s.xml">
+      <configuration name="NumCountryTest.solution" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -779,11 +861,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3395973" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.35436243" />
+      <window_info id="Structure" order="1" sideWeight="0.50142044" side_tool="true" weight="0.35436243" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -791,13 +873,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32954547" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.328125" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39914772" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32954547" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32907802" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32765958" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.32954547" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32954547" />
@@ -993,13 +1075,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/PeterArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1700">
@@ -1007,27 +1082,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/DynamicArrayADT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/programas/BaseballTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
           <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/DynamicArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-434">
-          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1064,30 +1122,95 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/stockprices/StockPricesTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/stockprices/StockPricesTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="66" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/stockprices/StockPrices.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/stockprices/StockPrices.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="17" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/stockprices/README.md">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/stockprices/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="272">
             <caret line="16" column="12" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="12" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/DynamicArrayADT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/PeterArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/numcountry/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="306">
+            <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/DynamicArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="60" column="21" lean-forward="true" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#1657#1658#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/numcountry/NumCountry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/numcountry/NumCountryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
         </state>
       </provider>
     </entry>
