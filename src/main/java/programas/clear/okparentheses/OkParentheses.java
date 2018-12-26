@@ -1,6 +1,4 @@
-package programas.okparentheses;
-
-import java.util.Stack;
+package programas.clear.okparentheses;
 
 public class OkParentheses {
     public static boolean solution(String s) {
