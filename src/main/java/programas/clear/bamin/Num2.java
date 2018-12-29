@@ -1,6 +1,4 @@
-package programas.bamin;
-
-import javafx.scene.control.Separator;
+package programas.clear.bamin;
 
 import java.util.*;
 

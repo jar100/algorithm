@@ -1,4 +1,4 @@
-package programas.bamin;
+package programas.clear.bamin;
 
 public class Num4 {
     static int solution(int[] A, int X) {

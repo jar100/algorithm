@@ -1,9 +1,7 @@
-package programas.bamin;
+package programas.clear.bamin;
 
 import org.junit.Test;
 import programas.BaseTest;
-
-import static org.junit.Assert.*;
 
 public class Num4Test extends BaseTest {
 

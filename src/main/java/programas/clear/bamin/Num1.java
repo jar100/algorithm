@@ -1,4 +1,4 @@
-package programas.bamin;
+package programas.clear.bamin;
 
 public class Num1 {
     public static int solution(String s) {

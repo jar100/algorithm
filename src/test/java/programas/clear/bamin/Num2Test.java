@@ -1,8 +1,6 @@
-package programas.bamin;
+package programas.clear.bamin;
 
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 public class Num2Test {
 
