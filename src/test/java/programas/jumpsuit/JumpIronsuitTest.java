@@ -1,4 +1,4 @@
-package programas;
+package programas.jumpsuit;
 
 import org.junit.Test;
 
@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import static org.assertj.core.api.Java6Assertions.assertThat;
+import static org.junit.Assert.*;
 
 public class JumpIronsuitTest {
     @Test
@@ -16,15 +17,4 @@ public class JumpIronsuitTest {
         assertThat(jumpIronsuit.solution(5000)).isEqualTo(5);
     }
 
-    @Test
-    public void test() {
-
-        List<String> a = new ArrayList<>();
-        a.add("aaa");
-        a.add("bbbb");
-        String b = a.get(0);
-        String c = a.get(0);
-        assertThat(b==c).isTrue();
-
-    }
 }

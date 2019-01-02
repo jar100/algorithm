@@ -11,6 +11,6 @@ public class Num4Test extends BaseTest {
         softly.assertThat(Num4.solution(new int[]{1, 4, 10, 15},15)).isEqualTo(3);
         softly.assertThat(Num4.solution(new int[]{1, 4, 10, 15,22},22)).isEqualTo(4);
         softly.assertThat(Num4.solution(new int[]{1, 4, 10, 15,22},4)).isEqualTo(1);
-        softly.assertThat(Num4.solution(new int[]{1, 4, 10, 15,22},1)).isEqualTo(0);
+        softly.assertThat(Num4.solution(new int[]{1, 4, 10, 15,22},3)).isEqualTo(-1);
     }
 }

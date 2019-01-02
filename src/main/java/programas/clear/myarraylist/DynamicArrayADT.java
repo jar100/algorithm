@@ -1,4 +1,4 @@
-package programas;
+package programas.clear.myarraylist;
 
 public interface DynamicArrayADT<E> {
     int size();
