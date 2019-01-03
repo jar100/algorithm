@@ -1,4 +1,4 @@
-package programas.jumpsuit;
+package programas.clear.jumpsuit;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -18,6 +18,20 @@ public class JumpIronsuit {
         }
         return Collections.min(result);
     }
+
+    public int solution2(int n) {
+        int sub = 1;
+        int ans = 0;
+        while(n != 0){
+            if(n % 2 == 1){
+                n -= sub;
+                ans += 1;
+            }
+            n /= 2;
+        }
+        return ans;
+    }
+
     class Jumpsuit {
         int battery = 0;
         int moveingPoint = 0;
