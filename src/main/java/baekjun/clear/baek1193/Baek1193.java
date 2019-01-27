@@ -1,4 +1,4 @@
-package programas.baek1193;
+package baekjun.clear.baek1193;
 
 import java.util.ArrayList;
 import java.util.List;
