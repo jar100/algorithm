@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23586ee2-4605-423a-a2cc-a7fb8717802a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/programas/kakao/kakaoEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programas/test/kakaoEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programas/test/kakaoEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programas/test/kakaoEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programas/test/kakaoEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/programas/kakao/kakaoEx1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/programas/test/kakaoEx2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/programas/test/kakaoEx3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/programas/test/kakaoEx4Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/programas/test/kakaoTestEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programas/baek1015/Baek1015.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/baek1015/Baek1015.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/programas/baek1015/Baek1015Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/baek1015/Baek1015Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,6 +22,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/algorithm$kakaoEx4Test_solution.ic" NAME="kakaoEx4Test.solution Coverage Results" MODIFIED="1548917877535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>programas.test.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/algorithm$CrossingBridgeTest_solution.ic" NAME="CrossingBridgeTest.solution Coverage Results" MODIFIED="1546513057418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>programas.crossingbridge.*</FILTER>
     </SUITE>
@@ -53,9 +64,9 @@
     <session id="-1804102672">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="41" />
+          <entry key="project.closed" value="42" />
           <entry key="project.open.time.0" value="11" />
-          <entry key="project.open.time.1" value="19" />
+          <entry key="project.open.time.1" value="20" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.17" value="1" />
@@ -65,33 +76,33 @@
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="45" />
+          <entry key="project.opened" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gradle" value="2" />
-          <entry key="java" value="190" />
+          <entry key="java" value="211" />
           <entry key="md" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="2" />
-          <entry key="JAVA" value="190" />
+          <entry key="JAVA" value="211" />
           <entry key="Markdown" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="75" />
-          <entry key="java" value="19476" />
+          <entry key="java" value="22735" />
           <entry key="md" value="1486" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="19476" />
+          <entry key="JAVA" value="22735" />
           <entry key="Markdown" value="1486" />
           <entry key="PLAIN_TEXT" value="75" />
         </counts>
@@ -101,11 +112,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/programas/baek1015/Baek1015.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/test/kakaoEx1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+            <state relative-caret-position="374">
+              <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/test/kakaoEx3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,10 +134,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/programas/baek1015/Baek1015Test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/test/kakaoEx4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="28" column="95" selection-start-line="28" selection-start-column="94" selection-end-line="28" selection-end-column="95" />
+            <state relative-caret-position="-595">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programas/test/kakaoEx4Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programas/test/kakaoEx2Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programas/test/kakaoTestEx.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -443,20 +493,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/programas/okparentheses/OkParenthesesTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/programas/baek1193/Baek1193Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/baek1193/Baek1193.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/baek1193/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/okparentheses/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/okparentheses/OkParentheses.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/clear/okparentheses/OkParentheses.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/bamin/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/bamin/Num1.java" />
-        <option value="$PROJECT_DIR$/src/test/java/programas/bamin/Num1Test.java" />
-        <option value="$PROJECT_DIR$/src/test/java/programas/bamin/Num2Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/bamin/Num2.java" />
-        <option value="$PROJECT_DIR$/src/test/java/programas/bamin/Num4Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/bamin/Num4.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/bamin/Num3Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/bamin/Num3.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/clear/bamin/README.md" />
@@ -494,8 +530,28 @@
         <option value="$PROJECT_DIR$/src/test/java/programas/baek1015/baek1015Test.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/baek1015/Baek1015Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/baek1015/Baek1015.java" />
+        <option value="$PROJECT_DIR$/src/main/java/baekjun/clear/baek1015/Baek1015.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/kakao/kakaoExTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/kakao/kakaoEx.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/test/kakaoTestTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/test/kakaoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/test/kakaoEx.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/test/kakaoTestEx.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/test/kakaoEx2Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/test/kakaoEx2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/test/kakaoEx3Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/test/kakaoEx3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/test/kakaoEx1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/test/kakaoEx4.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/test/kakaoEx4Test.java" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="810" />
@@ -530,8 +586,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -572,7 +627,7 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="programas" type="462c0819:PsiDirectoryNode" />
-              <item name="baek1015" type="462c0819:PsiDirectoryNode" />
+              <item name="clear" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -581,7 +636,8 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="programas" type="462c0819:PsiDirectoryNode" />
-              <item name="onemore" type="462c0819:PsiDirectoryNode" />
+              <item name="clear" type="462c0819:PsiDirectoryNode" />
+              <item name="crossingbridge" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -590,8 +646,18 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="programas" type="462c0819:PsiDirectoryNode" />
-              <item name="onemore" type="462c0819:PsiDirectoryNode" />
-              <item name="Ironrod" type="462c0819:PsiDirectoryNode" />
+              <item name="clear" type="462c0819:PsiDirectoryNode" />
+              <item name="crossingbridge" type="462c0819:PsiDirectoryNode" />
+              <item name="CrossingBridge.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="programas" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -637,25 +703,27 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/jar10/Documents/codesquad/workspace/algorithm/src/test/java/programas/bamin/Num3Test.java" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548559918129" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548922467830" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="programas.test" />
+      <recent name="programas.kakao" />
       <recent name="programas.baek1015" />
       <recent name="programas.morehot" />
       <recent name="programas.Ironrod" />
-      <recent name="programas.printer" />
-      <recent name="programas.operationdevelopment" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -673,20 +741,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Baek1015Test.solution">
-    <configuration name="Baek1015" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programas.baek1015.Baek1015" />
-      <module name="algorithm_main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programas.baek1015.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.kakaoEx4Test.solution">
     <configuration name="Unnamed" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -707,60 +762,76 @@
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programas.baek1015.*" />
+          <option name="PATTERN" value="baekjun.clear.baek1015.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="programas.baek1015" />
-      <option name="MAIN_CLASS_NAME" value="programas.baek1015.Baek1015Test" />
+      <option name="PACKAGE_NAME" value="baekjun.clear.baek1015" />
+      <option name="MAIN_CLASS_NAME" value="baekjun.clear.baek1015.Baek1015Test" />
       <option name="METHOD_NAME" value="solution" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IronRodTest.solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="kakaoEx1Test.solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programas.onemore.Ironrod.*" />
+          <option name="PATTERN" value="programas.kakao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="programas.onemore.Ironrod" />
-      <option name="MAIN_CLASS_NAME" value="programas.onemore.Ironrod.IronRodTest" />
+      <option name="PACKAGE_NAME" value="programas.kakao" />
+      <option name="MAIN_CLASS_NAME" value="programas.kakao.kakaoEx1Test" />
       <option name="METHOD_NAME" value="solution" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IronRodTest.solutionOthers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="kakaoEx3Test.solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programas.onemore.Ironrod.*" />
+          <option name="PATTERN" value="programas.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="programas.onemore.Ironrod" />
-      <option name="MAIN_CLASS_NAME" value="programas.onemore.Ironrod.IronRodTest" />
-      <option name="METHOD_NAME" value="solutionOthers" />
+      <option name="PACKAGE_NAME" value="programas.test" />
+      <option name="MAIN_CLASS_NAME" value="programas.test.kakaoEx3Test" />
+      <option name="METHOD_NAME" value="solution" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoreHotTest.solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="kakaoEx4Test.solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programas.clear.morehot.*" />
+          <option name="PATTERN" value="programas.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="programas.clear.morehot" />
-      <option name="MAIN_CLASS_NAME" value="programas.clear.morehot.MoreHotTest" />
+      <option name="PACKAGE_NAME" value="programas.test" />
+      <option name="MAIN_CLASS_NAME" value="programas.test.kakaoEx4Test" />
+      <option name="METHOD_NAME" value="solution" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kakaoTestEx.solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programas.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programas.test" />
+      <option name="MAIN_CLASS_NAME" value="programas.test.kakaoTestEx" />
       <option name="METHOD_NAME" value="solution" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -769,19 +840,19 @@
     </configuration>
     <list>
       <item itemvalue="Gradle.Unnamed" />
-      <item itemvalue="JUnit.IronRodTest.solution" />
-      <item itemvalue="JUnit.IronRodTest.solutionOthers" />
-      <item itemvalue="JUnit.MoreHotTest.solution" />
       <item itemvalue="JUnit.Baek1015Test.solution" />
-      <item itemvalue="Application.Baek1015" />
+      <item itemvalue="JUnit.kakaoEx1Test.solution" />
+      <item itemvalue="JUnit.kakaoTestEx.solution" />
+      <item itemvalue="JUnit.kakaoEx3Test.solution" />
+      <item itemvalue="JUnit.kakaoEx4Test.solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.kakaoEx4Test.solution" />
+        <item itemvalue="JUnit.kakaoEx3Test.solution" />
+        <item itemvalue="JUnit.kakaoTestEx.solution" />
+        <item itemvalue="JUnit.kakaoEx1Test.solution" />
         <item itemvalue="JUnit.Baek1015Test.solution" />
-        <item itemvalue="Application.Baek1015" />
-        <item itemvalue="JUnit.MoreHotTest.solution" />
-        <item itemvalue="JUnit.IronRodTest.solution" />
-        <item itemvalue="JUnit.IronRodTest.solutionOthers" />
       </list>
     </recent_temporary>
   </component>
@@ -799,35 +870,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Baek1015Test_solution - 2019.01.27 at 10h 46m 58s.xml">
-      <configuration name="Baek1015Test.solution" configurationId="JUnit" />
+    <history-entry file="kakaoEx4Test_solution - 2019.01.31 at 16h 05m 21s.xml">
+      <configuration name="kakaoEx4Test.solution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Baek1015Test_solution - 2019.01.27 at 10h 47m 16s.xml">
-      <configuration name="Baek1015Test.solution" configurationId="JUnit" />
+    <history-entry file="kakaoEx4Test_solution - 2019.01.31 at 16h 08m 49s.xml">
+      <configuration name="kakaoEx4Test.solution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Baek1015Test_solution - 2019.01.27 at 10h 48m 16s.xml">
-      <configuration name="Baek1015Test.solution" configurationId="JUnit" />
+    <history-entry file="kakaoEx4Test_solution - 2019.01.31 at 16h 09m 48s.xml">
+      <configuration name="kakaoEx4Test.solution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Baek1015Test_solution - 2019.01.27 at 10h 52m 20s.xml">
-      <configuration name="Baek1015Test.solution" configurationId="JUnit" />
+    <history-entry file="kakaoEx4Test_solution - 2019.01.31 at 16h 16m 08s.xml">
+      <configuration name="kakaoEx4Test.solution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Baek1015Test_solution - 2019.01.27 at 11h 37m 10s.xml">
-      <configuration name="Baek1015Test.solution" configurationId="JUnit" />
+    <history-entry file="kakaoEx4Test_solution - 2019.01.31 at 16h 16m 16s.xml">
+      <configuration name="kakaoEx4Test.solution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Baek1015Test_solution - 2019.01.27 at 11h 40m 50s.xml">
-      <configuration name="Baek1015Test.solution" configurationId="JUnit" />
+    <history-entry file="kakaoEx4Test_solution - 2019.01.31 at 16h 22m 20s.xml">
+      <configuration name="kakaoEx4Test.solution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Baek1015Test_solution - 2019.01.27 at 12h 18m 19s.xml">
-      <configuration name="Baek1015Test.solution" configurationId="JUnit" />
+    <history-entry file="kakaoEx4Test_solution - 2019.01.31 at 16h 22m 25s.xml">
+      <configuration name="kakaoEx4Test.solution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Baek1015Test_solution - 2019.01.27 at 12h 19m 59s.xml">
-      <configuration name="Baek1015Test.solution" configurationId="JUnit" />
+    <history-entry file="kakaoEx4Test_solution - 2019.01.31 at 17h 00m 35s.xml">
+      <configuration name="kakaoEx4Test.solution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Baek1015Test_solution - 2019.01.27 at 12h 20m 12s.xml">
-      <configuration name="Baek1015Test.solution" configurationId="JUnit" />
+    <history-entry file="kakaoEx4Test_solution - 2019.01.31 at 17h 01m 49s.xml">
+      <configuration name="kakaoEx4Test.solution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Baek1015Test_solution - 2019.01.27 at 12h 27m 02s.xml">
-      <configuration name="Baek1015Test.solution" configurationId="JUnit" />
+    <history-entry file="kakaoEx4Test_solution - 2019.01.31 at 17h 08m 43s.xml">
+      <configuration name="kakaoEx4Test.solution" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -843,7 +914,38 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.21006711" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.21275167" />
+      <window_info id="Structure" order="1" sideWeight="0.50142044" side_tool="true" weight="0.35436243" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.50852275" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39914772" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32954547" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.30539772" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.32954547" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32954547" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49857953" weight="0.24966443" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" sideWeight="0.49857953" weight="0.3295302" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" sideWeight="0.4971591" weight="0.3295302" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.50284094" side_tool="true" weight="0.3295302" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.21275167" />
       <window_info id="Structure" order="1" sideWeight="0.50142044" side_tool="true" weight="0.35436243" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -872,7 +974,7 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3295302" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -886,10 +988,22 @@
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/programas/kakao/kakaoEx.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/programas/test/kakaoEx4.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/programas/baek1015/Baek1015.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/baekjun/clear/baek1015/Baek1015.java</url>
           <line>8</line>
-          <properties class="programas.baek1015.Baek1015" method="main">
+          <properties class="baekjun.clear.baek1015.Baek1015" method="main">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="3" />
@@ -922,84 +1036,7 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/bamin/Num3/md.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/stockprices/StockPricesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/bamin/Num3Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/bamin/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="357">
-            <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/Baseball.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/myarraylist/DynamicArrayADT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/bamin/Num2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/myarraylist/PeterArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/FindBigSquare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/bamin/Num2Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/baek1193/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="17">
-            <caret line="1" selection-start-line="1" selection-end-line="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/baek1193/Baek1193.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekjun/clear/baek1193/Baek1193.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
@@ -1056,13 +1093,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="141" selection-start-line="141" selection-end-line="141" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="370" selection-start-line="370" selection-end-line="370" />
         </state>
       </provider>
     </entry>
@@ -1129,13 +1159,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/operationdevelopment/operateiondevelopmentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1175,13 +1198,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/crossingbridge/CrossingBridge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -1274,17 +1290,128 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/baek1015/Baek1015Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekjun/clear/baek1015/Baek1015.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="28" column="95" selection-start-line="28" selection-start-column="94" selection-end-line="28" selection-end-column="95" />
+        <state relative-caret-position="442">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/baek1015/Baek1015.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/baekjun/clear/baek1015/Baek1015Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+        <state relative-caret-position="425">
+          <caret line="26" column="95" selection-start-line="26" selection-start-column="94" selection-end-line="26" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="327" selection-start-line="327" selection-end-line="327" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/kakao/kakaoEx1Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="67" selection-start-line="13" selection-start-column="67" selection-end-line="13" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/Baseball.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="19" column="4" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/kakao/kakaoEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/test/kakaoEx2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding>
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/test/kakaoEx3Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/crossingbridge/CrossingBridge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/test/kakaoTestEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/test/kakaoEx2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/test/kakaoEx1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/test/kakaoEx3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/test/kakaoEx4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-595">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/test/kakaoEx4Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
