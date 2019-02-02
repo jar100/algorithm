@@ -2,22 +2,26 @@ package programas.test;
 
 import java.util.*;
 
-public class kakaoEx4 {
+public class KakaoEx4 {
     public int solution(int K, String[] user_scores) {
         Stack<User> rank = new Stack<>();
+        List<User> oldRank = new ArrayList<>();
         int answer = 0;
 
         for (String user_score : user_scores) {
             String[] parseBlank = user_score.split(" ");
-            answer += makeRankingBoard(K, rank, new User(parseBlank[0],Integer.parseInt(parseBlank[1])));
+
+            makeNewRanking(K, rank, new User(parseBlank[0],Integer.parseInt(parseBlank[1])));
+
+            if (!oldRank.equals(rank)) {
+                answer++;
+            }
+            oldRank = new ArrayList<>(rank);
         }
         return answer;
     }
 
-    private int makeRankingBoard(int K, Stack<User> rank, User target) {
-        List<User> oldRank = new ArrayList<>(rank);
-        int answer = 0;
-
+    private void makeNewRanking(int K, Stack<User> rank, User target) {
         if (rank.contains(target)) {
             rank.get(rank.indexOf(target)).newScore(target);
         } else if (rank.size() < K) {
@@ -26,12 +30,7 @@ public class kakaoEx4 {
             rank.pop();
             rank.add(target);
         }
-
         compareUser(rank);
-        if (!oldRank.equals(rank)) {
-            answer++;
-        }
-        return answer;
     }
 
     private void compareUser(List<User> rank) {
