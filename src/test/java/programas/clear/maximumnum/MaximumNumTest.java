@@ -48,4 +48,8 @@ public class MaximumNumTest extends BaseTest {
     public void solution5() {
         softly.assertThat(maximumNum.solution(new int[]{6, 10, 2})).isEqualTo("6210");
     }
+    @Test
+    public void solution6() {
+        softly.assertThat(maximumNum.solution(new int[]{0, 0, 0})).isEqualTo("0");
+    }
 }
