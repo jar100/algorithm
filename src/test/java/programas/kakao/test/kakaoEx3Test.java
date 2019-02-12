@@ -1,4 +1,4 @@
-package programas.test;
+package programas.kakao.test;
 
 import org.junit.Test;
 import programas.BaseTest;

@@ -1,4 +1,4 @@
-package programas.test;
+package programas.kakao.test;
 
 public class kakaoEx2 {
         public int solution(String[] moves) {

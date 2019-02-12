@@ -1,8 +1,6 @@
-package programas.test;
+package programas.kakao.test;
 
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 public class kakaoEx2Test {
 

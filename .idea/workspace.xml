@@ -2,8 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23586ee2-4605-423a-a2cc-a7fb8717802a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/programas/bestalbum/BestAlbum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programas/clear/bestalbum/BestAlbum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programas/clear/notfinishrun/NotFinishRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/programas/clear/bestalbum/BestAlbumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/programas/clear/notfinishrun/NotFinishRunTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/camouflage/Camouflage$Category.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/camouflage/Camouflage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/camouflage/CamouflageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programas/bestalbum/BestAlbum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programas/clear/test_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/clear/test_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programas/test/KakaoEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/kakao/test/KakaoEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programas/test/KakaoEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/kakao/test/KakaoEx3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programas/test/KakaoEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/kakao/test/KakaoEx4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programas/test/KakaoEx5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/kakao/test/KakaoEx5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programas/test/kakaoEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/kakao/test/kakaoEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/test/KakaoEx4Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/kakao/test/KakaoEx4Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/test/kakaoEx2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/kakao/test/kakaoEx2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/test/kakaoEx3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/kakao/test/kakaoEx3Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/test/kakaoTestEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/kakao/test/kakaoTestEx.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,11 +72,12 @@
     <session id="-1804102672">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="45" />
+          <entry key="project.closed" value="46" />
           <entry key="project.open.time.0" value="11" />
           <entry key="project.open.time.1" value="21" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.19" value="1" />
@@ -68,33 +86,33 @@
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="50" />
+          <entry key="project.opened" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gradle" value="3" />
-          <entry key="java" value="236" />
+          <entry key="java" value="243" />
           <entry key="md" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="3" />
-          <entry key="JAVA" value="236" />
+          <entry key="JAVA" value="243" />
           <entry key="Markdown" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="75" />
-          <entry key="java" value="26966" />
+          <entry key="java" value="27855" />
           <entry key="md" value="1486" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="26966" />
+          <entry key="JAVA" value="27855" />
           <entry key="Markdown" value="1486" />
           <entry key="PLAIN_TEXT" value="75" />
         </counts>
@@ -105,85 +123,42 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/camouflage/Camouflage.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/bestalbum/BestAlbumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="19" selection-start-line="2" selection-end-line="2" selection-end-column="19" />
-              <folding>
-                <element signature="e#855#856#0" expanded="true" />
-                <element signature="e#901#902#0" expanded="true" />
-                <element signature="e#1060#1061#0" expanded="true" />
-                <element signature="e#1095#1096#0" expanded="true" />
-                <element signature="e#1487#1488#0" expanded="true" />
-                <element signature="e#1539#1540#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/maximumnum/MaximumNum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="50" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/morehot/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="221">
-                <caret line="13" selection-start-line="13" selection-end-line="13" />
-              </first_editor>
-              <second_editor />
+            <state relative-caret-position="170">
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/programas/bestalbum/BestAlbum.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/notfinishrun/NotFinishRun.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
-              <folding>
-                <element signature="e#1206#1207#0" expanded="true" />
-                <element signature="e#1250#1251#0" expanded="true" />
-                <element signature="e#1058#1059#0" expanded="true" />
-                <element signature="e#1093#1094#0" expanded="true" />
-                <element signature="e#1134#1135#0" expanded="true" />
-                <element signature="e#1214#1215#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/HashSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="634">
-              <caret line="165" column="55" lean-forward="true" selection-start-line="165" selection-start-column="55" selection-end-line="165" selection-end-column="55" />
-              <folding>
-                <element signature="e#3740#3741#0" expanded="true" />
-                <element signature="e#3777#3778#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/camouflage/CamouflageTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="160">
+              <caret line="43" column="5" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#260#261#0" expanded="true" />
-                <element signature="e#304#305#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/HashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="1056" column="41" selection-start-line="1056" selection-start-column="41" selection-end-line="1056" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/notfinishrun/NotFinishRunTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="19" column="77" selection-start-line="19" selection-start-column="77" selection-end-line="19" selection-end-column="77" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -195,8 +170,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -512,11 +487,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/programas/clear/crossingbridge/CrossingBridge.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/crossingbridge/CrossingBridge.java" />
-        <option value="$PROJECT_DIR$/src/test/java/programas/crossingbridge/CrossingBridgeTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/programas/clear/crossingbridge/CrossingBridgeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/operationdevelopment/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/programas/operationdevelopment/operateiondevelopment.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/operationdevelopment/operateiondevelopmentTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/clear/jumpsuit/JumpIronsuit.java" />
@@ -562,7 +532,12 @@
         <option value="$PROJECT_DIR$/src/main/java/programas/camouflage/Camouflage.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/camouflage/CamouflageTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/clear/camouflage/Camouflage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/bestalbum/BestAlbumTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/bestalbum/BestAlbum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/clear/test_1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/notfinishrun/NotFinishRunTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/notfinishrun/NotFinishRun.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/clear/notfinishrun/NotFinishRun.java" />
       </list>
     </option>
   </component>
@@ -573,9 +548,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="810" />
-    <option name="width" value="980" />
-    <option name="height" value="1030" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -605,7 +581,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -638,15 +615,6 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="programas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="programas" type="462c0819:PsiDirectoryNode" />
-              <item name="clear" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -692,13 +660,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Stack.java&#10;stack&#9;PSI&#9;JAVA://java.util.Stack" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549810435519" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549981361630" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="extract.method.default.visibility" value="private" />
@@ -709,11 +676,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="programas.notfinishrun" />
+      <recent name="programas.bestalbum" />
       <recent name="programas.camouflage" />
       <recent name="programas.clear.maximumnum" />
       <recent name="programas.test" />
-      <recent name="programas.kakao" />
-      <recent name="programas.baek1015" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -731,7 +698,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CamouflageTest.solution2">
+  <component name="RunManager" selected="JUnit.NotFinishRunTest">
     <configuration name="Unnamed" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -747,6 +714,22 @@
         <option name="vmOptions" value="" />
       </ExternalSystemSettings>
       <method v="2" />
+    </configuration>
+    <configuration name="BestAlbumTest.solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programas.clear.bestalbum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programas.clear.bestalbum" />
+      <option name="MAIN_CLASS_NAME" value="programas.clear.bestalbum.BestAlbumTest" />
+      <option name="METHOD_NAME" value="solution" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="CamouflageTest.solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
@@ -794,53 +777,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumNumTest.solution1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NotFinishRunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programas.clear.maximumnum.*" />
+          <option name="PATTERN" value="programas.clear.notfinishrun.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="programas.clear.maximumnum" />
-      <option name="MAIN_CLASS_NAME" value="programas.clear.maximumnum.MaximumNumTest" />
-      <option name="METHOD_NAME" value="solution1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaximumNumTest.solution6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programas.clear.maximumnum.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="programas.clear.maximumnum" />
-      <option name="MAIN_CLASS_NAME" value="programas.clear.maximumnum.MaximumNumTest" />
-      <option name="METHOD_NAME" value="solution6" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="programas.clear.notfinishrun" />
+      <option name="MAIN_CLASS_NAME" value="programas.clear.notfinishrun.NotFinishRunTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Gradle.Unnamed" />
-      <item itemvalue="JUnit.MaximumNumTest.solution1" />
-      <item itemvalue="JUnit.MaximumNumTest.solution6" />
       <item itemvalue="JUnit.MaximumNumTest" />
       <item itemvalue="JUnit.CamouflageTest.solution" />
       <item itemvalue="JUnit.CamouflageTest.solution2" />
+      <item itemvalue="JUnit.BestAlbumTest.solution" />
+      <item itemvalue="JUnit.NotFinishRunTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.NotFinishRunTest" />
+        <item itemvalue="JUnit.BestAlbumTest.solution" />
         <item itemvalue="JUnit.CamouflageTest.solution2" />
         <item itemvalue="JUnit.CamouflageTest.solution" />
         <item itemvalue="JUnit.MaximumNumTest" />
-        <item itemvalue="JUnit.MaximumNumTest.solution6" />
-        <item itemvalue="JUnit.MaximumNumTest.solution1" />
       </list>
     </recent_temporary>
   </component>
@@ -858,35 +823,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CamouflageTest_solution - 2019.02.09 at 19h 27m 22s.xml">
-      <configuration name="CamouflageTest.solution" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CamouflageTest_solution - 2019.02.09 at 19h 27m 37s.xml">
-      <configuration name="CamouflageTest.solution" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CamouflageTest_solution - 2019.02.09 at 19h 43m 46s.xml">
-      <configuration name="CamouflageTest.solution" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CamouflageTest_solution - 2019.02.09 at 19h 44m 08s.xml">
-      <configuration name="CamouflageTest.solution" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CamouflageTest_solution - 2019.02.09 at 19h 45m 21s.xml">
-      <configuration name="CamouflageTest.solution" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CamouflageTest_solution - 2019.02.09 at 19h 46m 10s.xml">
-      <configuration name="CamouflageTest.solution" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CamouflageTest_solution - 2019.02.09 at 19h 46m 46s.xml">
-      <configuration name="CamouflageTest.solution" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CamouflageTest_solution - 2019.02.09 at 19h 47m 01s.xml">
-      <configuration name="CamouflageTest.solution" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CamouflageTest_solution - 2019.02.09 at 19h 49m 30s.xml">
       <configuration name="CamouflageTest.solution" configurationId="JUnit" />
     </history-entry>
     <history-entry file="CamouflageTest_solution2 - 2019.02.09 at 20h 16m 37s.xml">
       <configuration name="CamouflageTest.solution2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BestAlbumTest_solution - 2019.02.11 at 00h 07m 29s.xml">
+      <configuration name="BestAlbumTest.solution" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BestAlbumTest_solution - 2019.02.11 at 00h 10m 04s.xml">
+      <configuration name="BestAlbumTest.solution" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BestAlbumTest_solution - 2019.02.11 at 00h 10m 22s.xml">
+      <configuration name="BestAlbumTest.solution" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BestAlbumTest_solution - 2019.02.11 at 00h 11m 00s.xml">
+      <configuration name="BestAlbumTest.solution" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BestAlbumTest_solution - 2019.02.11 at 00h 11m 20s.xml">
+      <configuration name="BestAlbumTest.solution" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NotFinishRunTest - 2019.02.12 at 22h 33m 41s.xml">
+      <configuration name="NotFinishRunTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NotFinishRunTest - 2019.02.12 at 22h 34m 13s.xml">
+      <configuration name="NotFinishRunTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NotFinishRunTest - 2019.02.12 at 22h 40m 45s.xml">
+      <configuration name="NotFinishRunTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -900,9 +865,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.22483222" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.22818792" />
       <window_info id="Structure" order="1" sideWeight="0.50142044" side_tool="true" weight="0.35436243" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -911,13 +875,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.50852275" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.50852275" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39914772" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32954547" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.30539772" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.30539772" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.32954547" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32954547" />
@@ -987,54 +951,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/operationdevelopment/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="17">
-            <caret line="1" column="21" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/jumpsuit/JumpIronsuitTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/jumpsuit/JumpIronsuit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/operationdevelopment/operateiondevelopmentTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/operationdevelopment/Operateiondevelopment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/onemore/printer/Printer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/programas/DynamicArrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1159,7 +1075,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/test/kakaoEx2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/kakao/test/kakaoEx2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
@@ -1170,7 +1086,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/test/kakaoEx2Test.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/kakao/test/kakaoEx2Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
@@ -1198,7 +1114,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/test/KakaoEx4Test.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/kakao/test/KakaoEx4Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
@@ -1208,14 +1124,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/test/kakaoTestEx.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/kakao/test/kakaoTestEx.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/test/KakaoEx1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/kakao/test/KakaoEx1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
@@ -1243,14 +1159,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/test/KakaoEx3.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/kakao/test/KakaoEx3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/test/KakaoEx5.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/kakao/test/KakaoEx5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
@@ -1285,14 +1201,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/test/kakaoEx3Test.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/kakao/test/kakaoEx3Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/test/KakaoEx4.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/kakao/test/KakaoEx4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
@@ -1333,29 +1249,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="634">
-          <caret line="165" column="55" lean-forward="true" selection-start-line="165" selection-start-column="55" selection-end-line="165" selection-end-column="55" />
-          <folding>
-            <element signature="e#3740#3741#0" expanded="true" />
-            <element signature="e#3777#3778#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/camouflage/CamouflageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/morehot/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1370,38 +1263,84 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="50" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="165" column="55" selection-start-line="165" selection-start-column="55" selection-end-line="165" selection-end-column="55" />
+          <folding>
+            <element signature="e#3740#3741#0" expanded="true" />
+            <element signature="e#3777#3778#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/lotto/lotto/domain/Lotto.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/bestalbum/BestAlbum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/test_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/camouflage/Camouflage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/camouflage/CamouflageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/camouflage/Camouflage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/bestalbum/BestAlbumTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="19" selection-start-line="2" selection-end-line="2" selection-end-column="19" />
+        <state relative-caret-position="170">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/notfinishrun/NotFinishRunTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="19" column="77" selection-start-line="19" selection-start-column="77" selection-end-line="19" selection-end-column="77" />
           <folding>
-            <element signature="e#855#856#0" expanded="true" />
-            <element signature="e#901#902#0" expanded="true" />
-            <element signature="e#1060#1061#0" expanded="true" />
-            <element signature="e#1095#1096#0" expanded="true" />
-            <element signature="e#1487#1488#0" expanded="true" />
-            <element signature="e#1539#1540#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/bestalbum/BestAlbum.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        <state relative-caret-position="191">
+          <caret line="1056" column="41" selection-start-line="1056" selection-start-column="41" selection-end-line="1056" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/notfinishrun/NotFinishRun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
           <folding>
-            <element signature="e#1206#1207#0" expanded="true" />
-            <element signature="e#1250#1251#0" expanded="true" />
-            <element signature="e#1058#1059#0" expanded="true" />
-            <element signature="e#1093#1094#0" expanded="true" />
-            <element signature="e#1134#1135#0" expanded="true" />
-            <element signature="e#1214#1215#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

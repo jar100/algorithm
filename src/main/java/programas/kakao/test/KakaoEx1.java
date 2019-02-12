@@ -1,4 +1,4 @@
-package programas.test;
+package programas.kakao.test;
 
 public class KakaoEx1 {
     public int solution(String phone_num) {
