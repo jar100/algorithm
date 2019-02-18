@@ -23,7 +23,6 @@ public class NotFinishRun {
     public String solution2(String[] participant, String[] completion) {
         String answer = "";
         HashMap<String, Integer> hashMap = new HashMap<>();
-
         for (String s : participant) {
             if (!hashMap.containsKey(s)) {
                 hashMap.put(s, 0);

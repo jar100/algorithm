@@ -2,25 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23586ee2-4605-423a-a2cc-a7fb8717802a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/programas/clear/bestalbum/BestAlbum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programas/clear/notfinishrun/NotFinishRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/programas/clear/bestalbum/BestAlbumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/programas/clear/notfinishrun/NotFinishRunTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programas/giveupmath/GiveupMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programas/longestnode/LongestNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/programas/giveupmath/GiveupMathTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/programas/longestnode/LongestNodeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/camouflage/Camouflage$Category.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/camouflage/Camouflage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/camouflage/CamouflageTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programas/bestalbum/BestAlbum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programas/clear/test_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/clear/test_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programas/test/KakaoEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/kakao/test/KakaoEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programas/test/KakaoEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/kakao/test/KakaoEx3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programas/test/KakaoEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/kakao/test/KakaoEx4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programas/test/KakaoEx5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/kakao/test/KakaoEx5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programas/test/kakaoEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/kakao/test/kakaoEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/programas/test/KakaoEx4Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/kakao/test/KakaoEx4Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/programas/test/kakaoEx2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/kakao/test/kakaoEx2Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/programas/test/kakaoEx3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/kakao/test/kakaoEx3Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/programas/test/kakaoTestEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/kakao/test/kakaoTestEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/bestalbum/BestAlbum$Genres.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/bestalbum/BestAlbum$Song.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/bestalbum/BestAlbum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/notfinishrun/NotFinishRun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/test/KakaoEx1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/test/KakaoEx3$Coffee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/test/KakaoEx3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/test/KakaoEx4$User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/test/KakaoEx4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/test/KakaoEx5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/test/kakaoEx2$Coffee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/test/kakaoEx2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/bestalbum/BestAlbumTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/notfinishrun/NotFinishRunTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/test/KakaoEx4Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/test/kakaoEx2Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/test/kakaoEx3Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/test/kakaoTestEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programas/clear/notfinishrun/NotFinishRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/clear/notfinishrun/NotFinishRun.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,13 +77,15 @@
     <session id="-1804102672">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="46" />
+          <entry key="project.closed" value="48" />
           <entry key="project.open.time.0" value="11" />
           <entry key="project.open.time.1" value="21" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="8" />
@@ -86,33 +93,33 @@
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="51" />
+          <entry key="project.opened" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gradle" value="3" />
-          <entry key="java" value="243" />
+          <entry key="java" value="246" />
           <entry key="md" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="3" />
-          <entry key="JAVA" value="243" />
+          <entry key="JAVA" value="251" />
           <entry key="Markdown" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="75" />
-          <entry key="java" value="27855" />
+          <entry key="java" value="28484" />
           <entry key="md" value="1486" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="27855" />
+          <entry key="JAVA" value="29013" />
           <entry key="Markdown" value="1486" />
           <entry key="PLAIN_TEXT" value="75" />
         </counts>
@@ -123,19 +130,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/bestalbum/BestAlbumTest.java">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/List.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+            <state relative-caret-position="260">
+              <caret line="477" column="17" lean-forward="true" selection-start-line="477" selection-start-column="17" selection-end-line="477" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/longestnode/LongestNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/notfinishrun/NotFinishRun.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/giveupmath/GiveupMath.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="160">
-              <caret line="43" column="5" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
+              <caret line="40" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -144,19 +163,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/HashMap.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programas/giveupmath/GiveupMathTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="1056" column="41" selection-start-line="1056" selection-start-column="41" selection-end-line="1056" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/notfinishrun/NotFinishRunTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="19" column="77" selection-start-line="19" selection-start-column="77" selection-end-line="19" selection-end-column="77" />
+            <state relative-caret-position="101">
+              <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -181,6 +191,9 @@
       <find>gener</find>
       <find>String</find>
       <find>PriorityQueue</find>
+      <find>get</find>
+      <find>[</find>
+      <find>sort</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -487,10 +500,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/programas/operationdevelopment/operateiondevelopment.java" />
-        <option value="$PROJECT_DIR$/src/test/java/programas/operationdevelopment/operateiondevelopmentTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/clear/jumpsuit/JumpIronsuit.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/operationdevelopment/Operateiondevelopment.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/clear/operationdevelopment/Operateiondevelopment.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/printer/PrinterTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/printer/Printer.java" />
@@ -538,6 +547,10 @@
         <option value="$PROJECT_DIR$/src/test/java/programas/notfinishrun/NotFinishRunTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/notfinishrun/NotFinishRun.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/clear/notfinishrun/NotFinishRun.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/longestnode/LongestNodeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/giveupmath/GiveupMathTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/longestnode/LongestNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/giveupmath/GiveupMath.java" />
       </list>
     </option>
   </component>
@@ -548,10 +561,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="10" />
+    <option name="width" value="1918" />
+    <option name="height" value="1028" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -581,8 +593,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -660,12 +671,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Stack.java&#10;stack&#9;PSI&#9;JAVA://java.util.Stack" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549981361630" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550500704632" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="extract.method.default.visibility" value="private" />
@@ -676,11 +687,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="programas.giveupmath" />
+      <recent name="programas.longestnode" />
       <recent name="programas.notfinishrun" />
       <recent name="programas.bestalbum" />
       <recent name="programas.camouflage" />
-      <recent name="programas.clear.maximumnum" />
-      <recent name="programas.test" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -698,7 +709,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.NotFinishRunTest">
+  <component name="RunManager" selected="JUnit.GiveupMathTest">
     <configuration name="Unnamed" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -715,64 +726,62 @@
       </ExternalSystemSettings>
       <method v="2" />
     </configuration>
-    <configuration name="BestAlbumTest.solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GiveupMathTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programas.clear.bestalbum.*" />
+          <option name="PATTERN" value="programas.clear.giveupmath.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="programas.clear.bestalbum" />
-      <option name="MAIN_CLASS_NAME" value="programas.clear.bestalbum.BestAlbumTest" />
+      <option name="PACKAGE_NAME" value="programas.clear.giveupmath" />
+      <option name="MAIN_CLASS_NAME" value="programas.clear.giveupmath.GiveupMathTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GiveupMathTest.solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programas.clear.giveupmath.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programas.clear.giveupmath" />
+      <option name="MAIN_CLASS_NAME" value="programas.clear.giveupmath.GiveupMathTest" />
       <option name="METHOD_NAME" value="solution" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CamouflageTest.solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LongestNodeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programas.clear.camouflage.*" />
+          <option name="PATTERN" value="programas.longestnode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="programas.clear.camouflage" />
-      <option name="MAIN_CLASS_NAME" value="programas.clear.camouflage.CamouflageTest" />
-      <option name="METHOD_NAME" value="solution" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="programas.longestnode" />
+      <option name="MAIN_CLASS_NAME" value="programas.longestnode.LongestNodeTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CamouflageTest.solution2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LongestNodeTest.name1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programas.clear.camouflage.*" />
+          <option name="PATTERN" value="programas.longestnode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="programas.clear.camouflage" />
-      <option name="MAIN_CLASS_NAME" value="programas.clear.camouflage.CamouflageTest" />
-      <option name="METHOD_NAME" value="solution2" />
+      <option name="PACKAGE_NAME" value="programas.longestnode" />
+      <option name="MAIN_CLASS_NAME" value="programas.longestnode.LongestNodeTest" />
+      <option name="METHOD_NAME" value="name1" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaximumNumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programas.clear.maximumnum.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="programas.clear.maximumnum" />
-      <option name="MAIN_CLASS_NAME" value="programas.clear.maximumnum.MaximumNumTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -793,19 +802,19 @@
     </configuration>
     <list>
       <item itemvalue="Gradle.Unnamed" />
-      <item itemvalue="JUnit.MaximumNumTest" />
-      <item itemvalue="JUnit.CamouflageTest.solution" />
-      <item itemvalue="JUnit.CamouflageTest.solution2" />
-      <item itemvalue="JUnit.BestAlbumTest.solution" />
       <item itemvalue="JUnit.NotFinishRunTest" />
+      <item itemvalue="JUnit.LongestNodeTest" />
+      <item itemvalue="JUnit.LongestNodeTest.name1" />
+      <item itemvalue="JUnit.GiveupMathTest" />
+      <item itemvalue="JUnit.GiveupMathTest.solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.GiveupMathTest" />
+        <item itemvalue="JUnit.GiveupMathTest.solution" />
+        <item itemvalue="JUnit.LongestNodeTest.name1" />
+        <item itemvalue="JUnit.LongestNodeTest" />
         <item itemvalue="JUnit.NotFinishRunTest" />
-        <item itemvalue="JUnit.BestAlbumTest.solution" />
-        <item itemvalue="JUnit.CamouflageTest.solution2" />
-        <item itemvalue="JUnit.CamouflageTest.solution" />
-        <item itemvalue="JUnit.MaximumNumTest" />
       </list>
     </recent_temporary>
   </component>
@@ -823,35 +832,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CamouflageTest_solution - 2019.02.09 at 19h 49m 30s.xml">
-      <configuration name="CamouflageTest.solution" configurationId="JUnit" />
+    <history-entry file="GiveupMathTest - 2019.02.18 at 23h 03m 46s.xml">
+      <configuration name="GiveupMathTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CamouflageTest_solution2 - 2019.02.09 at 20h 16m 37s.xml">
-      <configuration name="CamouflageTest.solution2" configurationId="JUnit" />
+    <history-entry file="GiveupMathTest - 2019.02.18 at 23h 04m 35s.xml">
+      <configuration name="GiveupMathTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BestAlbumTest_solution - 2019.02.11 at 00h 07m 29s.xml">
-      <configuration name="BestAlbumTest.solution" configurationId="JUnit" />
+    <history-entry file="GiveupMathTest_solution - 2019.02.18 at 23h 05m 34s.xml">
+      <configuration name="GiveupMathTest.solution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BestAlbumTest_solution - 2019.02.11 at 00h 10m 04s.xml">
-      <configuration name="BestAlbumTest.solution" configurationId="JUnit" />
+    <history-entry file="GiveupMathTest_solution - 2019.02.18 at 23h 05m 46s.xml">
+      <configuration name="GiveupMathTest.solution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BestAlbumTest_solution - 2019.02.11 at 00h 10m 22s.xml">
-      <configuration name="BestAlbumTest.solution" configurationId="JUnit" />
+    <history-entry file="GiveupMathTest_solution - 2019.02.18 at 23h 14m 36s.xml">
+      <configuration name="GiveupMathTest.solution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BestAlbumTest_solution - 2019.02.11 at 00h 11m 00s.xml">
-      <configuration name="BestAlbumTest.solution" configurationId="JUnit" />
+    <history-entry file="GiveupMathTest_solution - 2019.02.18 at 23h 14m 54s.xml">
+      <configuration name="GiveupMathTest.solution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BestAlbumTest_solution - 2019.02.11 at 00h 11m 20s.xml">
-      <configuration name="BestAlbumTest.solution" configurationId="JUnit" />
+    <history-entry file="GiveupMathTest_solution - 2019.02.18 at 23h 15m 32s.xml">
+      <configuration name="GiveupMathTest.solution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NotFinishRunTest - 2019.02.12 at 22h 33m 41s.xml">
-      <configuration name="NotFinishRunTest" configurationId="JUnit" />
+    <history-entry file="GiveupMathTest_solution - 2019.02.18 at 23h 15m 50s.xml">
+      <configuration name="GiveupMathTest.solution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NotFinishRunTest - 2019.02.12 at 22h 34m 13s.xml">
-      <configuration name="NotFinishRunTest" configurationId="JUnit" />
+    <history-entry file="GiveupMathTest - 2019.02.18 at 23h 15m 58s.xml">
+      <configuration name="GiveupMathTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NotFinishRunTest - 2019.02.12 at 22h 40m 45s.xml">
-      <configuration name="NotFinishRunTest" configurationId="JUnit" />
+    <history-entry file="GiveupMathTest - 2019.02.18 at 23h 19m 06s.xml">
+      <configuration name="GiveupMathTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -865,8 +874,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.22818792" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.24161074" />
       <window_info id="Structure" order="1" sideWeight="0.50142044" side_tool="true" weight="0.35436243" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -875,7 +885,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.50852275" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.50852275" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39914772" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -915,6 +925,12 @@
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/programas/giveupmath/GiveupMath.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/baekjun/clear/baek1015/Baek1015.java</url>
           <line>8</line>
@@ -951,41 +967,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/DynamicArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/onemore/Ironrod/IronRod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/MakeJadenCaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/onemore/printer/PrinterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="34" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/morehot/MoreHot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/programas/onemore/Ironrod/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1024,13 +1005,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="106">
           <caret line="110" selection-start-line="110" selection-end-line="110" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="143" selection-start-line="143" selection-end-line="143" />
         </state>
       </provider>
     </entry>
@@ -1079,10 +1053,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding>
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1118,9 +1088,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1233,12 +1200,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
           <caret line="52" column="79" selection-start-line="52" selection-start-column="79" selection-end-line="52" selection-end-column="79" />
-          <folding>
-            <element signature="e#1187#1188#0" expanded="true" />
-            <element signature="e#1280#1281#0" expanded="true" />
-            <element signature="e#1315#1316#0" expanded="true" />
-            <element signature="e#1408#1409#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1270,10 +1231,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2295">
           <caret line="165" column="55" selection-start-line="165" selection-start-column="55" selection-end-line="165" selection-end-column="55" />
-          <folding>
-            <element signature="e#3740#3741#0" expanded="true" />
-            <element signature="e#3777#3778#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1305,9 +1262,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1320,25 +1274,77 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/notfinishrun/NotFinishRunTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
+        <state relative-caret-position="306">
           <caret line="19" column="77" selection-start-line="19" selection-start-column="77" selection-end-line="19" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="1054" column="4" lean-forward="true" selection-start-line="1054" selection-start-column="4" selection-end-line="1054" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/notfinishrun/NotFinishRun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/longestnode/LongestNodeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/HashMap.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="1056" column="41" selection-start-line="1056" selection-start-column="41" selection-end-line="1056" selection-end-column="41" />
+        <state relative-caret-position="218">
+          <caret line="1192" column="38" selection-start-line="1192" selection-start-column="29" selection-end-line="1192" selection-end-column="38" />
+          <folding>
+            <element signature="e#5027#5028#0" expanded="true" />
+            <element signature="e#5098#5099#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/notfinishrun/NotFinishRun.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="477" column="17" lean-forward="true" selection-start-line="477" selection-start-column="17" selection-end-line="477" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/longestnode/LongestNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/giveupmath/GiveupMathTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/giveupmath/GiveupMath.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
-          <caret line="43" column="5" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
+          <caret line="40" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
