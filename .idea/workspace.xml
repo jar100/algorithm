@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23586ee2-4605-423a-a2cc-a7fb8717802a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/programas/phonebook/PhoneBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/programas/phonebook/PhoneBookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programas/clear/jobpare/GameItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programas/clear/jobpare/JobPare1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programas/clear/jobpare/JobPare2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programas/clear/jobpare/JobPare3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/programas/clear/jobpare/JobPare3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/programas/clear/jobpare/jobpare1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/programas/clear/jobpare/jobpare2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/giveupmath/GiveupMath.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/giveupmath/GiveupMathTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/phonebook/PhoneBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/phonebook/PhoneBookTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programas/clear/phonebook/PhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/clear/phonebook/PhoneBook.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,7 +95,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="3" />
-          <entry key="JAVA" value="261" />
+          <entry key="JAVA" value="277" />
           <entry key="Markdown" value="18" />
         </counts>
       </usages-collector>
@@ -100,7 +108,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="29328" />
+          <entry key="JAVA" value="32419" />
           <entry key="Markdown" value="1486" />
           <entry key="PLAIN_TEXT" value="75" />
         </counts>
@@ -110,11 +118,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/programas/phonebook/PhoneBook.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/jobpare/JobPare1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,10 +131,98 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/programas/phonebook/PhoneBookTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/jobpare/JobPare3Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+            <state relative-caret-position="85">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/jobpare/JobPare3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/giveupmath/GiveupMath.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/jobpare/GameItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-451">
+              <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+              <folding>
+                <element signature="e#496#497#0" expanded="true" />
+                <element signature="e#524#525#0" expanded="true" />
+                <element signature="e#553#554#0" expanded="true" />
+                <element signature="e#581#582#0" expanded="true" />
+                <element signature="e#616#617#0" expanded="true" />
+                <element signature="e#650#651#0" expanded="true" />
+                <element signature="e#684#685#0" expanded="true" />
+                <element signature="e#717#718#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/crossingbridge/CrossingBridge.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/jobpare/JobPare2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/jobpare/jobpare2Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/jobpare/jobpare1Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -140,8 +236,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -460,29 +556,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/programas/printer/README.md" />
-        <option value="$PROJECT_DIR$/src/test/java/programas/Ironrod/IronRodTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/Ironrod/IronRod.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/Ironrod/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/onemore/Ironrod/IronRod.java" />
-        <option value="$PROJECT_DIR$/src/test/java/programas/onemore/Ironrod/IronRodTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/morehot/MoreHot.java" />
-        <option value="$PROJECT_DIR$/src/test/java/programas/morehot/MoreHotTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/morehot/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/baek1015/baek1015.java" />
-        <option value="$PROJECT_DIR$/src/test/java/programas/baek1015/baek1015Test.java" />
-        <option value="$PROJECT_DIR$/src/test/java/programas/baek1015/Baek1015Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/baek1015/Baek1015.java" />
-        <option value="$PROJECT_DIR$/src/main/java/baekjun/clear/baek1015/Baek1015.java" />
-        <option value="$PROJECT_DIR$/src/test/java/programas/kakao/kakaoExTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/kakao/kakaoEx.java" />
-        <option value="$PROJECT_DIR$/src/test/java/programas/test/kakaoTestTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/test/kakaoTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/test/kakaoEx.java" />
-        <option value="$PROJECT_DIR$/src/test/java/programas/test/kakaoEx2Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/test/kakaoEx2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/test/kakaoEx4.java" />
-        <option value="$PROJECT_DIR$/src/test/java/programas/test/kakaoEx4Test.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/test/KakaoEx4Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/test/kakaoEx3.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/test/KakaoEx4.java" />
@@ -511,6 +584,29 @@
         <option value="$PROJECT_DIR$/src/main/java/programas/clear/giveupmath/GiveupMath.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/phonebook/PhoneBookTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/phonebook/PhoneBook.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/clear/phonebook/PhoneBook.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/jabpare/jobpare.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/jabpare/jobpare1Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/jabpare/jobpare2Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/jabpare/jobpare1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/jabpare/jobpare3Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/jabpare/jobpare2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/jabpare/JobPare3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/jabpare/Jobpare3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/jabpare/jobpare3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/jobpare/jobpare3.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/jobpare/jobpare3Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/jobpare/JobPare3Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/jobpare/JobPareTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/jobpare/JobPare3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/clear/crossingbridge/CrossingBridge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/clear/jobpare/Item.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/clear/jobpare/JobPare1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/clear/jobpare/GameItemImpl.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/clear/jobpare/jobpare2Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/clear/jobpare/jobpare1Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/clear/jobpare/GameItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/clear/jobpare/JobPare3.java" />
       </list>
     </option>
   </component>
@@ -521,10 +617,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -622,6 +718,44 @@
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="programas" type="462c0819:PsiDirectoryNode" />
+              <item name="clear" type="462c0819:PsiDirectoryNode" />
+              <item name="giveupmath" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="programas" type="462c0819:PsiDirectoryNode" />
+              <item name="clear" type="462c0819:PsiDirectoryNode" />
+              <item name="jobpare" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="programas" type="462c0819:PsiDirectoryNode" />
+              <item name="longestnode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="programas" type="462c0819:PsiDirectoryNode" />
+              <item name="onemore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -638,6 +772,35 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="programas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="programas" type="462c0819:PsiDirectoryNode" />
+              <item name="clear" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="programas" type="462c0819:PsiDirectoryNode" />
+              <item name="clear" type="462c0819:PsiDirectoryNode" />
+              <item name="jobpare" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="programas" type="462c0819:PsiDirectoryNode" />
+              <item name="clear" type="462c0819:PsiDirectoryNode" />
+              <item name="jumpsuit" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -667,7 +830,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Stack.java&#10;stack&#9;PSI&#9;JAVA://java.util.Stack" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550586323372" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550911409397" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="extract.method.default.visibility" value="private" />
@@ -678,14 +841,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="programas.jabpare" />
       <recent name="programas.phonebook" />
       <recent name="programas.giveupmath" />
       <recent name="programas.longestnode" />
       <recent name="programas.notfinishrun" />
-      <recent name="programas.bestalbum" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="programas.clear.jobpare" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -700,7 +866,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PhoneBookTest">
+  <component name="RunManager" selected="JUnit.JobPare3Test">
     <configuration name="Unnamed" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -717,95 +883,96 @@
       </ExternalSystemSettings>
       <method v="2" />
     </configuration>
-    <configuration name="GiveupMathTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="JobPare3Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programas.clear.giveupmath.*" />
+          <option name="PATTERN" value="programas.clear.jobpare.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="programas.clear.giveupmath" />
-      <option name="MAIN_CLASS_NAME" value="programas.clear.giveupmath.GiveupMathTest" />
+      <option name="PACKAGE_NAME" value="programas.clear.jobpare" />
+      <option name="MAIN_CLASS_NAME" value="programas.clear.jobpare.JobPare3Test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GiveupMathTest.solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="jobpare2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programas.clear.giveupmath.*" />
+          <option name="PATTERN" value="programas.jabpare.jobpare3" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="programas.clear.giveupmath" />
-      <option name="MAIN_CLASS_NAME" value="programas.clear.giveupmath.GiveupMathTest" />
-      <option name="METHOD_NAME" value="solution" />
+      <option name="PACKAGE_NAME" value="programas.jobpare" />
+      <option name="MAIN_CLASS_NAME" value="programas.jabpare.jobpare2Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jobpare3Test.name4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programas.jabpare.jobpare3" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programas.jobpare" />
+      <option name="MAIN_CLASS_NAME" value="programas.jabpare.jobpare3Test" />
+      <option name="METHOD_NAME" value="name4" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestNodeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="jobpare3Test.name5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programas.longestnode.*" />
+          <option name="PATTERN" value="programas.jabpare.jobpare3" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="programas.longestnode" />
-      <option name="MAIN_CLASS_NAME" value="programas.longestnode.LongestNodeTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LongestNodeTest.name1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programas.longestnode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="programas.longestnode" />
-      <option name="MAIN_CLASS_NAME" value="programas.longestnode.LongestNodeTest" />
-      <option name="METHOD_NAME" value="name1" />
+      <option name="PACKAGE_NAME" value="programas.jobpare" />
+      <option name="MAIN_CLASS_NAME" value="programas.jabpare.jobpare3Test" />
+      <option name="METHOD_NAME" value="name5" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhoneBookTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programas.clear.phonebook.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="programas.phonebook" />
-      <option name="MAIN_CLASS_NAME" value="programas.clear.phonebook.PhoneBookTest" />
+    <configuration name="Specifications" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="C:\Users\jar10\Documents\codesquad\workspace\algorithm\specs" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="algorithm" />
+      <envMap />
+      <setting name="rowsRange" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Gradle.Unnamed" />
-      <item itemvalue="JUnit.LongestNodeTest" />
-      <item itemvalue="JUnit.LongestNodeTest.name1" />
-      <item itemvalue="JUnit.GiveupMathTest" />
-      <item itemvalue="JUnit.GiveupMathTest.solution" />
-      <item itemvalue="JUnit.PhoneBookTest" />
+      <item itemvalue="JUnit.jobpare3Test.name4" />
+      <item itemvalue="JUnit.jobpare3Test.name5" />
+      <item itemvalue="JUnit.jobpare2Test" />
+      <item itemvalue="Gauge Execution.Specifications" />
+      <item itemvalue="JUnit.JobPare3Test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PhoneBookTest" />
-        <item itemvalue="JUnit.GiveupMathTest" />
-        <item itemvalue="JUnit.GiveupMathTest.solution" />
-        <item itemvalue="JUnit.LongestNodeTest.name1" />
-        <item itemvalue="JUnit.LongestNodeTest" />
+        <item itemvalue="JUnit.JobPare3Test" />
+        <item itemvalue="Gauge Execution.Specifications" />
+        <item itemvalue="JUnit.jobpare2Test" />
+        <item itemvalue="JUnit.jobpare3Test.name5" />
+        <item itemvalue="JUnit.jobpare3Test.name4" />
       </list>
     </recent_temporary>
   </component>
@@ -823,35 +990,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GiveupMathTest_solution - 2019.02.18 at 23h 05m 46s.xml">
-      <configuration name="GiveupMathTest.solution" configurationId="JUnit" />
+    <history-entry file="jobpare3Test - 2019.02.23 at 16h 48m 34s.xml">
+      <configuration name="jobpare3Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GiveupMathTest_solution - 2019.02.18 at 23h 14m 36s.xml">
-      <configuration name="GiveupMathTest.solution" configurationId="JUnit" />
+    <history-entry file="jobpare3Test - 2019.02.23 at 16h 49m 00s.xml">
+      <configuration name="jobpare3Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GiveupMathTest_solution - 2019.02.18 at 23h 14m 54s.xml">
-      <configuration name="GiveupMathTest.solution" configurationId="JUnit" />
+    <history-entry file="jobpare3Test - 2019.02.23 at 16h 49m 27s.xml">
+      <configuration name="jobpare3Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GiveupMathTest_solution - 2019.02.18 at 23h 15m 32s.xml">
-      <configuration name="GiveupMathTest.solution" configurationId="JUnit" />
+    <history-entry file="jobpare3Test_name4 - 2019.02.23 at 16h 54m 54s.xml">
+      <configuration name="jobpare3Test.name4" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GiveupMathTest_solution - 2019.02.18 at 23h 15m 50s.xml">
-      <configuration name="GiveupMathTest.solution" configurationId="JUnit" />
+    <history-entry file="jobpare3Test_name4 - 2019.02.23 at 16h 55m 03s.xml">
+      <configuration name="jobpare3Test.name4" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GiveupMathTest - 2019.02.18 at 23h 15m 58s.xml">
-      <configuration name="GiveupMathTest" configurationId="JUnit" />
+    <history-entry file="jobpare3Test_name4 - 2019.02.23 at 16h 55m 20s.xml">
+      <configuration name="jobpare3Test.name4" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GiveupMathTest - 2019.02.18 at 23h 19m 06s.xml">
-      <configuration name="GiveupMathTest" configurationId="JUnit" />
+    <history-entry file="jobpare3Test_name4 - 2019.02.23 at 16h 55m 42s.xml">
+      <configuration name="jobpare3Test.name4" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PhoneBookTest - 2019.02.19 at 23h 17m 57s.xml">
-      <configuration name="PhoneBookTest" configurationId="JUnit" />
+    <history-entry file="jobpare3Test_name5 - 2019.02.23 at 16h 55m 46s.xml">
+      <configuration name="jobpare3Test.name5" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PhoneBookTest - 2019.02.19 at 23h 18m 45s.xml">
-      <configuration name="PhoneBookTest" configurationId="JUnit" />
+    <history-entry file="jobpare2Test - 2019.02.23 at 17h 02m 50s.xml">
+      <configuration name="jobpare2Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PhoneBookTest - 2019.02.19 at 23h 20m 17s.xml">
-      <configuration name="PhoneBookTest" configurationId="JUnit" />
+    <history-entry file="jobpare2Test - 2019.02.23 at 17h 03m 04s.xml">
+      <configuration name="jobpare2Test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -867,7 +1034,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.24161074" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.24161074" />
       <window_info id="Structure" order="1" sideWeight="0.50142044" side_tool="true" weight="0.35436243" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -876,7 +1043,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.50852275" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4318182" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39914772" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -916,12 +1083,6 @@
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/programas/phonebook/PhoneBook.java</url>
-          <line>12</line>
-          <properties />
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/baekjun/clear/baek1015/Baek1015.java</url>
           <line>8</line>
@@ -929,6 +1090,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/programas/clear/jobpare/JobPare1.java</url>
+          <line>32</line>
+          <properties class="programas.clear.jobpare.JobPare1" method="doCombination">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -958,68 +1127,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/DualPivotQuicksort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="110" selection-start-line="110" selection-end-line="110" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekjun/clear/baek1015/Baek1015.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/baekjun/clear/baek1015/Baek1015Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="26" column="95" selection-start-line="26" selection-start-column="94" selection-end-line="26" selection-end-column="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/kakao/kakaoEx1Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="13" column="67" selection-start-line="13" selection-start-column="67" selection-end-line="13" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/Baseball.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="19" column="4" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/kakao/kakaoEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/kakao/test/kakaoEx2Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-335">
-          <caret line="85" column="13" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -1073,13 +1180,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" selection-start-line="14" selection-end-line="15" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
@@ -1246,16 +1346,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/giveupmath/GiveupMath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret column="35" lean-forward="true" selection-start-column="35" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/programas/longestnode/LongestNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1316,27 +1406,121 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/crossingbridge/CrossingBridge.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/phonebook/PhoneBookTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/phonebook/PhoneBookTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        <state relative-caret-position="153">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/phonebook/PhoneBook.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/phonebook/PhoneBook.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/crossingbridge/CrossingBridge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/giveupmath/GiveupMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/jobpare/JobPare1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/jobpare/GameItemImpl.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/jobpare/JobPare3Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/jobpare/jobpare2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/jobpare/jobpare1Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/jobpare/JobPare2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/jobpare/GameItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-451">
+          <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+          <folding>
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/jobpare/JobPare3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
