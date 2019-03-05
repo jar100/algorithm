@@ -1,9 +1,7 @@
-package programas.findsosu;
+package programas.clear.findsosu;
 
 import org.junit.Test;
 import programas.BaseTest;
-
-import static org.junit.Assert.*;
 
 public class FindSosuTest extends BaseTest {
     @Test
