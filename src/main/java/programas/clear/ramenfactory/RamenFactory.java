@@ -17,9 +17,11 @@ public class RamenFactory {
             }
 
             if (i == stock) {
-                stock += priorityQueue.poll();
+                int a = priorityQueue.remove();
+                System.out.println(priorityQueue);
+                stock += a;
                 answer ++;
-
+                System.out.println(a);
             }
 
         }
