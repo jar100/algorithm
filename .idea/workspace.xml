@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23586ee2-4605-423a-a2cc-a7fb8717802a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/programas/onemore/diskcontroller/DiskController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/programas/onemore/diskcontroller/DiskControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programas/doublepriorityqueue/DoublePriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/programas/doublepriorityqueue/DoublePriorityQueueTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/ramenfactory/RamenFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/ramenfactory/RamenFactoryTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programas/clear/ramenfactory/RamenFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/clear/ramenfactory/RamenFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/ramenfactory/RamenFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/ramenfactory/RamenFactoryTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,7 +85,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="3" />
-          <entry key="JAVA" value="301" />
+          <entry key="JAVA" value="303" />
           <entry key="Markdown" value="20" />
         </counts>
       </usages-collector>
@@ -102,7 +98,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="36764" />
+          <entry key="JAVA" value="37426" />
           <entry key="Markdown" value="1486" />
           <entry key="PLAIN_TEXT" value="75" />
         </counts>
@@ -124,15 +120,39 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/programas/onemore/diskcontroller/DiskController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="56" selection-end-column="5" />
+            <state relative-caret-position="203">
+              <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#3266#3267#0" expanded="true" />
                 <element signature="e#3327#3328#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/doublepriorityqueue/DoublePriorityQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" column="42" lean-forward="true" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programas/doublepriorityqueue/DoublePriorityQueueTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="107" selection-start-line="12" selection-start-column="107" selection-end-line="12" selection-end-column="107" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -158,15 +178,6 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/AbstractQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1377">
-              <caret line="114" column="21" selection-start-line="114" selection-start-column="21" selection-end-line="114" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -543,8 +554,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/programas/clear/maximumnum/MaximumNumTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/clear/maximumnum/MaximumNum.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/camouflage/Camouflage.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/camouflage/CamouflageTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/clear/camouflage/Camouflage.java" />
@@ -594,6 +603,8 @@
         <option value="$PROJECT_DIR$/src/test/java/programas/diskcontroller/DiskControllerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/diskcontroller/DiskController.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/onemore/diskcontroller/DiskController.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/doublepriorityqueue/DoublePriorityQueueTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/doublepriorityqueue/DoublePriorityQueue.java" />
       </list>
     </option>
   </component>
@@ -680,7 +691,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/jar10/Documents/codesquad/workspace/algorithm/src/test/java/programas/diskcontroller/DiskControllerTest.java&#10;zoom&#9;PSI&#9;JAVA://javafx.scene.input.ZoomEvent&#10;stack&#9;PSI&#9;JAVA://java.util.Stack" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552134091178" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552359475673" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="extract.method.default.visibility" value="private" />
@@ -692,11 +703,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="programas.doublepriorityqueue" />
       <recent name="programas.diskcontroller" />
       <recent name="programas.ramenfactory" />
       <recent name="programas.findsosu" />
       <recent name="programas.jabpare" />
-      <recent name="programas.phonebook" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -717,7 +728,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DiskControllerTest.name">
+  <component name="RunManager" selected="JUnit.DoublePriorityQueueTest.name">
     <configuration name="Unnamed" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -764,38 +775,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DiskControllerTest.name1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programas.onemore.diskcontroller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="programas.onemore.diskcontroller" />
-      <option name="MAIN_CLASS_NAME" value="programas.onemore.diskcontroller.DiskControllerTest" />
-      <option name="METHOD_NAME" value="name1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DiskControllerTest.name2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programas.onemore.diskcontroller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="programas.onemore.diskcontroller" />
-      <option name="MAIN_CLASS_NAME" value="programas.onemore.diskcontroller.DiskControllerTest" />
-      <option name="METHOD_NAME" value="name2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="DiskControllerTest.name3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
@@ -812,21 +791,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DoublePriorityQueueTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programas.clear.doublepriorityqueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programas.clear.doublepriorityqueue" />
+      <option name="MAIN_CLASS_NAME" value="programas.clear.doublepriorityqueue.DoublePriorityQueueTest" />
+      <option name="METHOD_NAME" value="name" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoublePriorityQueueTest.parseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programas.clear.doublepriorityqueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programas.clear.doublepriorityqueue" />
+      <option name="MAIN_CLASS_NAME" value="programas.clear.doublepriorityqueue.DoublePriorityQueueTest" />
+      <option name="METHOD_NAME" value="parseTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Gradle.Unnamed" />
       <item itemvalue="JUnit.DiskControllerTest" />
-      <item itemvalue="JUnit.DiskControllerTest.name1" />
-      <item itemvalue="JUnit.DiskControllerTest.name2" />
       <item itemvalue="JUnit.DiskControllerTest.name3" />
       <item itemvalue="JUnit.DiskControllerTest.name" />
+      <item itemvalue="JUnit.DoublePriorityQueueTest.parseTest" />
+      <item itemvalue="JUnit.DoublePriorityQueueTest.name" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DoublePriorityQueueTest.name" />
+        <item itemvalue="JUnit.DoublePriorityQueueTest.parseTest" />
         <item itemvalue="JUnit.DiskControllerTest.name" />
         <item itemvalue="JUnit.DiskControllerTest.name3" />
         <item itemvalue="JUnit.DiskControllerTest" />
-        <item itemvalue="JUnit.DiskControllerTest.name2" />
-        <item itemvalue="JUnit.DiskControllerTest.name1" />
       </list>
     </recent_temporary>
   </component>
@@ -844,35 +855,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DiskControllerTest_name3 - 2019.03.09 at 20h 38m 14s.xml">
-      <configuration name="DiskControllerTest.name3" configurationId="JUnit" />
+    <history-entry file="DoublePriorityQueueTest_name - 2019.03.12 at 11h 44m 00s.xml">
+      <configuration name="DoublePriorityQueueTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiskControllerTest_name3 - 2019.03.09 at 20h 38m 48s.xml">
-      <configuration name="DiskControllerTest.name3" configurationId="JUnit" />
+    <history-entry file="DoublePriorityQueueTest_name - 2019.03.12 at 11h 44m 24s.xml">
+      <configuration name="DoublePriorityQueueTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiskControllerTest_name3 - 2019.03.09 at 20h 40m 19s.xml">
-      <configuration name="DiskControllerTest.name3" configurationId="JUnit" />
+    <history-entry file="DoublePriorityQueueTest_name - 2019.03.12 at 11h 44m 33s.xml">
+      <configuration name="DoublePriorityQueueTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiskControllerTest_name3 - 2019.03.09 at 21h 06m 20s.xml">
-      <configuration name="DiskControllerTest.name3" configurationId="JUnit" />
+    <history-entry file="DoublePriorityQueueTest_name - 2019.03.12 at 11h 44m 46s.xml">
+      <configuration name="DoublePriorityQueueTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiskControllerTest_name - 2019.03.09 at 21h 06m 37s.xml">
-      <configuration name="DiskControllerTest.name" configurationId="JUnit" />
+    <history-entry file="DoublePriorityQueueTest_name - 2019.03.12 at 11h 45m 23s.xml">
+      <configuration name="DoublePriorityQueueTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiskControllerTest_name - 2019.03.09 at 21h 07m 56s.xml">
-      <configuration name="DiskControllerTest.name" configurationId="JUnit" />
+    <history-entry file="DoublePriorityQueueTest_name - 2019.03.12 at 11h 46m 07s.xml">
+      <configuration name="DoublePriorityQueueTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiskControllerTest_name - 2019.03.09 at 21h 08m 15s.xml">
-      <configuration name="DiskControllerTest.name" configurationId="JUnit" />
+    <history-entry file="DoublePriorityQueueTest_name - 2019.03.12 at 11h 47m 11s.xml">
+      <configuration name="DoublePriorityQueueTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiskControllerTest_name - 2019.03.09 at 21h 14m 00s.xml">
-      <configuration name="DiskControllerTest.name" configurationId="JUnit" />
+    <history-entry file="DoublePriorityQueueTest_name - 2019.03.12 at 11h 47m 14s.xml">
+      <configuration name="DoublePriorityQueueTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiskControllerTest_name - 2019.03.09 at 21h 14m 58s.xml">
-      <configuration name="DiskControllerTest.name" configurationId="JUnit" />
+    <history-entry file="DoublePriorityQueueTest_name - 2019.03.12 at 11h 47m 45s.xml">
+      <configuration name="DoublePriorityQueueTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiskControllerTest_name - 2019.03.09 at 21h 16m 17s.xml">
-      <configuration name="DiskControllerTest.name" configurationId="JUnit" />
+    <history-entry file="DoublePriorityQueueTest_name - 2019.03.12 at 11h 47m 49s.xml">
+      <configuration name="DoublePriorityQueueTest.name" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -886,8 +897,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.26174498" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.26174498" />
       <window_info id="Structure" order="1" sideWeight="0.50142044" side_tool="true" weight="0.35436243" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -896,8 +908,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3622159" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39914772" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3622159" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39914772" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32954547" />
@@ -1033,20 +1045,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/bestalbum/BestAlbum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-187">
-          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/test_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/camouflage/Camouflage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -1362,16 +1360,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/ramenfactory/RamenFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/programas/onemore/diskcontroller/DiskControllerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -1402,14 +1390,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/ramenfactory/RamenFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/programas/onemore/diskcontroller/DiskController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="56" selection-end-column="5" />
+        <state relative-caret-position="203">
+          <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#3266#3267#0" expanded="true" />
             <element signature="e#3327#3328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/doublepriorityqueue/DoublePriorityQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="107" selection-start-line="12" selection-start-column="107" selection-end-line="12" selection-end-column="107" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/doublepriorityqueue/DoublePriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="42" lean-forward="true" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
