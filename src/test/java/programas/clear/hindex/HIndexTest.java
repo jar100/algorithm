@@ -19,19 +19,16 @@ public class HIndexTest extends BaseTest {
     @Test
     public void name3() {
         softly.assertThat(hIndex.solution(new int[]{3, 4, 6, 1, 5, 11, 15})).isEqualTo(4);
-        softly.assertThat(hIndex.solution2(new int[]{3, 4, 6, 1, 5, 11, 15})).isEqualTo(4);
 
     }
 
     @Test
     public void name4() {
         softly.assertThat(hIndex.solution(new int[]{2, 2, 2, 1, 5})).isEqualTo(2);
-        softly.assertThat(hIndex.solution2(new int[]{2, 2, 2, 1, 5})).isEqualTo(2);
     }
 
     @Test
     public void name5() {
-        softly.assertThat(hIndex.solution2(new int[]{3, 4, 0, 2, 2, 11, 15})).isEqualTo(3);
         softly.assertThat(hIndex.solution(new int[]{3, 4, 0, 2, 2, 11, 15})).isEqualTo(3);
 
     }
@@ -39,14 +36,7 @@ public class HIndexTest extends BaseTest {
     @Test
     public void name6() {
         softly.assertThat(hIndex.solution(new int[]{22, 42})).isEqualTo(2);
-        softly.assertThat(hIndex.solution2(new int[]{22, 42})).isEqualTo(2);
 
 
-    }
-
-
-    @Test
-    public void name2_1() {
-        softly.assertThat(hIndex.solution2(new int[]{3, 0, 6, 1, 5})).isEqualTo(3);
     }
 }
