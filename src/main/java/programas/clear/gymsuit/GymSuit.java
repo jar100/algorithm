@@ -30,7 +30,6 @@ public class GymSuit {
 
         for (Iterator<Integer> it = reserveList.iterator(); it.hasNext(); ) {
             Integer value = it.next();
-
             if (lostList.contains(value)) {
                 lostList.remove(value);
                 it.remove();

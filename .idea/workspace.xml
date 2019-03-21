@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23586ee2-4605-423a-a2cc-a7fb8717802a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/junggo/JungGoFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/junggo/JungGoOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/junggo/JungGoThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/junggo/JungGoTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programas/clear/gymsuit/GymSuit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/junggo/JungGoFourTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/junggo/JungGoOneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/junggo/JungGoThreeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/junggo/JungGoTwoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/programas/clear/gymsuit/GymSuitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programas/visitlength/VisitLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/programas/visitlength/VisitLengthTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/hindex/HIndex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/hindex/HIndexTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/hindex/HIndexTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/hindex/HIndexTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/gymsuit/GymSuitTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programas/clear/gymsuit/GymSuit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/clear/gymsuit/GymSuit.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -96,7 +87,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="4" />
-          <entry key="JAVA" value="353" />
+          <entry key="JAVA" value="360" />
           <entry key="Markdown" value="20" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
@@ -110,7 +101,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="42786" />
+          <entry key="JAVA" value="43850" />
           <entry key="Markdown" value="1486" />
           <entry key="PLAIN_TEXT" value="75" />
         </counts>
@@ -135,23 +126,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/gymsuit/GymSuit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="143" column="28" lean-forward="true" selection-start-line="143" selection-start-column="28" selection-end-line="143" selection-end-column="28" />
-              <folding>
-                <element signature="e#5027#5028#0" expanded="true" />
-                <element signature="e#5098#5099#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/junggo/JungGoThree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="34" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
+            <state relative-caret-position="98">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -159,7 +137,77 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/gymsuit/GymSuitTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="48" column="77" lean-forward="true" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="77" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/visitlength/VisitLength.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1403#1404#0" expanded="true" />
+                <element signature="e#1454#1455#0" expanded="true" />
+                <element signature="e#1120#1121#0" expanded="true" />
+                <element signature="e#1169#1170#0" expanded="true" />
+                <element signature="e#2243#2244#0" expanded="true" />
+                <element signature="e#2275#2276#0" expanded="true" />
+                <element signature="e#1742#1743#0" expanded="true" />
+                <element signature="e#1801#1802#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Objects.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="58" column="23" lean-forward="true" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="23" />
+              <folding>
+                <element signature="e#1410#1411#0" expanded="true" />
+                <element signature="e#1471#1472#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/HashSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2771">
+              <caret line="197" column="60" selection-start-line="197" selection-start-column="54" selection-end-line="197" selection-end-column="60" />
+              <folding>
+                <element signature="e#3740#3741#0" expanded="true" />
+                <element signature="e#3777#3778#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programas/visitlength/VisitLengthTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/junggo/JungGoOne.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
@@ -169,15 +217,6 @@
                 <element signature="e#2048#2049#0" expanded="true" />
                 <element signature="e#2077#2078#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="657" selection-start-line="657" selection-end-line="657" />
             </state>
           </provider>
         </entry>
@@ -195,31 +234,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/junggo/JungGoFourTest.java">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-end-line="10" />
+            <state>
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1657#1658#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/baekjun/clear/baek1193/Baek1193.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/baekjun/clear/baek1015/Baek1015.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="11" column="62" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -246,6 +267,7 @@
       <find>sort</find>
       <find>remove</find>
       <find>merge</find>
+      <find>equals</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -552,9 +574,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/programas/jabpare/jobpare1.java" />
-        <option value="$PROJECT_DIR$/src/test/java/programas/jabpare/jobpare3Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/jabpare/jobpare2.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/jabpare/JobPare3.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/jabpare/Jobpare3.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/jabpare/jobpare3.java" />
@@ -603,6 +622,9 @@
         <option value="$PROJECT_DIR$/src/main/java/junggo/JungGoOne.java" />
         <option value="$PROJECT_DIR$/src/main/java/junggo/JungGoTwo.java" />
         <option value="$PROJECT_DIR$/src/main/java/junggo/JungGoFour.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/clear/gymsuit/GymSuit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/visitlength/VisitLength.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/visitlength/VisitLengthTest.java" />
       </list>
     </option>
   </component>
@@ -612,11 +634,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="256" />
-    <option name="y" value="22" />
-    <option name="width" value="1385" />
-    <option name="height" value="1015" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -679,51 +701,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="baekjun" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="baekjun" type="462c0819:PsiDirectoryNode" />
-              <item name="clear" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="baekjun" type="462c0819:PsiDirectoryNode" />
-              <item name="clear" type="462c0819:PsiDirectoryNode" />
-              <item name="baek1015" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="baekjun" type="462c0819:PsiDirectoryNode" />
-              <item name="clear" type="462c0819:PsiDirectoryNode" />
-              <item name="baek1193" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="junggo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="programas" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -734,7 +711,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/jar10/Documents/codesquad/workspace/algorithm/src/main/java/baekjun/clear/baek1015/Baek1015.java&#10;zoom&#9;PSI&#9;JAVA://javafx.scene.input.ZoomEvent&#10;stack&#9;PSI&#9;JAVA://java.util.Stack" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552984937596" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553148872209" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="extract.method.default.visibility" value="private" />
@@ -746,11 +723,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="programas.visitlength" />
       <recent name="junggo" />
       <recent name="programas.gymsuit" />
       <recent name="programas.hindex" />
       <recent name="programas.indexknum" />
-      <recent name="programas.doublepriorityqueue" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -771,7 +748,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JungGoFour">
+  <component name="RunManager" selected="JUnit.VisitLengthTest.name2">
     <configuration name="JungGoFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="junggo.JungGoFour" />
       <module name="algorithm_main" />
@@ -787,32 +764,6 @@
     </configuration>
     <configuration name="JungGoOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="junggo.JungGoOne" />
-      <module name="algorithm_main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="junggo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JungGoThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="junggo.JungGoThree" />
-      <module name="algorithm_main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="junggo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JungGoTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="junggo.JungGoTwo" />
       <module name="algorithm_main" />
       <extension name="coverage">
         <pattern>
@@ -840,17 +791,49 @@
       </ExternalSystemSettings>
       <method v="2" />
     </configuration>
-    <configuration name="GymSuitTest.name7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="VisitLengthTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programas.clear.gymsuit.*" />
+          <option name="PATTERN" value="programas.visitlength.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="programas.gymsuit" />
-      <option name="MAIN_CLASS_NAME" value="programas.clear.gymsuit.GymSuitTest" />
-      <option name="METHOD_NAME" value="name7" />
+      <option name="PACKAGE_NAME" value="programas.visitlength" />
+      <option name="MAIN_CLASS_NAME" value="programas.visitlength.VisitLengthTest" />
+      <option name="METHOD_NAME" value="name" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VisitLengthTest.name1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programas.visitlength.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programas.visitlength" />
+      <option name="MAIN_CLASS_NAME" value="programas.visitlength.VisitLengthTest" />
+      <option name="METHOD_NAME" value="name1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VisitLengthTest.name2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programas.visitlength.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programas.visitlength" />
+      <option name="MAIN_CLASS_NAME" value="programas.visitlength.VisitLengthTest" />
+      <option name="METHOD_NAME" value="name2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -858,19 +841,19 @@
     </configuration>
     <list>
       <item itemvalue="Gradle.Unnamed" />
-      <item itemvalue="JUnit.GymSuitTest.name7" />
-      <item itemvalue="Application.JungGoTwo" />
-      <item itemvalue="Application.JungGoThree" />
       <item itemvalue="Application.JungGoFour" />
       <item itemvalue="Application.JungGoOne" />
+      <item itemvalue="JUnit.VisitLengthTest.name" />
+      <item itemvalue="JUnit.VisitLengthTest.name1" />
+      <item itemvalue="JUnit.VisitLengthTest.name2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.VisitLengthTest.name2" />
+        <item itemvalue="JUnit.VisitLengthTest.name1" />
+        <item itemvalue="JUnit.VisitLengthTest.name" />
         <item itemvalue="Application.JungGoFour" />
         <item itemvalue="Application.JungGoOne" />
-        <item itemvalue="Application.JungGoThree" />
-        <item itemvalue="Application.JungGoTwo" />
-        <item itemvalue="JUnit.GymSuitTest.name7" />
       </list>
     </recent_temporary>
   </component>
@@ -888,35 +871,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GymSuitTest_name2 - 2019.03.18 at 13h 59m 28s.xml">
-      <configuration name="GymSuitTest.name2" configurationId="JUnit" />
+    <history-entry file="VisitLengthTest_name - 2019.03.21 at 14h 29m 39s.xml">
+      <configuration name="VisitLengthTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GymSuitTest_name2 - 2019.03.18 at 13h 59m 52s.xml">
-      <configuration name="GymSuitTest.name2" configurationId="JUnit" />
+    <history-entry file="VisitLengthTest_name - 2019.03.21 at 14h 29m 43s.xml">
+      <configuration name="VisitLengthTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GymSuitTest_name4 - 2019.03.18 at 14h 01m 09s.xml">
-      <configuration name="GymSuitTest.name4" configurationId="JUnit" />
+    <history-entry file="VisitLengthTest_name1 - 2019.03.21 at 14h 38m 52s.xml">
+      <configuration name="VisitLengthTest.name1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GymSuitTest_name4 - 2019.03.18 at 14h 01m 12s.xml">
-      <configuration name="GymSuitTest.name4" configurationId="JUnit" />
+    <history-entry file="VisitLengthTest_name1 - 2019.03.21 at 14h 39m 02s.xml">
+      <configuration name="VisitLengthTest.name1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GymSuitTest_name4 - 2019.03.18 at 14h 01m 24s.xml">
-      <configuration name="GymSuitTest.name4" configurationId="JUnit" />
+    <history-entry file="VisitLengthTest_name1 - 2019.03.21 at 14h 39m 52s.xml">
+      <configuration name="VisitLengthTest.name1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GymSuitTest_name7 - 2019.03.18 at 14h 03m 48s.xml">
-      <configuration name="GymSuitTest.name7" configurationId="JUnit" />
+    <history-entry file="VisitLengthTest_name1 - 2019.03.21 at 14h 47m 43s.xml">
+      <configuration name="VisitLengthTest.name1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GymSuitTest_name7 - 2019.03.18 at 14h 04m 04s.xml">
-      <configuration name="GymSuitTest.name7" configurationId="JUnit" />
+    <history-entry file="VisitLengthTest_name1 - 2019.03.21 at 14h 53m 27s.xml">
+      <configuration name="VisitLengthTest.name1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GymSuitTest_name7 - 2019.03.18 at 14h 06m 42s.xml">
-      <configuration name="GymSuitTest.name7" configurationId="JUnit" />
+    <history-entry file="VisitLengthTest_name1 - 2019.03.21 at 14h 56m 23s.xml">
+      <configuration name="VisitLengthTest.name1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GymSuitTest_name7 - 2019.03.18 at 14h 09m 54s.xml">
-      <configuration name="GymSuitTest.name7" configurationId="JUnit" />
+    <history-entry file="VisitLengthTest_name1 - 2019.03.21 at 14h 57m 35s.xml">
+      <configuration name="VisitLengthTest.name1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GymSuitTest_name7 - 2019.03.18 at 14h 09m 57s.xml">
-      <configuration name="GymSuitTest.name7" configurationId="JUnit" />
+    <history-entry file="VisitLengthTest_name2 - 2019.03.21 at 15h 14m 35s.xml">
+      <configuration name="VisitLengthTest.name2" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -929,10 +912,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="205" y="18" width="1108" height="812" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.27099237" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.19060403" />
       <window_info id="Structure" order="1" sideWeight="0.50142044" side_tool="true" weight="0.35436243" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -941,8 +924,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3761062" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39914772" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3622159" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.9588068" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32954547" />
@@ -1056,6 +1039,14 @@
           </properties>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/programas/visitlength/VisitLength.java</url>
+          <line>24</line>
+          <properties class="programas.visitlength.VisitLength.Coordinate" method="nextPoint">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -1084,37 +1075,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/morehot/MoreHot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/javafx-src.zip!/javafx/scene/input/ZoomEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="59" column="19" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/AbstractQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1896">
-          <caret line="63" column="22" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/ramenfactory/RamenFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/doublepriorityqueue/DoublePriorityQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -1271,13 +1231,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/jobpare/JobPare1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="365">
@@ -1321,24 +1274,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/gymsuit/GymSuitTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="54" column="61" selection-start-line="54" selection-start-column="61" selection-end-line="54" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
-            <element signature="e#573#574#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
-            <element signature="e#698#699#0" expanded="true" />
-            <element signature="e#884#885#0" expanded="true" />
-            <element signature="e#985#986#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/jobpare/JobPare3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -1350,16 +1285,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/gymsuit/GymSuit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="31" column="8" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1451,18 +1376,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/junggo/JungGoTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1749#1750#0" expanded="true" />
-            <element signature="e#1773#1774#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -1499,6 +1412,98 @@
             <element signature="imports" expanded="true" />
             <element signature="e#2048#2049#0" expanded="true" />
             <element signature="e#2077#2078#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/gymsuit/GymSuit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/gymsuit/GymSuitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="48" column="77" lean-forward="true" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/junggo/JungGoTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1749#1750#0" expanded="true" />
+            <element signature="e#1773#1774#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#1657#1658#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2771">
+          <caret line="197" column="60" selection-start-line="197" selection-start-column="54" selection-end-line="197" selection-end-column="60" />
+          <folding>
+            <element signature="e#3740#3741#0" expanded="true" />
+            <element signature="e#3777#3778#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/visitlength/VisitLengthTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/visitlength/VisitLength.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1403#1404#0" expanded="true" />
+            <element signature="e#1454#1455#0" expanded="true" />
+            <element signature="e#1120#1121#0" expanded="true" />
+            <element signature="e#1169#1170#0" expanded="true" />
+            <element signature="e#2243#2244#0" expanded="true" />
+            <element signature="e#2275#2276#0" expanded="true" />
+            <element signature="e#1742#1743#0" expanded="true" />
+            <element signature="e#1801#1802#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="58" column="23" lean-forward="true" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="23" />
+          <folding>
+            <element signature="e#1410#1411#0" expanded="true" />
+            <element signature="e#1471#1472#0" expanded="true" />
           </folding>
         </state>
       </provider>
