@@ -1,4 +1,4 @@
-package programas.clear.skilltree;
+package programas.skilltree;
 
 public class SkillTree {
     public int solution(String skill, String[] skill_trees) {

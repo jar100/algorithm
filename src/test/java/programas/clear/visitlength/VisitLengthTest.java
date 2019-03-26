@@ -1,4 +1,4 @@
-package programas.visitlength;
+package programas.clear.visitlength;
 
 import org.junit.Test;
 import programas.BaseTest;

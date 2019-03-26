@@ -1,4 +1,4 @@
-package programas.clear.skilltree;
+package programas.skilltree;
 
 import org.junit.Test;
 import programas.BaseTest;
