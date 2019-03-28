@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23586ee2-4605-423a-a2cc-a7fb8717802a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/programas/Joystick/JoyStick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/programas/Joystick/JoyStickTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programas/safeboat/SafeBoat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/programas/safeboat/SafeBoatTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/visitlength/VisitLength$Coordinate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/visitlength/VisitLength$Line.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/visitlength/VisitLength$Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/visitlength/VisitLength.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/visitlength/VisitLengthTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programas/clear/visitlength/VisitLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/clear/visitlength/VisitLength.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programas/makebignum/MakeBigNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/makebignum/MakeBigNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programas/skilltree/SkillTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/skilltree/SkillTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/visitlength/VisitLengthTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/visitlength/VisitLengthTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/programas/makebignum/MakeBigNumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/makebignum/MakeBigNumTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/programas/skilltree/SkillTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/skilltree/SkillTreeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programas/Joystick/JoyStick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/joystick/JoyStick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/Joystick/JoyStickTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/joystick/JoyStickTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,6 +19,9 @@
     <SUITE FILE_PATH="coverage/algorithm$kakaoEx4Test_solution.ic" NAME="kakaoEx4Test.solution Coverage Results" MODIFIED="1548917877535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>programas.test.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/algorithm$SafeBoatTest_name.ic" NAME="SafeBoatTest.name Coverage Results" MODIFIED="1553591868844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>programas.safeboat.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/algorithm$CrossingBridgeTest_solution.ic" NAME="CrossingBridgeTest.solution Coverage Results" MODIFIED="1546513057418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>programas.crossingbridge.*</FILTER>
     </SUITE>
@@ -39,7 +33,7 @@
     </SUITE>
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="215" />
+    <option name="myElementSize" value="220" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -69,7 +63,7 @@
         <counts>
           <entry key="project.closed" value="56" />
           <entry key="project.open.time.0" value="11" />
-          <entry key="project.open.time.1" value="24" />
+          <entry key="project.open.time.1" value="25" />
           <entry key="project.open.time.10" value="4" />
           <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.12" value="2" />
@@ -83,7 +77,7 @@
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="67" />
+          <entry key="project.opened" value="68" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -96,7 +90,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="4" />
-          <entry key="JAVA" value="370" />
+          <entry key="JAVA" value="377" />
           <entry key="Markdown" value="20" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
@@ -110,7 +104,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="46403" />
+          <entry key="JAVA" value="46948" />
           <entry key="Markdown" value="1486" />
           <entry key="PLAIN_TEXT" value="75" />
         </counts>
@@ -121,75 +115,66 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/programas/makebignum/MakeBigNumTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/safeboat/SafeBoat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="32" column="119" selection-start-line="32" selection-start-column="119" selection-end-line="32" selection-end-column="119" />
+            <state relative-caret-position="59">
+              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
-                <element signature="e#324#325#0" expanded="true" />
-                <element signature="e#486#487#0" expanded="true" />
-                <element signature="e#573#574#0" expanded="true" />
-                <element signature="e#610#611#0" expanded="true" />
-                <element signature="e#701#702#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/programas/makebignum/MakeBigNum.java">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            <state relative-caret-position="221">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/programas/Joystick/JoyStick.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/joystick/JoyStick.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="34" column="38" lean-forward="true" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+            <state relative-caret-position="501">
+              <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/programas/Joystick/JoyStickTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programas/joystick/JoyStickTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="25" column="75" selection-start-line="25" selection-start-column="75" selection-end-line="25" selection-end-column="75" />
+            <state relative-caret-position="221">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#234#235#0" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
-                <element signature="e#426#427#0" expanded="true" />
                 <element signature="e#422#423#0" expanded="true" />
                 <element signature="e#505#506#0" expanded="true" />
                 <element signature="e#542#543#0" expanded="true" />
-                <element signature="e#576#577#0" expanded="true" />
+                <element signature="e#624#625#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/StringBuilder.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programas/safeboat/SafeBoatTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="251" column="25" selection-start-line="251" selection-start-column="25" selection-end-line="251" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/NumberFormatException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="64" selection-start-line="64" selection-end-line="64" />
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#234#235#0" expanded="true" />
+                <element signature="e#331#332#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#498#499#0" expanded="true" />
+                <element signature="e#595#596#0" expanded="true" />
+                <element signature="e#637#638#0" expanded="true" />
+                <element signature="e#734#735#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -525,10 +510,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/programas/jobpare/JobPare3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/clear/crossingbridge/CrossingBridge.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/clear/jobpare/Item.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/clear/jobpare/JobPare1.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/clear/jobpare/GameItemImpl.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/clear/jobpare/jobpare2Test.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/clear/jobpare/jobpare1Test.java" />
@@ -572,10 +553,14 @@
         <option value="$PROJECT_DIR$/src/main/java/programas/skilltree/SkillTree.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/skilltree/SkillTreeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/clear/skilltree/SkillTree.java" />
-        <option value="$PROJECT_DIR$/src/test/java/programas/makebignum/MakeBigNumTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/makebignum/MakeBigNum.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/Joystick/JoyStick.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/Joystick/JoyStickTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/makebignum/MakeBigNumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/safeboat/Safeboat.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/safeboat/SafeBoatTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/safeboat/SafeBoat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/joystick/JoyStick.java" />
       </list>
     </option>
   </component>
@@ -585,7 +570,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="135" />
     <option name="y" value="10" />
     <option name="width" value="1385" />
@@ -619,7 +604,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -653,16 +637,26 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="programas" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="programas" type="462c0819:PsiDirectoryNode" />
+              <item name="safeboat" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/jar10/Documents/codesquad/workspace/algorithm/src/main/java/baekjun/clear/baek1015/Baek1015.java&#10;zoom&#9;PSI&#9;JAVA://javafx.scene.input.ZoomEvent&#10;stack&#9;PSI&#9;JAVA://java.util.Stack" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553576148030" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553666808481" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="extract.method.default.visibility" value="private" />
@@ -674,11 +668,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="programas.safeboat" />
       <recent name="programas.Joystick" />
       <recent name="programas.makebignum" />
       <recent name="programas.skilltree" />
       <recent name="programas.visitlength" />
-      <recent name="junggo" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -720,93 +714,93 @@
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programas.Joystick.*" />
+          <option name="PATTERN" value="programas.joystick.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="programas.Joystick" />
-      <option name="MAIN_CLASS_NAME" value="programas.Joystick.JoyStickTest" />
+      <option name="PACKAGE_NAME" value="programas.joystick" />
+      <option name="MAIN_CLASS_NAME" value="programas.joystick.JoyStickTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JoyStickTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SafeBoatTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programas.Joystick.*" />
+          <option name="PATTERN" value="programas.safeboat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="programas.Joystick" />
-      <option name="MAIN_CLASS_NAME" value="programas.Joystick.JoyStickTest" />
+      <option name="PACKAGE_NAME" value="programas.safeboat" />
+      <option name="MAIN_CLASS_NAME" value="programas.safeboat.SafeBoatTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SafeBoatTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programas.safeboat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programas.safeboat" />
+      <option name="MAIN_CLASS_NAME" value="programas.safeboat.SafeBoatTest" />
       <option name="METHOD_NAME" value="name" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JoyStickTest.name1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SafeBoatTest.name1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programas.Joystick.*" />
+          <option name="PATTERN" value="programas.safeboat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="programas.Joystick" />
-      <option name="MAIN_CLASS_NAME" value="programas.Joystick.JoyStickTest" />
+      <option name="PACKAGE_NAME" value="programas.safeboat" />
+      <option name="MAIN_CLASS_NAME" value="programas.safeboat.SafeBoatTest" />
       <option name="METHOD_NAME" value="name1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JoyStickTest.name2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SafeBoatTest.name3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programas.Joystick.*" />
+          <option name="PATTERN" value="programas.safeboat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="programas.Joystick" />
-      <option name="MAIN_CLASS_NAME" value="programas.Joystick.JoyStickTest" />
-      <option name="METHOD_NAME" value="name2" />
+      <option name="PACKAGE_NAME" value="programas.safeboat" />
+      <option name="MAIN_CLASS_NAME" value="programas.safeboat.SafeBoatTest" />
+      <option name="METHOD_NAME" value="name3" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MakeBigNumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programas.makebignum.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="programas.makebignum" />
-      <option name="MAIN_CLASS_NAME" value="programas.makebignum.MakeBigNumTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Gradle.Unnamed" />
-      <item itemvalue="JUnit.MakeBigNumTest" />
-      <item itemvalue="JUnit.JoyStickTest.name" />
-      <item itemvalue="JUnit.JoyStickTest.name1" />
-      <item itemvalue="JUnit.JoyStickTest.name2" />
+      <item itemvalue="JUnit.SafeBoatTest" />
+      <item itemvalue="JUnit.SafeBoatTest.name" />
+      <item itemvalue="JUnit.SafeBoatTest.name3" />
+      <item itemvalue="JUnit.SafeBoatTest.name1" />
       <item itemvalue="JUnit.JoyStickTest" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.JoyStickTest" />
-        <item itemvalue="JUnit.JoyStickTest.name1" />
-        <item itemvalue="JUnit.JoyStickTest.name" />
-        <item itemvalue="JUnit.JoyStickTest.name2" />
-        <item itemvalue="JUnit.MakeBigNumTest" />
+        <item itemvalue="JUnit.SafeBoatTest" />
+        <item itemvalue="JUnit.SafeBoatTest.name1" />
+        <item itemvalue="JUnit.SafeBoatTest.name3" />
+        <item itemvalue="JUnit.SafeBoatTest.name" />
       </list>
     </recent_temporary>
   </component>
@@ -824,34 +818,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="JoyStickTest_name - 2019.03.25 at 15h 20m 13s.xml">
-      <configuration name="JoyStickTest.name" configurationId="JUnit" />
+    <history-entry file="SafeBoatTest_name3 - 2019.03.26 at 18h 42m 54s.xml">
+      <configuration name="SafeBoatTest.name3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JoyStickTest_name - 2019.03.25 at 15h 22m 26s.xml">
-      <configuration name="JoyStickTest.name" configurationId="JUnit" />
+    <history-entry file="SafeBoatTest - 2019.03.26 at 18h 43m 02s.xml">
+      <configuration name="SafeBoatTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JoyStickTest_name - 2019.03.25 at 15h 24m 15s.xml">
-      <configuration name="JoyStickTest.name" configurationId="JUnit" />
+    <history-entry file="SafeBoatTest - 2019.03.26 at 18h 43m 30s.xml">
+      <configuration name="SafeBoatTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JoyStickTest - 2019.03.25 at 15h 24m 26s.xml">
-      <configuration name="JoyStickTest" configurationId="JUnit" />
+    <history-entry file="SafeBoatTest - 2019.03.26 at 18h 43m 47s.xml">
+      <configuration name="SafeBoatTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JoyStickTest - 2019.03.25 at 15h 24m 45s.xml">
-      <configuration name="JoyStickTest" configurationId="JUnit" />
+    <history-entry file="SafeBoatTest - 2019.03.26 at 18h 44m 25s.xml">
+      <configuration name="SafeBoatTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JoyStickTest_name1 - 2019.03.25 at 15h 26m 03s.xml">
-      <configuration name="JoyStickTest.name1" configurationId="JUnit" />
+    <history-entry file="SafeBoatTest - 2019.03.26 at 18h 44m 43s.xml">
+      <configuration name="SafeBoatTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JoyStickTest_name1 - 2019.03.25 at 15h 26m 08s.xml">
-      <configuration name="JoyStickTest.name1" configurationId="JUnit" />
+    <history-entry file="SafeBoatTest_name1 - 2019.03.26 at 18h 46m 14s.xml">
+      <configuration name="SafeBoatTest.name1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JoyStickTest - 2019.03.25 at 15h 26m 15s.xml">
-      <configuration name="JoyStickTest" configurationId="JUnit" />
+    <history-entry file="SafeBoatTest_name1 - 2019.03.26 at 18h 46m 38s.xml">
+      <configuration name="SafeBoatTest.name1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JoyStickTest - 2019.03.25 at 15h 30m 27s.xml">
-      <configuration name="JoyStickTest" configurationId="JUnit" />
+    <history-entry file="SafeBoatTest - 2019.03.26 at 18h 46m 44s.xml">
+      <configuration name="SafeBoatTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JoyStickTest - 2019.03.25 at 15h 33m 36s.xml">
+    <history-entry file="JoyStickTest - 2019.03.27 at 14h 33m 09s.xml">
       <configuration name="JoyStickTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -865,10 +859,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.19597316" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.19865772" />
       <window_info id="Structure" order="1" sideWeight="0.50142044" side_tool="true" weight="0.35436243" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -877,7 +871,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3622159" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3409091" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.51704544" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -969,10 +963,16 @@
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/programas/Joystick/JoyStick.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/programas/joystick/JoyStick.java</url>
           <line>25</line>
           <properties />
           <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/programas/safeboat/SafeBoat.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/baekjun/clear/baek1015/Baek1015.java</url>
@@ -1015,6 +1015,9 @@
           <option name="timeStamp" value="45" />
         </line-breakpoint>
       </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
@@ -1042,20 +1045,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/indexknum/IndexOfKNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/longestnode/LongestNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/programas/onemore/diskcontroller/DiskController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1998">
@@ -1157,13 +1146,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
           <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
@@ -1392,13 +1374,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3774">
+          <caret line="251" column="25" selection-start-line="251" selection-start-column="25" selection-end-line="251" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/programas/makebignum/MakeBigNumTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="32" column="119" selection-start-line="32" selection-start-column="119" selection-end-line="32" selection-end-column="119" />
+        <state relative-caret-position="187">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
             <element signature="e#324#325#0" expanded="true" />
             <element signature="e#486#487#0" expanded="true" />
             <element signature="e#573#574#0" expanded="true" />
@@ -1410,47 +1405,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/programas/makebignum/MakeBigNum.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/safeboat/SafeBoatTest.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/NumberFormatException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="251" column="25" selection-start-line="251" selection-start-column="25" selection-end-line="251" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/Joystick/JoyStickTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="25" column="75" selection-start-line="25" selection-start-column="75" selection-end-line="25" selection-end-column="75" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#426#427#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
-            <element signature="e#576#577#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/Joystick/JoyStick.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/safeboat/SafeBoat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="34" column="38" lean-forward="true" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+        <state relative-caret-position="59">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/joystick/JoyStickTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/joystick/JoyStick.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
         </state>
       </provider>
     </entry>

@@ -1,4 +1,4 @@
-package programas.Joystick;
+package programas.joystick;
 
 public class JoyStick {
     public int solution(String name) {
@@ -9,6 +9,7 @@ public class JoyStick {
         int tempIndex = Integer.MAX_VALUE;
         int tempIndexDistance = Integer.MAX_VALUE;
         int count = 0;
+
         int[] answerLength = new int[length];
         for (int i = 0; i < name.length(); i++) {
             if (name.charAt(i) != 'A') {

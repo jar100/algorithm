@@ -1,4 +1,4 @@
-package programas.Joystick;
+package programas.joystick;
 
 import org.junit.Test;
 import programas.BaseTest;
