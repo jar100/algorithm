@@ -21,7 +21,7 @@ public class jobpare1Test extends BaseTest {
     @Test
     public void name() {
         JobPare1 jobPare1 = new JobPare1();
-        softly.assertThat(jobPare1.solution2(	"listen", "silent")).isTrue();
+        softly.assertThat(jobPare1.solution2_1(	"listen", "silent")).isTrue();
     }
 
     @Test
@@ -45,6 +45,8 @@ public class jobpare1Test extends BaseTest {
         JobPare1 jobPare1 = new JobPare1();
         //softly.assertThat(jobPare1.solution3(	"1213002")).isEqualTo(7);
         softly.assertThat(jobPare1.solution4(	new int[]{5,1,3},1)).isEqualTo(1);
+        softly.assertThat(jobPare1.solution4(	new int[]{10, 9,8,7,6,5,4,3,2,1},1)).isEqualTo(2);
+        softly.assertThat(jobPare1.solution4(	new int[]{10, 9,8,7,6,5,4,3,2,1},5)).isEqualTo(6);
 
     }
 }

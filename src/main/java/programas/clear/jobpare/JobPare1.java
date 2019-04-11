@@ -29,6 +29,7 @@ public class JobPare1 {
         doCombination(arr, sosu.size(),3 , 0, 0, sosu,a);
         return a.size();
     }
+
     public void doCombination(int[] combArr, int n, int r, int index, int target, List<Integer> arr, List<Integer> answer){
         if(r == 0){
             int a = 0;
@@ -63,6 +64,21 @@ public class JobPare1 {
             }
             if (i == lostIndex -1) {
                 return true;
+            }
+        }
+        return answer;
+    }
+
+    public boolean solution2_1(String a, String b) {
+        //아나그램
+        boolean answer = true;
+        char[] answerA = a.toCharArray();
+        char[] answerB = b.toLowerCase().toCharArray();
+        Arrays.sort(answerA);
+        Arrays.sort(answerB);
+        for (int i = 0; i < a.length(); i++) {
+            if (answerA[i] != answerB[i]) {
+                return false;
             }
         }
         return answer;

@@ -9,6 +9,7 @@ public class SixShop {
     public static String isPangram(List<String> a) {
         StringBuilder answer = new StringBuilder();
 
+
         for (String s : a) {
             List<Character> checkList = new ArrayList<>();
             for (int i = 97; i < 123; i++) {
@@ -33,6 +34,7 @@ public class SixShop {
 
     static String[] braces2(String[] values) {
         String[] answer = new String[values.length];
+        answer[0].split(" ",-1);
         int count = 0;
         for (String value : values) {
             Stack<Character> stack = new Stack<>();
