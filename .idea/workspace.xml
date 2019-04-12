@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23586ee2-4605-423a-a2cc-a7fb8717802a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/sixshop/EqualsObjectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programas/clear/tileornaments/TileOrnaments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/programas/clear/tileornaments/TileOrnamentsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/jobpare/JobPare1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/jobpare/JobPare1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/jobpare/jobpare1Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/jobpare/jobpare1Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programas/clear/jobpare/JobPare1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/clear/jobpare/JobPare1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sixshop/SixShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sixshop/SixShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/NewBigNumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/NewBigNumTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/jobpare/jobpare1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/jobpare/jobpare1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programas/samenumdelet/SameNumDelet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programas/samenumdelet/SameNumDelet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/clear/samenumdelet/SameNumDelet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/samenumdelet/SameNumDeletTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/samenumdelet/SameNumDeletTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/samenumdelet/SameNumDeletTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,14 +63,14 @@
     <session id="-1804102672">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="63" />
+          <entry key="project.closed" value="64" />
           <entry key="project.open.time.0" value="11" />
           <entry key="project.open.time.1" value="25" />
           <entry key="project.open.time.10" value="6" />
           <entry key="project.open.time.11" value="4" />
           <entry key="project.open.time.12" value="4" />
           <entry key="project.open.time.13" value="4" />
-          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.14" value="3" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.19" value="1" />
@@ -80,7 +79,7 @@
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="4" />
-          <entry key="project.opened" value="79" />
+          <entry key="project.opened" value="80" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -94,7 +93,7 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="Groovy" value="4" />
-          <entry key="JAVA" value="442" />
+          <entry key="JAVA" value="449" />
           <entry key="Markdown" value="20" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
@@ -108,7 +107,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="53990" />
+          <entry key="JAVA" value="54227" />
           <entry key="Markdown" value="1486" />
           <entry key="PLAIN_TEXT" value="75" />
         </counts>
@@ -119,105 +118,62 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/List.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/tileornaments/TileOrnaments.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1479">
-              <caret line="110" column="41" selection-start-line="110" selection-start-column="41" selection-end-line="110" selection-end-column="41" />
+            <state relative-caret-position="272">
+              <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/jobpare/jobpare1Test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/safeboat/SafeBoat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="48" column="96" selection-start-line="48" selection-start-column="96" selection-end-line="48" selection-end-column="96" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sixshop/SixShop.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+            <state>
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/onemore/diskcontroller/DiskController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/NewBigNumTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/samenumdelet/SameNumDelet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/sixshop/EqualsObjectTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="34" column="18" lean-forward="true" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#280#281#0" expanded="true" />
-                <element signature="e#306#307#0" expanded="true" />
-                <element signature="e#599#600#0" expanded="true" />
-                <element signature="e#645#646#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/visitlength/VisitLength.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Objects.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="48" column="21" lean-forward="true" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Object.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="147" column="4" selection-start-line="147" selection-start-column="4" selection-end-line="150" />
-              <folding>
-                <element signature="e#5748#5749#0" expanded="true" />
-                <element signature="e#5784#5785#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="953" column="27" selection-start-line="953" selection-start-column="27" selection-end-line="953" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/programas/BaseTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/skilltree/SkillTree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="48" selection-start-line="2" selection-end-line="2" selection-end-column="48" />
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/tileornaments/TileOrnamentsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -570,10 +526,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/junggo/JungGoTwoTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/junggo/JungGoThree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/junggo/JungGoOne.java" />
-        <option value="$PROJECT_DIR$/src/main/java/junggo/JungGoFour.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/clear/gymsuit/GymSuit.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/visitlength/VisitLength.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/visitlength/VisitLengthTest.java" />
@@ -621,6 +573,10 @@
         <option value="$PROJECT_DIR$/src/test/java/sixshop/EqualsObjectTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/sixshop/SixShop.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/clear/NewBigNumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/tileornaments/TileOrnament.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/tileornaments/TileOrnamentsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/tileornaments/TileOrnaments.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/clear/samenumdelet/SameNumDelet.java" />
       </list>
     </option>
   </component>
@@ -631,10 +587,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="501" />
-    <option name="y" value="150" />
-    <option name="width" value="1385" />
-    <option name="height" value="1015" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -682,6 +638,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -721,6 +679,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="programas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="sixshop" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -733,8 +699,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -742,7 +706,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/jar10/Documents/codesquad/workspace/algorithm/src/test/java/sixshop/SixShopTest.java&#10;zoom&#9;PSI&#9;JAVA://javafx.scene.input.ZoomEvent&#10;stack&#9;PSI&#9;JAVA://java.util.Stack" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554972955369" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555052524339" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="extract.method.default.visibility" value="private" />
@@ -754,11 +718,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="programas.tileornaments" />
       <recent name="sixshop" />
       <recent name="programas.descripn" />
       <recent name="programas" />
       <recent name="programas.samenumdelet" />
-      <recent name="programas.safeboat" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -782,7 +746,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.NewBigNumTest.name">
+  <component name="RunManager" selected="JUnit.TileOrnamentsTest">
     <configuration name="Unnamed" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -879,21 +843,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TileOrnamentsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programas.clear.tileornaments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programas.clear.tileornaments" />
+      <option name="MAIN_CLASS_NAME" value="programas.clear.tileornaments.TileOrnamentsTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Gradle.Unnamed" />
       <item itemvalue="JUnit.EqualsObjectTest.동등성" />
-      <item itemvalue="JUnit.EqualsObjectTest.동일성" />
-      <item itemvalue="JUnit.EqualsObjectTest.객체동일성비교" />
       <item itemvalue="JUnit.NewBigNumTest.test" />
       <item itemvalue="JUnit.NewBigNumTest.name" />
+      <item itemvalue="JUnit.TileOrnamentsTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TileOrnamentsTest" />
         <item itemvalue="JUnit.NewBigNumTest.name" />
         <item itemvalue="JUnit.NewBigNumTest.test" />
-        <item itemvalue="JUnit.EqualsObjectTest.동일성" />
         <item itemvalue="JUnit.EqualsObjectTest.동등성" />
-        <item itemvalue="JUnit.EqualsObjectTest.객체동일성비교" />
       </list>
     </recent_temporary>
   </component>
@@ -911,27 +887,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NewBigNumTest_name - 2019.04.11 at 17h 42m 46s.xml">
-      <configuration name="NewBigNumTest.name" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NewBigNumTest_name - 2019.04.11 at 17h 43m 11s.xml">
-      <configuration name="NewBigNumTest.name" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NewBigNumTest_name - 2019.04.11 at 17h 45m 11s.xml">
-      <configuration name="NewBigNumTest.name" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NewBigNumTest_name - 2019.04.11 at 17h 46m 29s.xml">
-      <configuration name="NewBigNumTest.name" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NewBigNumTest_name - 2019.04.11 at 17h 46m 46s.xml">
-      <configuration name="NewBigNumTest.name" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NewBigNumTest_name - 2019.04.11 at 17h 47m 06s.xml">
-      <configuration name="NewBigNumTest.name" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NewBigNumTest_name - 2019.04.11 at 17h 48m 16s.xml">
-      <configuration name="NewBigNumTest.name" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="NewBigNumTest_name - 2019.04.11 at 17h 48m 34s.xml">
       <configuration name="NewBigNumTest.name" configurationId="JUnit" />
     </history-entry>
@@ -940,6 +895,27 @@
     </history-entry>
     <history-entry file="NewBigNumTest_name - 2019.04.11 at 17h 49m 11s.xml">
       <configuration name="NewBigNumTest.name" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NewBigNumTest_name - 2019.04.11 at 17h 52m 56s.xml">
+      <configuration name="NewBigNumTest.name" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NewBigNumTest_name - 2019.04.11 at 17h 53m 11s.xml">
+      <configuration name="NewBigNumTest.name" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NewBigNumTest_name - 2019.04.11 at 17h 54m 00s.xml">
+      <configuration name="NewBigNumTest.name" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TileOrnamentsTest - 2019.04.12 at 15h 29m 39s.xml">
+      <configuration name="TileOrnamentsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TileOrnamentsTest - 2019.04.12 at 15h 32m 02s.xml">
+      <configuration name="TileOrnamentsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TileOrnamentsTest - 2019.04.12 at 15h 32m 12s.xml">
+      <configuration name="TileOrnamentsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TileOrnamentsTest - 2019.04.12 at 15h 33m 55s.xml">
+      <configuration name="TileOrnamentsTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -953,9 +929,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.12147651" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.12281879" />
       <window_info id="Structure" order="1" sideWeight="0.50142044" side_tool="true" weight="0.35436243" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1130,44 +1105,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/makebignum/MakeBigNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="62" column="3" lean-forward="true" selection-start-line="62" selection-start-column="3" selection-end-line="62" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/safeboat/SafeBoat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/safeboat/SafeBoatTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/NewBigNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="59" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/Phonekemon.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -1175,7 +1112,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/samenumdelet/SameNumDeletTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/samenumdelet/SameNumDeletTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
@@ -1193,13 +1130,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/samenumdelet/SameNumDelet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -1300,9 +1230,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1372,9 +1299,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="518">
           <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1413,13 +1337,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4743">
           <caret line="313" column="4" selection-start-line="313" selection-start-column="4" selection-end-line="324" selection-end-column="5" />
-          <folding>
-            <element signature="e#6283#6284#0" expanded="true" />
-            <element signature="e#6351#6352#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sixshop/EqualsTest.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1479">
@@ -1427,17 +1348,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/BaseTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/jobpare/jobpare1Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="48" selection-start-line="2" selection-end-line="2" selection-end-column="48" />
+        <state relative-caret-position="799">
+          <caret line="48" column="96" selection-start-line="48" selection-start-column="96" selection-end-line="48" selection-end-column="96" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sixshop/SixShop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="953" column="27" selection-start-line="953" selection-start-column="27" selection-end-line="953" selection-end-column="27" />
+        <state relative-caret-position="391">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/sixshop/EqualsObjectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1450,14 +1386,14 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Objects.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="48" column="21" lean-forward="true" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+        <state relative-caret-position="391">
+          <caret line="48" column="21" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="2108">
           <caret line="147" column="4" selection-start-line="147" selection-start-column="4" selection-end-line="150" />
           <folding>
             <element signature="e#5748#5749#0" expanded="true" />
@@ -1466,54 +1402,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sixshop/EqualsTest.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="23" selection-end-column="1" />
-          <folding>
-            <element signature="e#93#94#0" expanded="true" />
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="15555">
+          <caret line="953" column="27" selection-start-line="953" selection-start-column="27" selection-end-line="953" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/jobpare/jobpare1Test.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="48" column="96" selection-start-line="48" selection-start-column="96" selection-end-line="48" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/sixshop/EqualsObjectTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="34" column="18" lean-forward="true" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#599#600#0" expanded="true" />
-            <element signature="e#645#646#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sixshop/SixShop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="48" selection-start-line="2" selection-end-line="2" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/NewBigNumTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="306">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/tileornaments/TileOrnamentsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/skilltree/SkillTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/tileornaments/TileOrnaments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/safeboat/SafeBoat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/onemore/diskcontroller/DiskController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/samenumdelet/SameNumDelet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>

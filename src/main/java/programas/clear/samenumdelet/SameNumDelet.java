@@ -1,4 +1,4 @@
-package programas.samenumdelet;
+package programas.clear.samenumdelet;
 
 import java.util.Stack;
 
