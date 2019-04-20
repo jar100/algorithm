@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23586ee2-4605-423a-a2cc-a7fb8717802a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjun/baek1608/StarGameTournament.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjun/baek1608/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programas/essencetriangle/EssenceTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programas/thievery/Thievery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/baekjun/baek1608/GraphTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/programas/essencetriangle/EssenceTriangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/programas/thievery/ThieveryTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/baekjun/baek1608/StarGameTournament.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/baekjun/baek1608/StarGameTournament.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/samenumdelet/SameNumDeletTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/tileornaments/TileOrnamentsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/baekjun/baek1608/StarGameTournament.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baekjun/baek1608/StarGameTournament.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programas/FindBigSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/FindBigSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sixshop/SixShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sixshop/SixShop.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,10 +69,10 @@
     <session id="-1804102672">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="64" />
+          <entry key="project.closed" value="67" />
           <entry key="project.open.time.0" value="11" />
           <entry key="project.open.time.1" value="25" />
-          <entry key="project.open.time.10" value="6" />
+          <entry key="project.open.time.10" value="8" />
           <entry key="project.open.time.11" value="4" />
           <entry key="project.open.time.12" value="4" />
           <entry key="project.open.time.13" value="4" />
@@ -73,8 +84,8 @@
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="4" />
-          <entry key="project.open.time.9" value="4" />
-          <entry key="project.opened" value="81" />
+          <entry key="project.open.time.9" value="5" />
+          <entry key="project.opened" value="84" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -88,7 +99,7 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="Groovy" value="4" />
-          <entry key="JAVA" value="455" />
+          <entry key="JAVA" value="470" />
           <entry key="Markdown" value="20" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
@@ -102,7 +113,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="54950" />
+          <entry key="JAVA" value="57311" />
           <entry key="Markdown" value="1486" />
           <entry key="PLAIN_TEXT" value="75" />
         </counts>
@@ -112,11 +123,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/baekjun/baek1608/StarGameTournament.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/FindBigSquare.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="30" column="13" selection-start-line="28" selection-start-column="48" selection-end-line="30" selection-end-column="13" />
+            <state relative-caret-position="306">
+              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/essencetriangle/EssenceTriangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.11.1/55362d8f04018b1140c5a370057bf8cd4a63c3de/assertj-core-3.11.1-sources.jar!/org/assertj/core/api/SoftAssertionsStatement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programas/essencetriangle/EssenceTriangleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -125,10 +172,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sixshop/SixShop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3366">
+              <caret line="200" column="41" selection-start-line="200" selection-start-column="41" selection-end-line="200" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/MakeJadenCase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/KakaoTest2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="44" column="40" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/baekjun/clear/baek1015/Baek1015.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="595">
-              <caret line="38" column="29" lean-forward="true" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+              <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -137,7 +214,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/baekjun/clear/baek1193/Baek1193.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -148,14 +225,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>add</find>
       <find>gener</find>
       <find>String</find>
       <find>PriorityQueue</find>
@@ -185,6 +261,7 @@
       <find>split(&quot; &quot;,-1)</find>
       <find>.split</find>
       <find>IntStr</find>
+      <find>visited</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -491,14 +568,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/programas/visitlength/VisitLength.java" />
-        <option value="$PROJECT_DIR$/src/test/java/programas/visitlength/VisitLengthTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/clear/hindex/HIndex.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/skilltree/SkillTree.java" />
-        <option value="$PROJECT_DIR$/src/test/java/programas/skilltree/SkillTreeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/clear/skilltree/SkillTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/makebignum/MakeBigNum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/Joystick/JoyStick.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/Joystick/JoyStickTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/makebignum/MakeBigNumTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/safeboat/Safeboat.java" />
@@ -535,13 +604,21 @@
         <option value="$PROJECT_DIR$/src/test/java/sixshop/EqualsTestTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/sixshop/EqualsObjectTEst.java" />
         <option value="$PROJECT_DIR$/src/test/java/sixshop/EqualsObjectTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sixshop/SixShop.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/clear/NewBigNumTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/tileornaments/TileOrnament.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/tileornaments/TileOrnamentsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/tileornaments/TileOrnaments.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/clear/samenumdelet/SameNumDelet.java" />
         <option value="$PROJECT_DIR$/src/main/java/baekjun/baek1608/StarGameTournament.java" />
+        <option value="$PROJECT_DIR$/src/main/java/baekjun/baek1608/Dfs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/baekjun/baek1608/Graph.java" />
+        <option value="$PROJECT_DIR$/src/test/java/baekjun/baek1608/GraphTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sixshop/SixShop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/thievery/Thievery.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/thievery/ThieveryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/FindBigSquare.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/essencetriangle/EssenceTriangleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/essencetriangle/EssenceTriangle.java" />
       </list>
     </option>
   </component>
@@ -642,44 +719,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="baekjun" type="462c0819:PsiDirectoryNode" />
-              <item name="baek1608" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="baekjun" type="462c0819:PsiDirectoryNode" />
-              <item name="clear" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="baekjun" type="462c0819:PsiDirectoryNode" />
-              <item name="clear" type="462c0819:PsiDirectoryNode" />
-              <item name="baek1015" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="baekjun" type="462c0819:PsiDirectoryNode" />
-              <item name="clear" type="462c0819:PsiDirectoryNode" />
-              <item name="baek1193" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="programas" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -700,8 +739,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -709,7 +748,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/jar10/Documents/codesquad/workspace/algorithm/src/test/java/sixshop/SixShopTest.java&#10;zoom&#9;PSI&#9;JAVA://javafx.scene.input.ZoomEvent&#10;stack&#9;PSI&#9;JAVA://java.util.Stack" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555147914162" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555738455020" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="extract.method.default.visibility" value="private" />
@@ -721,11 +760,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="programas.essencetriangle" />
+      <recent name="programas.thievery" />
+      <recent name="baekjun.baek1608" />
       <recent name="programas.tileornaments" />
       <recent name="sixshop" />
-      <recent name="programas.descripn" />
-      <recent name="programas" />
-      <recent name="programas.samenumdelet" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -749,7 +788,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StarGameTournament">
+  <component name="RunManager" selected="JUnit.EssenceTriangleTest.name">
     <configuration name="StarGameTournament" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="baekjun.baek1608.StarGameTournament" />
       <module name="algorithm_main" />
@@ -779,115 +818,85 @@
       </ExternalSystemSettings>
       <method v="2" />
     </configuration>
-    <configuration name="EqualsObjectTest.동등성" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EssenceTriangleTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sixshop.*" />
+          <option name="PATTERN" value="programas.essencetriangle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="sixshop" />
-      <option name="MAIN_CLASS_NAME" value="sixshop.EqualsObjectTest" />
-      <option name="METHOD_NAME" value="동등성" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EqualsObjectTest.동일성" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sixshop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="sixshop" />
-      <option name="MAIN_CLASS_NAME" value="sixshop.EqualsObjectTest" />
-      <option name="METHOD_NAME" value="동일성" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EqualsObjectTest.객체동일성비교" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sixshop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="sixshop" />
-      <option name="MAIN_CLASS_NAME" value="sixshop.EqualsObjectTest" />
-      <option name="METHOD_NAME" value="객체동일성비교" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NewBigNumTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programas.clear.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="programas.clear" />
-      <option name="MAIN_CLASS_NAME" value="programas.clear.NewBigNumTest" />
+      <option name="PACKAGE_NAME" value="programas.essencetriangle" />
+      <option name="MAIN_CLASS_NAME" value="programas.essencetriangle.EssenceTriangleTest" />
       <option name="METHOD_NAME" value="name" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewBigNumTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GraphTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programas.clear.*" />
+          <option name="PATTERN" value="baekjun.baek1608.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="programas.clear" />
-      <option name="MAIN_CLASS_NAME" value="programas.clear.NewBigNumTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="baekjun.baek1608" />
+      <option name="MAIN_CLASS_NAME" value="baekjun.baek1608.GraphTest" />
+      <option name="METHOD_NAME" value="name" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TileOrnamentsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ThieveryTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programas.clear.tileornaments.*" />
+          <option name="PATTERN" value="programas.thievery.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="programas.clear.tileornaments" />
-      <option name="MAIN_CLASS_NAME" value="programas.clear.tileornaments.TileOrnamentsTest" />
+      <option name="PACKAGE_NAME" value="programas.thievery" />
+      <option name="MAIN_CLASS_NAME" value="programas.thievery.ThieveryTest" />
+      <option name="METHOD_NAME" value="name" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThieveryTest.name2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programas.thievery.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programas.thievery" />
+      <option name="MAIN_CLASS_NAME" value="programas.thievery.ThieveryTest" />
+      <option name="METHOD_NAME" value="name2" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Gradle.Unnamed" />
-      <item itemvalue="JUnit.EqualsObjectTest.동등성" />
-      <item itemvalue="JUnit.NewBigNumTest.test" />
-      <item itemvalue="JUnit.NewBigNumTest.name" />
-      <item itemvalue="JUnit.TileOrnamentsTest" />
       <item itemvalue="Application.StarGameTournament" />
+      <item itemvalue="JUnit.GraphTest.name" />
+      <item itemvalue="JUnit.ThieveryTest.name" />
+      <item itemvalue="JUnit.ThieveryTest.name2" />
+      <item itemvalue="JUnit.EssenceTriangleTest.name" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.EssenceTriangleTest.name" />
+        <item itemvalue="JUnit.ThieveryTest.name2" />
+        <item itemvalue="JUnit.ThieveryTest.name" />
+        <item itemvalue="JUnit.GraphTest.name" />
         <item itemvalue="Application.StarGameTournament" />
-        <item itemvalue="JUnit.TileOrnamentsTest" />
-        <item itemvalue="JUnit.NewBigNumTest.name" />
-        <item itemvalue="JUnit.NewBigNumTest.test" />
-        <item itemvalue="JUnit.EqualsObjectTest.동등성" />
       </list>
     </recent_temporary>
   </component>
@@ -905,35 +914,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NewBigNumTest_name - 2019.04.11 at 17h 48m 34s.xml">
-      <configuration name="NewBigNumTest.name" configurationId="JUnit" />
+    <history-entry file="EssenceTriangleTest_name - 2019.04.20 at 14h 17m 56s.xml">
+      <configuration name="EssenceTriangleTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NewBigNumTest_name - 2019.04.11 at 17h 48m 53s.xml">
-      <configuration name="NewBigNumTest.name" configurationId="JUnit" />
+    <history-entry file="EssenceTriangleTest_name - 2019.04.20 at 14h 18m 07s.xml">
+      <configuration name="EssenceTriangleTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NewBigNumTest_name - 2019.04.11 at 17h 49m 11s.xml">
-      <configuration name="NewBigNumTest.name" configurationId="JUnit" />
+    <history-entry file="EssenceTriangleTest_name - 2019.04.20 at 14h 21m 51s.xml">
+      <configuration name="EssenceTriangleTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NewBigNumTest_name - 2019.04.11 at 17h 52m 56s.xml">
-      <configuration name="NewBigNumTest.name" configurationId="JUnit" />
+    <history-entry file="EssenceTriangleTest_name - 2019.04.20 at 14h 22m 06s.xml">
+      <configuration name="EssenceTriangleTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NewBigNumTest_name - 2019.04.11 at 17h 53m 11s.xml">
-      <configuration name="NewBigNumTest.name" configurationId="JUnit" />
+    <history-entry file="EssenceTriangleTest_name - 2019.04.20 at 14h 22m 42s.xml">
+      <configuration name="EssenceTriangleTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NewBigNumTest_name - 2019.04.11 at 17h 54m 00s.xml">
-      <configuration name="NewBigNumTest.name" configurationId="JUnit" />
+    <history-entry file="EssenceTriangleTest_name - 2019.04.20 at 14h 25m 53s.xml">
+      <configuration name="EssenceTriangleTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TileOrnamentsTest - 2019.04.12 at 15h 29m 39s.xml">
-      <configuration name="TileOrnamentsTest" configurationId="JUnit" />
+    <history-entry file="EssenceTriangleTest_name - 2019.04.20 at 14h 26m 12s.xml">
+      <configuration name="EssenceTriangleTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TileOrnamentsTest - 2019.04.12 at 15h 32m 02s.xml">
-      <configuration name="TileOrnamentsTest" configurationId="JUnit" />
+    <history-entry file="EssenceTriangleTest_name - 2019.04.20 at 14h 27m 26s.xml">
+      <configuration name="EssenceTriangleTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TileOrnamentsTest - 2019.04.12 at 15h 32m 12s.xml">
-      <configuration name="TileOrnamentsTest" configurationId="JUnit" />
+    <history-entry file="EssenceTriangleTest_name - 2019.04.20 at 14h 27m 59s.xml">
+      <configuration name="EssenceTriangleTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TileOrnamentsTest - 2019.04.12 at 15h 33m 55s.xml">
-      <configuration name="TileOrnamentsTest" configurationId="JUnit" />
+    <history-entry file="EssenceTriangleTest_name - 2019.04.20 at 14h 32m 02s.xml">
+      <configuration name="EssenceTriangleTest.name" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -949,7 +958,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.12483221" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.32550335" />
       <window_info id="Structure" order="1" sideWeight="0.50142044" side_tool="true" weight="0.35436243" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1053,6 +1062,18 @@
           <properties />
           <option name="timeStamp" value="66" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/baekjun/baek1608/GraphTest.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/programas/thievery/Thievery.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/baekjun/clear/baek1015/Baek1015.java</url>
           <line>8</line>
@@ -1124,77 +1145,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/samenumdelet/SameNumDeletTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38267">
-          <caret line="2328" column="20" selection-start-line="2328" selection-start-column="20" selection-end-line="2328" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/junggo/JungGoTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/Baseball.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/icecream/IceCream3Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_IceCreamTest.zip/IceCream2.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/icecream/IceCream2Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/icecream/IceCream2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="2" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/icecream/IceCream1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/abc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/StringBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7157">
@@ -1207,13 +1157,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="27" lean-forward="true" selection-start-column="27" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
@@ -1242,9 +1185,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1314,16 +1254,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/KakaoTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="44" column="40" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/jobpare/JobPare1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -1353,16 +1283,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sixshop/SixShop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/sixshop/EqualsObjectTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -1388,10 +1308,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2108">
           <caret line="147" column="4" selection-start-line="147" selection-start-column="4" selection-end-line="150" />
-          <folding>
-            <element signature="e#5748#5749#0" expanded="true" />
-            <element signature="e#5784#5785#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1451,10 +1367,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1465,27 +1377,128 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekjun/clear/baek1193/Baek1193.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekjun/baek1608/DFSTEst.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/baekjun/baek1608/GraphTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="553">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekjun/baek1608/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekjun/baek1608/StarGameTournament.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/thievery/Thievery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/Baseball.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sixshop/SixShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3366">
+          <caret line="200" column="41" selection-start-line="200" selection-start-column="41" selection-end-line="200" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/MakeJadenCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/KakaoTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="44" column="40" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/baekjun/clear/baek1015/Baek1015.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
-          <caret line="38" column="29" lean-forward="true" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+          <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekjun/baek1608/StarGameTournament.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekjun/clear/baek1193/Baek1193.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="30" column="13" selection-start-line="28" selection-start-column="48" selection-end-line="30" selection-end-column="13" />
+        <state relative-caret-position="357">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/thievery/ThieveryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.11.1/55362d8f04018b1140c5a370057bf8cd4a63c3de/assertj-core-3.11.1-sources.jar!/org/assertj/core/api/SoftAssertionsStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/FindBigSquare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/essencetriangle/EssenceTriangleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/essencetriangle/EssenceTriangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
