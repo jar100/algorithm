@@ -1,9 +1,10 @@
 package programas.essencetriangle;
 
 public class EssenceTriangle {
-    int answer = 0;
+    private int answer = 0;
 
     public int solution(int[][] triangle) {
+        this.answer = 0;
         for (int i = 1; i < triangle.length; i++) {
             int previewMax = triangle[i - 1].length;
             int max = triangle[i].length;
