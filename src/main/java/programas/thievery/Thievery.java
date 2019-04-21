@@ -1,5 +1,6 @@
 package programas.thievery;
 
+//프로그래머스 도둑질
 public class Thievery {
     public int solution(int[] money) {
         int answer = 0;
