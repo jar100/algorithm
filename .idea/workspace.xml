@@ -2,30 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23586ee2-4605-423a-a2cc-a7fb8717802a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/programas/gotoschool/GoToSchool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/templetcallback/Strategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/templetcallback/Study.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/programas/gotoschool/GoToSchoolTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/templetcallback/StudyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programas/clear/thievery/Thievery.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/essencetriangle/EssenceTriangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/makebignum/MakeBigNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/safeboat/SafeBoat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/skilltree/SkillTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/gotoschool/GoToSchool.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/gotoschool/GoToSchool.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/programas/thievery/Thievery.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/thievery/Thievery.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/essencetriangle/EssenceTriangleTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/makebignum/MakeBigNumTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/safeboat/SafeBoatTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/skilltree/SkillTreeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programas/essencetriangle/EssenceTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/clear/essencetriangle/EssenceTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programas/makebignum/MakeBigNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/clear/makebignum/MakeBigNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programas/safeboat/SafeBoat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/clear/safeboat/SafeBoat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programas/skilltree/SkillTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/clear/skilltree/SkillTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programas/thievery/Thievery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/thievery/Thievery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/programas/essencetriangle/EssenceTriangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/essencetriangle/EssenceTriangleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/programas/makebignum/MakeBigNumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/makebignum/MakeBigNumTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/programas/safeboat/SafeBoatTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/safeboat/SafeBoatTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/programas/skilltree/SkillTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/skilltree/SkillTreeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/thievery/ThieveryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/thievery/ThieveryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programas/gotoschool/GoToSchool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/clear/gotoschool/GoToSchool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programas/thievery/Thievery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/gotoschool/GoToSchoolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/gotoschool/GoToSchoolTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/thievery/ThieveryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/thievery/ThieveryTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,12 +32,15 @@
     <SUITE FILE_PATH="coverage/algorithm$Num4Test_solution.ic" NAME="Num4Test.solution Coverage Results" MODIFIED="1545894609389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>programas.bamin.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/algorithm$ThieveryTest_name2.ic" NAME="ThieveryTest.name2 Coverage Results" MODIFIED="1555913308073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>programas.thievery.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/algorithm$JumpIronsuitTest_jumpTest.ic" NAME="JumpIronsuitTest.jumpTest Coverage Results" MODIFIED="1546440852422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>programas.jumpsuit.*</FILTER>
     </SUITE>
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="220" />
+    <option name="myElementSize" value="224" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -110,7 +98,7 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="Groovy" value="4" />
-          <entry key="JAVA" value="482" />
+          <entry key="JAVA" value="483" />
           <entry key="Markdown" value="20" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
@@ -124,7 +112,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="59066" />
+          <entry key="JAVA" value="59797" />
           <entry key="Markdown" value="1486" />
           <entry key="PLAIN_TEXT" value="75" />
         </counts>
@@ -134,40 +122,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/programas/thievery/Thievery.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/essencetriangle/EssenceTriangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/programas/gotoschool/GoToSchool.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/thievery/Thievery.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+            <state relative-caret-position="833">
+              <caret line="49" column="1" lean-forward="true" selection-start-line="3" selection-end-line="49" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/programas/gotoschool/GoToSchoolTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/gotoschool/GoToSchool.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
+            <state relative-caret-position="1099">
+              <caret line="71" column="28" selection-start-line="71" selection-start-column="28" selection-end-line="71" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/gotoschool/GoToSchoolTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
               <caret line="36" column="94" selection-start-line="36" selection-start-column="94" selection-end-line="36" selection-end-column="94" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/thievery/ThieveryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="82" selection-start-line="25" selection-start-column="82" selection-end-line="25" selection-end-column="82" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#288#289#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -522,7 +515,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/programas/IceCream1.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/IceCream1Test.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/IceCream2Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/IceCream3.java" />
@@ -558,13 +550,11 @@
         <option value="$PROJECT_DIR$/src/main/java/baekjun/baek1608/Graph.java" />
         <option value="$PROJECT_DIR$/src/test/java/baekjun/baek1608/GraphTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/sixshop/SixShop.java" />
-        <option value="$PROJECT_DIR$/src/test/java/programas/thievery/ThieveryTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/FindBigSquare.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/essencetriangle/EssenceTriangleTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/essencetriangle/EssenceTriangle.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/makebignum/MakeBigNum.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/clear/makebignum/MakeBigNum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/thievery/Thievery.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/clear/essencetriangle/EssenceTriangle.java" />
         <option value="$PROJECT_DIR$/src/main/java/templetcallback/Strategy.java" />
         <option value="$PROJECT_DIR$/src/main/java/templetcallback/Stady.java" />
@@ -572,7 +562,10 @@
         <option value="$PROJECT_DIR$/src/test/java/templetcallback/StudyTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/templetcallback/Study.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/gotoschool/GoToSchoolTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/thievery/ThieveryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/thievery/Thievery.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/gotoschool/GoToSchool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/clear/gotoschool/GoToSchool.java" />
       </list>
     </option>
   </component>
@@ -694,7 +687,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/jar10/Documents/codesquad/workspace/algorithm/src/test/java/sixshop/SixShopTest.java&#10;zoom&#9;PSI&#9;JAVA://javafx.scene.input.ZoomEvent&#10;stack&#9;PSI&#9;JAVA://java.util.Stack" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555853827659" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555920902985" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="extract.method.default.visibility" value="private" />
@@ -734,7 +727,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GoToSchoolTest.ㄹ자로가는지">
+  <component name="RunManager" selected="JUnit.ThieveryTest.name3">
     <configuration name="Unnamed" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -755,29 +748,13 @@
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programas.gotoschool.*" />
+          <option name="PATTERN" value="programas.clear.gotoschool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="programas.gotoschool" />
-      <option name="MAIN_CLASS_NAME" value="programas.gotoschool.GoToSchoolTest" />
+      <option name="PACKAGE_NAME" value="programas.clear.gotoschool" />
+      <option name="MAIN_CLASS_NAME" value="programas.clear.gotoschool.GoToSchoolTest" />
       <option name="METHOD_NAME" value="줄이기" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GoToSchoolTest.인트빈배열태스트" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programas.gotoschool.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="programas.gotoschool" />
-      <option name="MAIN_CLASS_NAME" value="programas.gotoschool.GoToSchoolTest" />
-      <option name="METHOD_NAME" value="인트빈배열태스트" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -787,45 +764,61 @@
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programas.gotoschool.*" />
+          <option name="PATTERN" value="programas.clear.gotoschool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="programas.gotoschool" />
-      <option name="MAIN_CLASS_NAME" value="programas.gotoschool.GoToSchoolTest" />
+      <option name="PACKAGE_NAME" value="programas.clear.gotoschool" />
+      <option name="MAIN_CLASS_NAME" value="programas.clear.gotoschool.GoToSchoolTest" />
       <option name="METHOD_NAME" value="ㄹ자로가는지" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoToSchoolTest.name1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ThieveryTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programas.gotoschool.*" />
+          <option name="PATTERN" value="programas.clear.thievery.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="programas.gotoschool" />
-      <option name="MAIN_CLASS_NAME" value="programas.gotoschool.GoToSchoolTest" />
-      <option name="METHOD_NAME" value="name1" />
+      <option name="PACKAGE_NAME" value="programas.clear.thievery" />
+      <option name="MAIN_CLASS_NAME" value="programas.clear.thievery.ThieveryTest" />
+      <option name="METHOD_NAME" value="name" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoToSchoolTest.name2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ThieveryTest.name2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programas.gotoschool.*" />
+          <option name="PATTERN" value="programas.clear.thievery.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="programas.gotoschool" />
-      <option name="MAIN_CLASS_NAME" value="programas.gotoschool.GoToSchoolTest" />
+      <option name="PACKAGE_NAME" value="programas.clear.thievery" />
+      <option name="MAIN_CLASS_NAME" value="programas.clear.thievery.ThieveryTest" />
       <option name="METHOD_NAME" value="name2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThieveryTest.name3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programas.clear.thievery.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programas.clear.thievery" />
+      <option name="MAIN_CLASS_NAME" value="programas.clear.thievery.ThieveryTest" />
+      <option name="METHOD_NAME" value="name3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -833,19 +826,19 @@
     </configuration>
     <list>
       <item itemvalue="Gradle.Unnamed" />
-      <item itemvalue="JUnit.GoToSchoolTest.name1" />
-      <item itemvalue="JUnit.GoToSchoolTest.인트빈배열태스트" />
-      <item itemvalue="JUnit.GoToSchoolTest.name2" />
       <item itemvalue="JUnit.GoToSchoolTest.줄이기" />
       <item itemvalue="JUnit.GoToSchoolTest.ㄹ자로가는지" />
+      <item itemvalue="JUnit.ThieveryTest.name" />
+      <item itemvalue="JUnit.ThieveryTest.name2" />
+      <item itemvalue="JUnit.ThieveryTest.name3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ThieveryTest.name3" />
+        <item itemvalue="JUnit.ThieveryTest.name2" />
+        <item itemvalue="JUnit.ThieveryTest.name" />
         <item itemvalue="JUnit.GoToSchoolTest.ㄹ자로가는지" />
         <item itemvalue="JUnit.GoToSchoolTest.줄이기" />
-        <item itemvalue="JUnit.GoToSchoolTest.name1" />
-        <item itemvalue="JUnit.GoToSchoolTest.name2" />
-        <item itemvalue="JUnit.GoToSchoolTest.인트빈배열태스트" />
       </list>
     </recent_temporary>
   </component>
@@ -863,35 +856,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GoToSchoolTest_ㄹ자로가는지 - 2019.04.21 at 22h 23m 40s.xml">
-      <configuration name="GoToSchoolTest.ㄹ자로가는지" configurationId="JUnit" />
+    <history-entry file="ThieveryTest_name2 - 2019.04.22 at 15h 09m 01s.xml">
+      <configuration name="ThieveryTest.name2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoToSchoolTest_ㄹ자로가는지 - 2019.04.21 at 22h 23m 48s.xml">
-      <configuration name="GoToSchoolTest.ㄹ자로가는지" configurationId="JUnit" />
+    <history-entry file="ThieveryTest_name2 - 2019.04.22 at 15h 12m 13s.xml">
+      <configuration name="ThieveryTest.name2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoToSchoolTest_ㄹ자로가는지 - 2019.04.21 at 22h 24m 05s.xml">
-      <configuration name="GoToSchoolTest.ㄹ자로가는지" configurationId="JUnit" />
+    <history-entry file="ThieveryTest_name3 - 2019.04.22 at 15h 19m 51s.xml">
+      <configuration name="ThieveryTest.name3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoToSchoolTest_ㄹ자로가는지 - 2019.04.21 at 22h 25m 44s.xml">
-      <configuration name="GoToSchoolTest.ㄹ자로가는지" configurationId="JUnit" />
+    <history-entry file="ThieveryTest_name3 - 2019.04.22 at 15h 21m 56s.xml">
+      <configuration name="ThieveryTest.name3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoToSchoolTest_ㄹ자로가는지 - 2019.04.21 at 22h 26m 15s.xml">
-      <configuration name="GoToSchoolTest.ㄹ자로가는지" configurationId="JUnit" />
+    <history-entry file="ThieveryTest_name3 - 2019.04.22 at 15h 22m 06s.xml">
+      <configuration name="ThieveryTest.name3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoToSchoolTest_ㄹ자로가는지 - 2019.04.21 at 22h 26m 29s.xml">
-      <configuration name="GoToSchoolTest.ㄹ자로가는지" configurationId="JUnit" />
+    <history-entry file="ThieveryTest_name3 - 2019.04.22 at 15h 37m 31s.xml">
+      <configuration name="ThieveryTest.name3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoToSchoolTest_ㄹ자로가는지 - 2019.04.21 at 22h 29m 49s.xml">
-      <configuration name="GoToSchoolTest.ㄹ자로가는지" configurationId="JUnit" />
+    <history-entry file="ThieveryTest_name3 - 2019.04.22 at 15h 52m 42s.xml">
+      <configuration name="ThieveryTest.name3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoToSchoolTest_ㄹ자로가는지 - 2019.04.21 at 22h 30m 07s.xml">
-      <configuration name="GoToSchoolTest.ㄹ자로가는지" configurationId="JUnit" />
+    <history-entry file="ThieveryTest_name3 - 2019.04.22 at 15h 53m 11s.xml">
+      <configuration name="ThieveryTest.name3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoToSchoolTest_ㄹ자로가는지 - 2019.04.21 at 22h 32m 32s.xml">
-      <configuration name="GoToSchoolTest.ㄹ자로가는지" configurationId="JUnit" />
+    <history-entry file="ThieveryTest_name3 - 2019.04.22 at 15h 53m 26s.xml">
+      <configuration name="ThieveryTest.name3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoToSchoolTest_ㄹ자로가는지 - 2019.04.21 at 22h 33m 39s.xml">
-      <configuration name="GoToSchoolTest.ㄹ자로가는지" configurationId="JUnit" />
+    <history-entry file="ThieveryTest_name3 - 2019.04.22 at 16h 00m 28s.xml">
+      <configuration name="ThieveryTest.name3" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -907,7 +900,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.32550335" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.32550335" />
       <window_info id="Structure" order="1" sideWeight="0.50142044" side_tool="true" weight="0.35436243" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -917,7 +910,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.7073864" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.71732956" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5355114" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32954547" />
@@ -1018,22 +1011,22 @@
           <option name="timeStamp" value="67" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/programas/thievery/Thievery.java</url>
-          <line>12</line>
-          <properties />
-          <option name="timeStamp" value="68" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/programas/gotoschool/GoToSchool.java</url>
-          <line>78</line>
+          <url>file://$PROJECT_DIR$/src/main/java/programas/clear/gotoschool/GoToSchool.java</url>
+          <line>74</line>
           <properties />
           <option name="timeStamp" value="74" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/programas/gotoschool/GoToSchool.java</url>
-          <line>25</line>
+          <url>file://$PROJECT_DIR$/src/main/java/programas/clear/gotoschool/GoToSchool.java</url>
+          <line>23</line>
           <properties />
           <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/programas/clear/thievery/Thievery.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="78" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/baekjun/clear/baek1015/Baek1015.java</url>
@@ -1084,6 +1077,7 @@
       <configuration name="JUnit">
         <watch expression="((java.util.LinkedList)queue).get(2)" custom="java.util.LinkedList" />
         <watch expression="priorities[1]" />
+        <watch expression="money" />
       </configuration>
     </watches-manager>
   </component>
@@ -1407,13 +1401,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/thievery/Thievery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/templetcallback/StudyTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
@@ -1459,10 +1446,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/thievery/ThieveryTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/thievery/ThieveryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="425">
+          <caret line="25" column="82" selection-start-line="25" selection-start-column="82" selection-end-line="25" selection-end-column="82" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#200#201#0" expanded="true" />
@@ -1471,9 +1458,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/gotoschool/GoToSchoolTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/gotoschool/GoToSchoolTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
+        <state relative-caret-position="357">
           <caret line="36" column="94" selection-start-line="36" selection-start-column="94" selection-end-line="36" selection-end-column="94" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1481,10 +1468,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/gotoschool/GoToSchool.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/gotoschool/GoToSchool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+        <state relative-caret-position="1099">
+          <caret line="71" column="28" selection-start-line="71" selection-start-column="28" selection-end-line="71" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/thievery/Thievery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="1" lean-forward="true" selection-start-line="3" selection-end-line="49" selection-end-column="1" />
         </state>
       </provider>
     </entry>

@@ -1,4 +1,4 @@
-package programas.thievery;
+package programas.clear.thievery;
 
 import org.junit.Test;
 import programas.BaseTest;
@@ -15,7 +15,15 @@ public class ThieveryTest extends BaseTest {
 
     @Test
     public void name2() {
-        softly.assertThat(thievery.solution(new int[]{1, 2, 3, 1, 5, 2, 3, 5, 6, 7, 8, 10, 2, 1, 3})).isEqualTo(34);
+        softly.assertThat(thievery.solution(new int[]{1, 2, 3, 1, 5, 2, 3, 5, 6, 7, 8, 10, 2, 1, 3})).isEqualTo(33);
+
+        // 1 3 5 3 6  8 2 = 30
+        // 2 1 2 4 7 10 1 =
+    }
+
+    @Test
+    public void name3() {
+        softly.assertThat(thievery.solution(new int[]{1, 2, 3, 1, 5})).isEqualTo(8);
 
         // 1 3 5 3 6  8 2 = 30
         // 2 1 2 4 7 10 1 =

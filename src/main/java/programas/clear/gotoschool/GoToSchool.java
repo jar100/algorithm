@@ -1,10 +1,10 @@
-package programas.gotoschool;
+package programas.clear.gotoschool;
 
 //프로그래머스 등굣길
 
-import java.util.Arrays;
+    import java.util.Arrays;
 
-public class GoToSchool {
+    public class GoToSchool {
     public int solution(int m, int n, int[][] puddles) {
         int answer = 0;
 
@@ -14,9 +14,7 @@ public class GoToSchool {
         if (puddles[0].length == 0) {
             puddlesIndex = puddles.length + 1;
         }
-        for (int[] puddle : puddles) {
-            System.out.println(Arrays.toString(puddle));
-        }
+
         findAnswer[1][1] = 1;
 
         for (int i = 1; i < findAnswer.length; i++) {
@@ -61,32 +59,32 @@ public class GoToSchool {
 
     public int solution2(int m, int n, int[][] puddles) {
         int answer = 0;
+        int[][] findAnswer = new int[n + 1][m + 1];
 
-        int[][] findAnswer = new int[n][m];
-
+        //시작위치를 1로 초기화
+        findAnswer[1][1] = 1;
+        //웅덩이들 -1로 초기화
         for (int[] puddle : puddles) {
-            findAnswer[puddle[0]-1][puddle[1]-1] = -1;
+            findAnswer[puddle[1]][puddle[0]] = -1;
         }
 
-
-        for (int i = 0; i < findAnswer.length; i++) {
-            int[] ints = findAnswer[i];
-            for (int j = 0; j < ints.length; j++) {
-                //todo 웅덩이조건
-                if (ints[j] == -1) {
-                    ints[j] = 0;
+        for (int i = 1; i < findAnswer.length; i++) {
+            for (int j = 1; j < findAnswer[i].length; j++) {
+                // 웅덩이는 0 으로 바꾸고 넘어간다.
+                if (findAnswer[i][j] == -1) {
+                    findAnswer[i][j] = 0;
                 } else {
-                    if (i == 0 || j == 0) {
-                        ints[j] = 1;
+                    if (i == 1) {
+                        findAnswer[i][j] += findAnswer[i][j - 1];
                     } else {
-                        ints[j] = (findAnswer[i - 1][j] + ints[j - 1]) % 1000000007;
+                        findAnswer[i][j] = (findAnswer[i - 1][j] + findAnswer[i][j - 1]) % 1000000007;
                     }
                 }
 
-                if (j == ints.length - 1) {
-                    answer = ints[j];
+                //마지막 값 answer
+                if (j == findAnswer[i].length - 1) {
+                    answer = findAnswer[i][j];
                 }
-                //end 웅덩이조건
             }
         }
         return answer;

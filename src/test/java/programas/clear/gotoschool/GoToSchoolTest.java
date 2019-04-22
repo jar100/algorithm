@@ -1,4 +1,4 @@
-package programas.gotoschool;
+package programas.clear.gotoschool;
 
 import org.junit.Test;
 import programas.BaseTest;
