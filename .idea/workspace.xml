@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23586ee2-4605-423a-a2cc-a7fb8717802a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/programas/clear/thievery/Thievery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programas/cardgame/CardGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/programas/cardgame/CardGameTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/gotoschool/GoToSchool.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/gotoschool/GoToSchool.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/thievery/Thievery.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/thievery/Thievery.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/thievery/ThieveryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/thievery/ThieveryTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programas/gotoschool/GoToSchool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programas/clear/gotoschool/GoToSchool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programas/thievery/Thievery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/programas/gotoschool/GoToSchoolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/gotoschool/GoToSchoolTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/programas/thievery/ThieveryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/thievery/ThieveryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/gotoschool/GoToSchool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/thievery/Thievery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/thievery/ThieveryTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -98,7 +95,7 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="Groovy" value="4" />
-          <entry key="JAVA" value="483" />
+          <entry key="JAVA" value="486" />
           <entry key="Markdown" value="20" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
@@ -112,7 +109,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="59797" />
+          <entry key="JAVA" value="60632" />
           <entry key="Markdown" value="1486" />
           <entry key="PLAIN_TEXT" value="75" />
         </counts>
@@ -122,11 +119,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/thievery/Thievery.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
-              <caret line="49" column="1" lean-forward="true" selection-start-line="3" selection-end-line="49" selection-end-column="1" />
+            <state relative-caret-position="99">
+              <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/baekjun/baek1608/StarGameTournament.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-255">
+              <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/cardgame/CardGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="501">
+              <caret line="35" column="60" selection-start-line="35" selection-start-column="60" selection-end-line="35" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programas/cardgame/CardGameTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="82" selection-start-line="26" selection-start-column="82" selection-end-line="26" selection-end-column="82" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#234#235#0" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#635#636#0" expanded="true" />
+                <element signature="e#740#741#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -515,8 +549,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/programas/IceCream1Test.java" />
-        <option value="$PROJECT_DIR$/src/test/java/programas/IceCream2Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/IceCream3.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/IceCream3Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/icecream/IceCream3.java" />
@@ -566,6 +598,8 @@
         <option value="$PROJECT_DIR$/src/main/java/programas/thievery/Thievery.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/gotoschool/GoToSchool.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/clear/gotoschool/GoToSchool.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/cardgame/CardGameTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/cardgame/CardGame.java" />
       </list>
     </option>
   </component>
@@ -666,6 +700,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="baekjun" type="462c0819:PsiDirectoryNode" />
+              <item name="baek1608" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="programas" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -687,7 +730,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/jar10/Documents/codesquad/workspace/algorithm/src/test/java/sixshop/SixShopTest.java&#10;zoom&#9;PSI&#9;JAVA://javafx.scene.input.ZoomEvent&#10;stack&#9;PSI&#9;JAVA://java.util.Stack" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555920902985" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556010976631" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="extract.method.default.visibility" value="private" />
@@ -699,11 +742,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="programas.cardgame" />
       <recent name="programas.gotoschool" />
       <recent name="templetcallback" />
       <recent name="programas.essencetriangle" />
       <recent name="programas.thievery" />
-      <recent name="baekjun.baek1608" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -727,7 +770,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ThieveryTest.name3">
+  <component name="RunManager" selected="JUnit.CardGameTest.name2">
     <configuration name="Unnamed" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -744,49 +787,49 @@
       </ExternalSystemSettings>
       <method v="2" />
     </configuration>
-    <configuration name="GoToSchoolTest.줄이기" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CardGameTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programas.clear.gotoschool.*" />
+          <option name="PATTERN" value="programas.cardgame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="programas.clear.gotoschool" />
-      <option name="MAIN_CLASS_NAME" value="programas.clear.gotoschool.GoToSchoolTest" />
-      <option name="METHOD_NAME" value="줄이기" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GoToSchoolTest.ㄹ자로가는지" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programas.clear.gotoschool.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="programas.clear.gotoschool" />
-      <option name="MAIN_CLASS_NAME" value="programas.clear.gotoschool.GoToSchoolTest" />
-      <option name="METHOD_NAME" value="ㄹ자로가는지" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThieveryTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programas.clear.thievery.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="programas.clear.thievery" />
-      <option name="MAIN_CLASS_NAME" value="programas.clear.thievery.ThieveryTest" />
+      <option name="PACKAGE_NAME" value="programas.cardgame" />
+      <option name="MAIN_CLASS_NAME" value="programas.cardgame.CardGameTest" />
       <option name="METHOD_NAME" value="name" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CardGameTest.name1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programas.cardgame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programas.cardgame" />
+      <option name="MAIN_CLASS_NAME" value="programas.cardgame.CardGameTest" />
+      <option name="METHOD_NAME" value="name1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CardGameTest.name2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programas.cardgame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programas.cardgame" />
+      <option name="MAIN_CLASS_NAME" value="programas.cardgame.CardGameTest" />
+      <option name="METHOD_NAME" value="name2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -826,19 +869,19 @@
     </configuration>
     <list>
       <item itemvalue="Gradle.Unnamed" />
-      <item itemvalue="JUnit.GoToSchoolTest.줄이기" />
-      <item itemvalue="JUnit.GoToSchoolTest.ㄹ자로가는지" />
-      <item itemvalue="JUnit.ThieveryTest.name" />
       <item itemvalue="JUnit.ThieveryTest.name2" />
       <item itemvalue="JUnit.ThieveryTest.name3" />
+      <item itemvalue="JUnit.CardGameTest.name" />
+      <item itemvalue="JUnit.CardGameTest.name1" />
+      <item itemvalue="JUnit.CardGameTest.name2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CardGameTest.name2" />
+        <item itemvalue="JUnit.CardGameTest.name" />
+        <item itemvalue="JUnit.CardGameTest.name1" />
         <item itemvalue="JUnit.ThieveryTest.name3" />
         <item itemvalue="JUnit.ThieveryTest.name2" />
-        <item itemvalue="JUnit.ThieveryTest.name" />
-        <item itemvalue="JUnit.GoToSchoolTest.ㄹ자로가는지" />
-        <item itemvalue="JUnit.GoToSchoolTest.줄이기" />
       </list>
     </recent_temporary>
   </component>
@@ -856,35 +899,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ThieveryTest_name2 - 2019.04.22 at 15h 09m 01s.xml">
-      <configuration name="ThieveryTest.name2" configurationId="JUnit" />
+    <history-entry file="CardGameTest_name - 2019.04.23 at 16h 48m 26s.xml">
+      <configuration name="CardGameTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ThieveryTest_name2 - 2019.04.22 at 15h 12m 13s.xml">
-      <configuration name="ThieveryTest.name2" configurationId="JUnit" />
+    <history-entry file="CardGameTest_name - 2019.04.23 at 16h 52m 20s.xml">
+      <configuration name="CardGameTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ThieveryTest_name3 - 2019.04.22 at 15h 19m 51s.xml">
-      <configuration name="ThieveryTest.name3" configurationId="JUnit" />
+    <history-entry file="CardGameTest_name - 2019.04.23 at 16h 52m 38s.xml">
+      <configuration name="CardGameTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ThieveryTest_name3 - 2019.04.22 at 15h 21m 56s.xml">
-      <configuration name="ThieveryTest.name3" configurationId="JUnit" />
+    <history-entry file="CardGameTest_name1 - 2019.04.23 at 17h 02m 19s.xml">
+      <configuration name="CardGameTest.name1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ThieveryTest_name3 - 2019.04.22 at 15h 22m 06s.xml">
-      <configuration name="ThieveryTest.name3" configurationId="JUnit" />
+    <history-entry file="CardGameTest_name1 - 2019.04.23 at 17h 02m 52s.xml">
+      <configuration name="CardGameTest.name1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ThieveryTest_name3 - 2019.04.22 at 15h 37m 31s.xml">
-      <configuration name="ThieveryTest.name3" configurationId="JUnit" />
+    <history-entry file="CardGameTest_name1 - 2019.04.23 at 17h 18m 48s.xml">
+      <configuration name="CardGameTest.name1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ThieveryTest_name3 - 2019.04.22 at 15h 52m 42s.xml">
-      <configuration name="ThieveryTest.name3" configurationId="JUnit" />
+    <history-entry file="CardGameTest_name2 - 2019.04.23 at 17h 20m 18s.xml">
+      <configuration name="CardGameTest.name2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ThieveryTest_name3 - 2019.04.22 at 15h 53m 11s.xml">
-      <configuration name="ThieveryTest.name3" configurationId="JUnit" />
+    <history-entry file="CardGameTest_name2 - 2019.04.23 at 17h 20m 33s.xml">
+      <configuration name="CardGameTest.name2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ThieveryTest_name3 - 2019.04.22 at 15h 53m 26s.xml">
-      <configuration name="ThieveryTest.name3" configurationId="JUnit" />
+    <history-entry file="CardGameTest_name - 2019.04.23 at 17h 47m 58s.xml">
+      <configuration name="CardGameTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ThieveryTest_name3 - 2019.04.22 at 16h 00m 28s.xml">
-      <configuration name="ThieveryTest.name3" configurationId="JUnit" />
+    <history-entry file="CardGameTest_name2 - 2019.04.23 at 18h 14m 31s.xml">
+      <configuration name="CardGameTest.name2" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -900,7 +943,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.32550335" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.32550335" />
       <window_info id="Structure" order="1" sideWeight="0.50142044" side_tool="true" weight="0.35436243" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1028,6 +1071,12 @@
           <properties />
           <option name="timeStamp" value="78" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/programas/cardgame/CardGame.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/baekjun/clear/baek1015/Baek1015.java</url>
           <line>8</line>
@@ -1078,6 +1127,7 @@
         <watch expression="((java.util.LinkedList)queue).get(2)" custom="java.util.LinkedList" />
         <watch expression="priorities[1]" />
         <watch expression="money" />
+        <watch expression="dp" />
       </configuration>
     </watches-manager>
   </component>
@@ -1098,22 +1148,15 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>dp</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/findsosu/FindSosu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="54" column="48" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/jobpare/JobPare3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/jobpare/GameItem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1296,13 +1339,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekjun/baek1608/StarGameTournament.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/programas/Baseball.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1477,8 +1513,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/thievery/Thievery.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="49" column="1" lean-forward="true" selection-start-line="3" selection-end-line="49" selection-end-column="1" />
+        <state relative-caret-position="99">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekjun/baek1608/StarGameTournament.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/cardgame/CardGameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="82" selection-start-line="26" selection-start-column="82" selection-end-line="26" selection-end-column="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
+            <element signature="e#740#741#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/cardgame/CardGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="35" column="60" selection-start-line="35" selection-start-column="60" selection-end-line="35" selection-end-column="60" />
         </state>
       </provider>
     </entry>
