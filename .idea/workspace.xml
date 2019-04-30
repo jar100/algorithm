@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23586ee2-4605-423a-a2cc-a7fb8717802a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/programas/cardgame/CardGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/programas/cardgame/CardGameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bfs/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dfs/DfsEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programas/targetnum/TargetNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/programas/targetnum/TargetNumTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/gotoschool/GoToSchool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/thievery/Thievery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/thievery/ThieveryTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,10 +64,10 @@
     <session id="-1804102672">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="67" />
+          <entry key="project.closed" value="69" />
           <entry key="project.open.time.0" value="11" />
-          <entry key="project.open.time.1" value="25" />
-          <entry key="project.open.time.10" value="8" />
+          <entry key="project.open.time.1" value="26" />
+          <entry key="project.open.time.10" value="9" />
           <entry key="project.open.time.11" value="4" />
           <entry key="project.open.time.12" value="4" />
           <entry key="project.open.time.13" value="4" />
@@ -81,7 +80,7 @@
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="4" />
           <entry key="project.open.time.9" value="5" />
-          <entry key="project.opened" value="84" />
+          <entry key="project.opened" value="86" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -95,7 +94,7 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="Groovy" value="4" />
-          <entry key="JAVA" value="486" />
+          <entry key="JAVA" value="492" />
           <entry key="Markdown" value="20" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
@@ -109,7 +108,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="60632" />
+          <entry key="JAVA" value="60923" />
           <entry key="Markdown" value="1486" />
           <entry key="PLAIN_TEXT" value="75" />
         </counts>
@@ -120,18 +119,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/thievery/Thievery.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/baekjun/baek1608/StarGameTournament.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-255">
+            <state relative-caret-position="425">
               <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -140,27 +130,75 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/programas/cardgame/CardGame.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/targetnum/TargetNum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="35" column="60" selection-start-line="35" selection-start-column="60" selection-end-line="35" selection-end-column="60" />
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="8" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#270#271#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dfs/DfsEx1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+              <folding>
+                <element signature="e#120#121#0" expanded="true" />
+                <element signature="e#169#170#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/programas/cardgame/CardGameTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programas/targetnum/TargetNumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="82" selection-start-line="26" selection-start-column="82" selection-end-line="26" selection-end-column="82" />
+            <state relative-caret-position="51">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#234#235#0" expanded="true" />
-                <element signature="e#268#269#0" expanded="true" />
-                <element signature="e#635#636#0" expanded="true" />
-                <element signature="e#740#741#0" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/descripn/DescripN.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bfs/Graph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="50" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#661#670#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/cardgame/CardGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="519">
+              <caret line="34" column="5" selection-start-line="16" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -168,7 +206,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/gotoschool/GoToSchool.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1099">
+            <state relative-caret-position="1207">
               <caret line="71" column="28" selection-start-line="71" selection-start-column="28" selection-end-line="71" selection-end-column="28" />
             </state>
           </provider>
@@ -177,7 +215,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/gotoschool/GoToSchoolTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="561">
               <caret line="36" column="94" selection-start-line="36" selection-start-column="94" selection-end-line="36" selection-end-column="94" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -189,12 +227,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/thievery/ThieveryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
+            <state relative-caret-position="374">
               <caret line="25" column="82" selection-start-line="25" selection-start-column="82" selection-end-line="25" selection-end-column="82" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#200#201#0" expanded="true" />
-                <element signature="e#288#289#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -206,8 +242,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -549,11 +585,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/programas/IceCream3.java" />
-        <option value="$PROJECT_DIR$/src/test/java/programas/IceCream3Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/icecream/IceCream3.java" />
-        <option value="$PROJECT_DIR$/src/test/java/programas/icecream/IceCream3Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/icecream/IceCream1.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/icecream/IceCream1Test.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/icecream/IceCream2Test.java" />
         <option value="$USER_HOME$/AppData/Local/Temp/Temp1_IceCreamTest.zip/IceCream2.java" />
@@ -600,6 +631,11 @@
         <option value="$PROJECT_DIR$/src/main/java/programas/clear/gotoschool/GoToSchool.java" />
         <option value="$PROJECT_DIR$/src/test/java/programas/cardgame/CardGameTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/cardgame/CardGame.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/targetnum/TargetNumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bfs/Graph.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/targetnum/TargetNum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dfs/DfsEx.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dfs/DfsEx1.java" />
       </list>
     </option>
   </component>
@@ -661,6 +697,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -692,24 +729,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="baekjun" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="baekjun" type="462c0819:PsiDirectoryNode" />
-              <item name="baek1608" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="programas" type="462c0819:PsiDirectoryNode" />
+              <item name="dfs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -722,7 +742,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -730,7 +749,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/jar10/Documents/codesquad/workspace/algorithm/src/test/java/sixshop/SixShopTest.java&#10;zoom&#9;PSI&#9;JAVA://javafx.scene.input.ZoomEvent&#10;stack&#9;PSI&#9;JAVA://java.util.Stack" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556010976631" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556606448390" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="extract.method.default.visibility" value="private" />
@@ -742,11 +761,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="programas.targetnum" />
       <recent name="programas.cardgame" />
       <recent name="programas.gotoschool" />
       <recent name="templetcallback" />
       <recent name="programas.essencetriangle" />
-      <recent name="programas.thievery" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -770,7 +789,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CardGameTest.name2">
+  <component name="RunManager" selected="JUnit.TargetNumTest.name">
     <configuration name="Unnamed" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -835,33 +854,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThieveryTest.name2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TargetNumTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programas.clear.thievery.*" />
+          <option name="PATTERN" value="programas.clear.targetnum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="programas.clear.thievery" />
-      <option name="MAIN_CLASS_NAME" value="programas.clear.thievery.ThieveryTest" />
-      <option name="METHOD_NAME" value="name2" />
+      <option name="PACKAGE_NAME" value="programas.clear.targetnum" />
+      <option name="MAIN_CLASS_NAME" value="programas.clear.targetnum.TargetNumTest" />
+      <option name="METHOD_NAME" value="name" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThieveryTest.name3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TargetNumTest.name2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programas.clear.thievery.*" />
+          <option name="PATTERN" value="programas.clear.targetnum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="programas.clear.thievery" />
-      <option name="MAIN_CLASS_NAME" value="programas.clear.thievery.ThieveryTest" />
-      <option name="METHOD_NAME" value="name3" />
+      <option name="PACKAGE_NAME" value="programas.clear.targetnum" />
+      <option name="MAIN_CLASS_NAME" value="programas.clear.targetnum.TargetNumTest" />
+      <option name="METHOD_NAME" value="name2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -869,19 +888,19 @@
     </configuration>
     <list>
       <item itemvalue="Gradle.Unnamed" />
-      <item itemvalue="JUnit.ThieveryTest.name2" />
-      <item itemvalue="JUnit.ThieveryTest.name3" />
       <item itemvalue="JUnit.CardGameTest.name" />
       <item itemvalue="JUnit.CardGameTest.name1" />
       <item itemvalue="JUnit.CardGameTest.name2" />
+      <item itemvalue="JUnit.TargetNumTest.name" />
+      <item itemvalue="JUnit.TargetNumTest.name2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TargetNumTest.name" />
+        <item itemvalue="JUnit.TargetNumTest.name2" />
         <item itemvalue="JUnit.CardGameTest.name2" />
         <item itemvalue="JUnit.CardGameTest.name" />
         <item itemvalue="JUnit.CardGameTest.name1" />
-        <item itemvalue="JUnit.ThieveryTest.name3" />
-        <item itemvalue="JUnit.ThieveryTest.name2" />
       </list>
     </recent_temporary>
   </component>
@@ -899,35 +918,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CardGameTest_name - 2019.04.23 at 16h 48m 26s.xml">
-      <configuration name="CardGameTest.name" configurationId="JUnit" />
+    <history-entry file="TargetNumTest_name2 - 2019.04.30 at 15h 20m 10s.xml">
+      <configuration name="TargetNumTest.name2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CardGameTest_name - 2019.04.23 at 16h 52m 20s.xml">
-      <configuration name="CardGameTest.name" configurationId="JUnit" />
+    <history-entry file="TargetNumTest_name2 - 2019.04.30 at 15h 21m 30s.xml">
+      <configuration name="TargetNumTest.name2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CardGameTest_name - 2019.04.23 at 16h 52m 38s.xml">
-      <configuration name="CardGameTest.name" configurationId="JUnit" />
+    <history-entry file="TargetNumTest_name2 - 2019.04.30 at 15h 22m 10s.xml">
+      <configuration name="TargetNumTest.name2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CardGameTest_name1 - 2019.04.23 at 17h 02m 19s.xml">
-      <configuration name="CardGameTest.name1" configurationId="JUnit" />
+    <history-entry file="TargetNumTest_name2 - 2019.04.30 at 15h 23m 18s.xml">
+      <configuration name="TargetNumTest.name2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CardGameTest_name1 - 2019.04.23 at 17h 02m 52s.xml">
-      <configuration name="CardGameTest.name1" configurationId="JUnit" />
+    <history-entry file="TargetNumTest_name2 - 2019.04.30 at 15h 23m 50s.xml">
+      <configuration name="TargetNumTest.name2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CardGameTest_name1 - 2019.04.23 at 17h 18m 48s.xml">
-      <configuration name="CardGameTest.name1" configurationId="JUnit" />
+    <history-entry file="TargetNumTest_name2 - 2019.04.30 at 15h 24m 14s.xml">
+      <configuration name="TargetNumTest.name2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CardGameTest_name2 - 2019.04.23 at 17h 20m 18s.xml">
-      <configuration name="CardGameTest.name2" configurationId="JUnit" />
+    <history-entry file="TargetNumTest_name2 - 2019.04.30 at 15h 25m 27s.xml">
+      <configuration name="TargetNumTest.name2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CardGameTest_name2 - 2019.04.23 at 17h 20m 33s.xml">
-      <configuration name="CardGameTest.name2" configurationId="JUnit" />
+    <history-entry file="TargetNumTest_name2 - 2019.04.30 at 15h 34m 39s.xml">
+      <configuration name="TargetNumTest.name2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CardGameTest_name - 2019.04.23 at 17h 47m 58s.xml">
-      <configuration name="CardGameTest.name" configurationId="JUnit" />
+    <history-entry file="TargetNumTest_name2 - 2019.04.30 at 15h 36m 51s.xml">
+      <configuration name="TargetNumTest.name2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CardGameTest_name2 - 2019.04.23 at 18h 14m 31s.xml">
-      <configuration name="CardGameTest.name2" configurationId="JUnit" />
+    <history-entry file="TargetNumTest_name - 2019.04.30 at 15h 36m 54s.xml">
+      <configuration name="TargetNumTest.name" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -943,7 +962,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.32550335" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.33489934" />
       <window_info id="Structure" order="1" sideWeight="0.50142044" side_tool="true" weight="0.35436243" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -952,7 +971,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.7073864" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7088068" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5355114" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1073,9 +1092,21 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/programas/cardgame/CardGame.java</url>
-          <line>21</line>
+          <line>20</line>
           <properties />
           <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/programas/targetnum/TargetNum.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/programas/targetnum/TargetNum.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="84" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/baekjun/clear/baek1015/Baek1015.java</url>
@@ -1157,51 +1188,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/jobpare/GameItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/icecream/IceCream1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/sixshop/SixShopTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/jobpare/JobPare3Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/sun/reflect/DelegatingMethodAccessorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/jobpare/JobPare1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4743">
@@ -1399,9 +1385,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1423,10 +1406,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-          <folding>
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1441,9 +1420,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
           <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1482,21 +1458,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/thievery/ThieveryTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/thievery/Thievery.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="82" selection-start-line="25" selection-start-column="82" selection-end-line="25" selection-end-column="82" />
+        <state relative-caret-position="357">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/cardgame/CardGameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" column="82" selection-start-line="26" selection-start-column="82" selection-end-line="26" selection-end-column="82" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/gotoschool/GoToSchool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="71" column="28" selection-start-line="71" selection-start-column="28" selection-end-line="71" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/gotoschool/GoToSchoolTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="561">
           <caret line="36" column="94" selection-start-line="36" selection-start-column="94" selection-end-line="36" selection-end-column="94" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1504,23 +1496,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/gotoschool/GoToSchool.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/clear/thievery/ThieveryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1099">
-          <caret line="71" column="28" selection-start-line="71" selection-start-column="28" selection-end-line="71" selection-end-column="28" />
+        <state relative-caret-position="374">
+          <caret line="25" column="82" selection-start-line="25" selection-start-column="82" selection-end-line="25" selection-end-column="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/thievery/Thievery.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/cardgame/CardGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        <state relative-caret-position="519">
+          <caret line="34" column="5" selection-start-line="16" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/baekjun/baek1608/StarGameTournament.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255">
+        <state relative-caret-position="425">
           <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1528,24 +1523,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programas/cardgame/CardGameTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/gfs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="82" selection-start-line="26" selection-start-column="82" selection-end-line="26" selection-end-column="82" />
+        <state>
+          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/descripn/DescripN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bfs/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="50" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#635#636#0" expanded="true" />
-            <element signature="e#740#741#0" expanded="true" />
+            <element signature="e#661#670#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/cardgame/CardGame.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/targetnum/TargetNumTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="35" column="60" selection-start-line="35" selection-start-column="60" selection-end-line="35" selection-end-column="60" />
+        <state relative-caret-position="51">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/targetnum/TargetNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="8" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dfs/DfsEx1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
