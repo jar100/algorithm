@@ -27,6 +27,6 @@ public class DescripN {
             dfs(n, pos + 1+i, num * nn, number, s + "*");
             dfs(n, pos + 1+i, num / nn, number, s + "/");
         }
-        // dfs(n,pos+1,num*10+n,number,s+"5");
+        // study.dfs(n,pos+1,num*10+n,number,s+"5");
     }
 }

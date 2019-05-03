@@ -39,6 +39,7 @@ public class GymSuit {
         for (Integer integer : reserveList) {
             System.out.println(integer);
         }
+
         for (int i = 1; i <= n; i++) {
             if (i == lostList.get(lostIndex)) {
                 for (int j = 0; j < reserveList.size(); j++) {

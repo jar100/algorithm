@@ -7,8 +7,6 @@ import programas.BaseTest;
 import java.util.ArrayList;
 import java.util.List;
 
-import static org.junit.Assert.*;
-
 public class MaximumNumTest extends BaseTest {
     private MaximumNum maximumNum;
 
@@ -32,22 +30,27 @@ public class MaximumNumTest extends BaseTest {
     public void solution1() {
         softly.assertThat(maximumNum.solution(new int[]{6, 10, 2})).isEqualTo("6210");
     }
+
     @Test
     public void solution2() {
         softly.assertThat(maximumNum.solution(new int[]{3, 30, 34, 5, 9})).isEqualTo("9534330");
     }
+
     @Test
     public void solution3() {
         softly.assertThat(maximumNum.solution(new int[]{1, 10, 11})).isEqualTo("11110");
     }
+
     @Test
     public void solution4() {
         softly.assertThat(maximumNum.solution(new int[]{6, 10, 2})).isEqualTo("6210");
     }
+
     @Test
     public void solution5() {
         softly.assertThat(maximumNum.solution(new int[]{6, 10, 2})).isEqualTo("6210");
     }
+
     @Test
     public void solution6() {
         softly.assertThat(maximumNum.solution(new int[]{0, 0, 0})).isEqualTo("0");

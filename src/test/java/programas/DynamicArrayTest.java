@@ -1,7 +1,7 @@
 package programas;
 
 import org.junit.Test;
-import programas.clear.myarraylist.PeterArrayList;
+import study.myarraylist.PeterArrayList;
 
 import static org.junit.Assert.assertEquals;
 
