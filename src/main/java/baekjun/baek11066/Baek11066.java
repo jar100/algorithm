@@ -21,15 +21,19 @@ public class Baek11066 {
     }
 
     public static int solution(int n, int[] list) {
-        
+        int[][] dp = new int[n -1][];
+//        DP[i][i+k] + DP[i+k+1][j] + sum(0..j) - sum(0..i-1)
+//
+//        출처: https://deque.tistory.com/14 [코딩하는 사람]
+//
         int answer = 0;
-        for (int i = 0; i < list.length - 1; i++) {
-
-        }
-/*
-        if (!queue.isEmpty()) {
-            System.out.println("큐남은놈" + queue.peek());
-        }*/
+//        for (int i = 0; i < list.length - 1; i++) {
+//
+//        }
+///*
+//        if (!queue.isEmpty()) {
+//            System.out.println("큐남은놈" + queue.peek());
+//        }*/
         return answer;
     }
 
