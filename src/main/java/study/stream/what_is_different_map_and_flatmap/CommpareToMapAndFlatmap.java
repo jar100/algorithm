@@ -16,7 +16,6 @@ public class CommpareToMapAndFlatmap {
 
         Arrays.stream(data).flatMap(x -> Arrays.stream(x))
                 .forEach(System.out::println);
-
     }
 
 

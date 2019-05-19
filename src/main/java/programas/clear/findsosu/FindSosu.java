@@ -6,15 +6,15 @@ import java.util.Set;
 public class FindSosu {
     public int solution(String numbers) {
         char[] list = numbers.toCharArray();
-        int[] combArr = new int[list.length];
-        for (int i = 0; i < list.length; i++) {
-            combArr[i] = Integer.parseInt(String.valueOf(list[i]));
-        }
+//        int[] combArr = Arrays.stream(new char[][]{numbers.toCharArray()})
+//                .mapToInt(a -> Integer.parseInt(String.valueOf(a))).toArray();
+
         Set<Integer> sosuList = new HashSet<>();
         for (int i = 1; i <= list.length; i++) {
             perm(list, 0, i, sosuList);
             System.out.println("찾기");
         }
+
 
         System.out.println("소수 리스트입니다.");
         System.out.println(sosuList);
