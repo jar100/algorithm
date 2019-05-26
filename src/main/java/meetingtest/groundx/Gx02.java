@@ -12,9 +12,12 @@ public class Gx02 {
             if (compressed.charAt(i) == 41) {
                 StringBuffer stringBuffer = new StringBuffer();
                 stringBuffer.insert(0,compressed.charAt(i));
+
+
                 while (stack.peek() != 40) {
                     stringBuffer.insert(0,stack.pop());
                 }
+
                 stringBuffer.insert(0,stack.pop());
 
                 StringBuffer num = new StringBuffer();

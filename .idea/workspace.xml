@@ -7,25 +7,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23586ee2-4605-423a-a2cc-a7fb8717802a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/meetingtest/groundx/Extest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/meetingtest/groundx/Gx01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/meetingtest/groundx/Gx02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/meetingtest/groundx/Gx03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/meetingtest/groundx/Refrigerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/meetingtest/groundx/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/meetingtest/timon/Cleaner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/meetingtest/timon/Cook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/meetingtest/timon/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/meetingtest/timon/RestaurantSimulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/meetingtest/timon/Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/meetingtest/groundx/Gx01Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/meetingtest/groundx/Gx02Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/meetingtest/groundx/Gx03Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/meetingtest/groundx/RefrigeratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/meetingtest/groundx/TriangleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/meetingtest/timon/RestaurantSimulationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/algorithm_jar.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/groundx/Gx02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/groundx/Gx02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/groundx/Gx03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/groundx/Gx03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/timon/Cleaner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/timon/Cleaner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/timon/Cook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/timon/Cook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/timon/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/timon/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/timon/RestaurantSimulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/timon/RestaurantSimulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/timon/Table.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/timon/Table.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/meetingtest/groundx/Gx03Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/meetingtest/groundx/Gx03Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/meetingtest/timon/RestaurantSimulationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/meetingtest/timon/RestaurantSimulationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/meetingtest/groundx/Gx02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/meetingtest/groundx/Gx02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/meetingtest/groundx/Gx03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/meetingtest/groundx/Gx03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/meetingtest/timon/Cleaner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/meetingtest/timon/Cleaner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/meetingtest/timon/Cook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/meetingtest/timon/Cook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/meetingtest/timon/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/meetingtest/timon/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/meetingtest/timon/RestaurantSimulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/meetingtest/timon/RestaurantSimulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/meetingtest/timon/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/meetingtest/timon/Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/meetingtest/groundx/Gx03Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/meetingtest/groundx/Gx03Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/meetingtest/timon/RestaurantSimulationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/meetingtest/timon/RestaurantSimulationTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,10 +89,10 @@
     <session id="-1804102672">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="85" />
+          <entry key="project.closed" value="87" />
           <entry key="project.open.time.0" value="12" />
           <entry key="project.open.time.1" value="31" />
-          <entry key="project.open.time.10" value="11" />
+          <entry key="project.open.time.10" value="12" />
           <entry key="project.open.time.11" value="4" />
           <entry key="project.open.time.12" value="8" />
           <entry key="project.open.time.13" value="5" />
@@ -105,8 +105,8 @@
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="7" />
-          <entry key="project.open.time.9" value="7" />
-          <entry key="project.opened" value="107" />
+          <entry key="project.open.time.9" value="8" />
+          <entry key="project.opened" value="109" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -120,7 +120,7 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="Groovy" value="5" />
-          <entry key="JAVA" value="592" />
+          <entry key="JAVA" value="596" />
           <entry key="Markdown" value="24" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="XML" value="1" />
@@ -135,7 +135,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="75493" />
+          <entry key="JAVA" value="76188" />
           <entry key="Markdown" value="1486" />
           <entry key="PLAIN_TEXT" value="78" />
         </counts>
@@ -148,8 +148,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/meetingtest/timon/RestaurantSimulation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+            <state relative-caret-position="663">
+              <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -158,24 +158,57 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/List.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/meetingtest/timon/Table.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
+            <state relative-caret-position="782">
+              <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/meetingtest/timon/Table.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/meetingtest/timon/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1216">
-              <caret line="5" column="28" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="28" />
+            <state relative-caret-position="357">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/meetingtest/groundx/Gx03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1565">
+              <caret line="104" selection-start-line="104" selection-end-line="104" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/meetingtest/groundx/Gx03Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/meetingtest/groundx/Gx02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/meetingtest/timon/RestaurantSimulationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
               <folding>
-                <element signature="e#1613#1614#0" expanded="true" />
-                <element signature="e#1651#1652#0" expanded="true" />
-                <element signature="e#1746#1747#0" expanded="true" />
-                <element signature="e#1773#1774#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -184,37 +217,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/meetingtest/timon/Cook.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-              <folding>
-                <element signature="e#828#829#0" expanded="true" />
-                <element signature="e#886#887#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/meetingtest/timon/Customer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="47" lean-forward="true" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
-              <folding>
-                <element signature="e#578#579#0" expanded="true" />
-                <element signature="e#611#612#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/meetingtest/timon/RestaurantSimulationTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="459">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -222,12 +226,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/meetingtest/timon/Cleaner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-              <folding>
-                <element signature="e#357#358#0" expanded="true" />
-                <element signature="e#385#386#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="136">
+              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -620,18 +620,18 @@
         <option value="$PROJECT_DIR$/src/test/java/meetingtest/groundx/TriangleTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/meetingtest/groundx/Triangle.java" />
         <option value="$PROJECT_DIR$/src/test/java/meetingtest/groundx/Gx02Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/meetingtest/groundx/Gx02.java" />
         <option value="$PROJECT_DIR$/src/test/java/meetingtest/groundx/Gx01Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/meetingtest/groundx/Gx01.java" />
         <option value="$PROJECT_DIR$/src/main/java/meetingtest/groundx/Extest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/meetingtest/groundx/Gx03Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/meetingtest/groundx/Gx03.java" />
+        <option value="$PROJECT_DIR$/src/test/java/meetingtest/timon/RestaurantSimulationTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/meetingtest/timon/Cook.java" />
         <option value="$PROJECT_DIR$/src/main/java/meetingtest/timon/Cleaner.java" />
-        <option value="$PROJECT_DIR$/src/test/java/meetingtest/timon/RestaurantSimulationTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/meetingtest/timon/Table.java" />
         <option value="$PROJECT_DIR$/src/main/java/meetingtest/timon/RestaurantSimulation.java" />
         <option value="$PROJECT_DIR$/src/main/java/meetingtest/timon/Customer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/meetingtest/groundx/Gx02.java" />
+        <option value="$PROJECT_DIR$/src/test/java/meetingtest/groundx/Gx03Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/meetingtest/groundx/Gx03.java" />
       </list>
     </option>
   </component>
@@ -641,7 +641,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="65" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -733,7 +733,7 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="meetingtest" type="462c0819:PsiDirectoryNode" />
-              <item name="timon" type="462c0819:PsiDirectoryNode" />
+              <item name="groundx" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -794,7 +794,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/jar10/Documents/codesquad/workspace/algorithm/src/test/java/meetingtest/groundx/RefrigeratorTest.java&#10;zoom&#9;PSI&#9;JAVA://javafx.scene.input.ZoomEvent&#10;stack&#9;PSI&#9;JAVA://java.util.Stack" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558684495816" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558771943853" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="extract.method.default.visibility" value="private" />
@@ -834,7 +834,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RestaurantSimulationTest.setup">
+  <component name="RunManager" selected="JUnit.Gx03Test">
     <configuration name="Unnamed" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -851,7 +851,7 @@
       </ExternalSystemSettings>
       <method v="2" />
     </configuration>
-    <configuration name="Gx03Test.checkClomnWhenOWin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Gx03Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
@@ -861,13 +861,11 @@
       </extension>
       <option name="PACKAGE_NAME" value="meetingtest.groundx" />
       <option name="MAIN_CLASS_NAME" value="meetingtest.groundx.Gx03Test" />
-      <option name="METHOD_NAME" value="checkClomnWhenOWin" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Gx03Test.checkRow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Gx03Test.name1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
@@ -877,13 +875,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="meetingtest.groundx" />
       <option name="MAIN_CLASS_NAME" value="meetingtest.groundx.Gx03Test" />
-      <option name="METHOD_NAME" value="checkRow" />
+      <option name="METHOD_NAME" value="name1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Gx03Test.checkRowWhenOWin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Gx03Test.name2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
@@ -893,13 +891,29 @@
       </extension>
       <option name="PACKAGE_NAME" value="meetingtest.groundx" />
       <option name="MAIN_CLASS_NAME" value="meetingtest.groundx.Gx03Test" />
-      <option name="METHOD_NAME" value="checkRowWhenOWin" />
+      <option name="METHOD_NAME" value="name2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RestaurantSimulationTest.setup" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Gx03Test.name3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="meetingtest.groundx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="meetingtest.groundx" />
+      <option name="MAIN_CLASS_NAME" value="meetingtest.groundx.Gx03Test" />
+      <option name="METHOD_NAME" value="name3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestaurantSimulationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
@@ -909,43 +923,25 @@
       </extension>
       <option name="PACKAGE_NAME" value="meetingtest.timon" />
       <option name="MAIN_CLASS_NAME" value="meetingtest.timon.RestaurantSimulationTest" />
-      <option name="METHOD_NAME" value="setup" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RestaurantSimulationTest.setup2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="meetingtest.timon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="meetingtest.timon" />
-      <option name="MAIN_CLASS_NAME" value="meetingtest.timon.RestaurantSimulationTest" />
-      <option name="METHOD_NAME" value="setup2" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Gradle.Unnamed" />
-      <item itemvalue="JUnit.Gx03Test.checkRow" />
-      <item itemvalue="JUnit.Gx03Test.checkRowWhenOWin" />
-      <item itemvalue="JUnit.Gx03Test.checkClomnWhenOWin" />
-      <item itemvalue="JUnit.RestaurantSimulationTest.setup" />
-      <item itemvalue="JUnit.RestaurantSimulationTest.setup2" />
+      <item itemvalue="JUnit.RestaurantSimulationTest" />
+      <item itemvalue="JUnit.Gx03Test.name1" />
+      <item itemvalue="JUnit.Gx03Test" />
+      <item itemvalue="JUnit.Gx03Test.name2" />
+      <item itemvalue="JUnit.Gx03Test.name3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RestaurantSimulationTest.setup" />
-        <item itemvalue="JUnit.RestaurantSimulationTest.setup2" />
-        <item itemvalue="JUnit.Gx03Test.checkClomnWhenOWin" />
-        <item itemvalue="JUnit.Gx03Test.checkRowWhenOWin" />
-        <item itemvalue="JUnit.Gx03Test.checkRow" />
+        <item itemvalue="JUnit.Gx03Test" />
+        <item itemvalue="JUnit.Gx03Test.name3" />
+        <item itemvalue="JUnit.Gx03Test.name2" />
+        <item itemvalue="JUnit.Gx03Test.name1" />
+        <item itemvalue="JUnit.RestaurantSimulationTest" />
       </list>
     </recent_temporary>
   </component>
@@ -963,35 +959,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RestaurantSimulationTest_setup - 2019.05.24 at 16h 21m 53s.xml">
-      <configuration name="RestaurantSimulationTest.setup" configurationId="JUnit" />
+    <history-entry file="Gx03Test - 2019.05.25 at 17h 09m 52s.xml">
+      <configuration name="Gx03Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RestaurantSimulationTest_setup - 2019.05.24 at 16h 21m 57s.xml">
-      <configuration name="RestaurantSimulationTest.setup" configurationId="JUnit" />
+    <history-entry file="Gx03Test - 2019.05.25 at 17h 10m 35s.xml">
+      <configuration name="Gx03Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RestaurantSimulationTest_setup - 2019.05.24 at 16h 25m 07s.xml">
-      <configuration name="RestaurantSimulationTest.setup" configurationId="JUnit" />
+    <history-entry file="Gx03Test - 2019.05.25 at 17h 13m 58s.xml">
+      <configuration name="Gx03Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RestaurantSimulationTest_setup - 2019.05.24 at 16h 26m 06s.xml">
-      <configuration name="RestaurantSimulationTest.setup" configurationId="JUnit" />
+    <history-entry file="Gx03Test - 2019.05.26 at 14h 08m 22s.xml">
+      <configuration name="Gx03Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RestaurantSimulationTest_setup - 2019.05.24 at 16h 26m 52s.xml">
-      <configuration name="RestaurantSimulationTest.setup" configurationId="JUnit" />
+    <history-entry file="Gx03Test - 2019.05.26 at 14h 21m 44s.xml">
+      <configuration name="Gx03Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RestaurantSimulationTest_setup - 2019.05.24 at 16h 29m 26s.xml">
-      <configuration name="RestaurantSimulationTest.setup" configurationId="JUnit" />
+    <history-entry file="Gx03Test - 2019.05.26 at 14h 24m 17s.xml">
+      <configuration name="Gx03Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RestaurantSimulationTest_setup2 - 2019.05.24 at 16h 32m 13s.xml">
-      <configuration name="RestaurantSimulationTest.setup2" configurationId="JUnit" />
+    <history-entry file="Gx03Test - 2019.05.26 at 14h 24m 24s.xml">
+      <configuration name="Gx03Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RestaurantSimulationTest_setup2 - 2019.05.24 at 16h 33m 34s.xml">
-      <configuration name="RestaurantSimulationTest.setup2" configurationId="JUnit" />
+    <history-entry file="Gx03Test - 2019.05.26 at 14h 25m 38s.xml">
+      <configuration name="Gx03Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RestaurantSimulationTest_setup2 - 2019.05.24 at 16h 34m 28s.xml">
-      <configuration name="RestaurantSimulationTest.setup2" configurationId="JUnit" />
+    <history-entry file="Gx03Test - 2019.05.26 at 16h 11m 36s.xml">
+      <configuration name="Gx03Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RestaurantSimulationTest_setup - 2019.05.24 at 16h 34m 35s.xml">
-      <configuration name="RestaurantSimulationTest.setup" configurationId="JUnit" />
+    <history-entry file="Gx03Test - 2019.05.26 at 16h 15m 49s.xml">
+      <configuration name="Gx03Test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -1005,9 +1001,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.17516778" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.18053691" />
       <window_info id="Structure" order="1" sideWeight="0.50142044" side_tool="true" weight="0.35436243" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1180,16 +1175,24 @@
           <option name="timeStamp" value="95" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/meetingtest/groundx/Gx03.java</url>
-          <line>22</line>
+          <condition expression="minute &gt;= 26" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/main/java/meetingtest/timon/RestaurantSimulation.java</url>
+          <line>57</line>
           <properties />
-          <option name="timeStamp" value="98" />
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="customer == null" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/main/java/meetingtest/timon/Table.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="115" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/meetingtest/groundx/Gx03.java</url>
-          <line>84</line>
+          <line>95</line>
           <properties />
-          <option name="timeStamp" value="100" />
+          <option name="timeStamp" value="119" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/baekjun/clear/baek1015/Baek1015.java</url>
@@ -1235,6 +1238,8 @@
         <watch expression="((RestaurantSimulation)this).usingTables" custom="meetingtest.timon.RestaurantSimulation" />
         <watch expression="((RestaurantSimulation)this).weighting" language="JAVA" custom="meetingtest.timon.RestaurantSimulation" />
         <watch expression="((RestaurantSimulation)this).usingTables.get(0)" />
+        <watch expression="((RestaurantSimulation)this).usingTables.get(0)" />
+        <watch expression="((RestaurantSimulation)this).usingTables.get(9)" />
       </configuration>
     </watches-manager>
   </component>
@@ -1244,6 +1249,21 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>cache[resultInedx] != -2</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>customer == null</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>minute &gt;= 26</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>customer.eatTime &gt;= 13</expression-string>
         <language-id>JAVA</language-id>
@@ -1280,6 +1300,13 @@
         <expression-string>((RestaurantSimulation)this).weighting</expression-string>
         <language-id>JAVA</language-id>
         <custom-info>meetingtest.timon.RestaurantSimulation</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="arrayFilter">
+      <expression>
+        <expression-string>16193</expression-string>
+        <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
@@ -1557,21 +1584,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/meetingtest/groundx/Gx03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1360">
           <caret line="106" column="46" selection-start-line="106" selection-start-column="34" selection-end-line="106" selection-end-column="46" />
-          <folding>
-            <element signature="e#6283#6284#0" expanded="true" />
-            <element signature="e#6351#6352#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1579,20 +1595,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1037">
           <caret line="61" selection-start-line="61" selection-end-line="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/meetingtest/groundx/Gx03Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/meetingtest/groundx/Gx02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -1614,9 +1616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1634,31 +1633,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/meetingtest/timon/Cleaner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-          <folding>
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/meetingtest/timon/RestaurantSimulationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/meetingtest/timon/RestaurantSimulation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+        <state relative-caret-position="663">
+          <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1667,36 +1645,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/meetingtest/timon/Table.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1216">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="28" />
+        <state relative-caret-position="782">
+          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/meetingtest/timon/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/meetingtest/groundx/Gx03Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/meetingtest/groundx/Gx02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/meetingtest/timon/RestaurantSimulationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
           <folding>
-            <element signature="e#1613#1614#0" expanded="true" />
-            <element signature="e#1651#1652#0" expanded="true" />
-            <element signature="e#1746#1747#0" expanded="true" />
-            <element signature="e#1773#1774#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/meetingtest/timon/Cook.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="e#828#829#0" expanded="true" />
-            <element signature="e#886#887#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/meetingtest/timon/Customer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/meetingtest/timon/Cleaner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="47" lean-forward="true" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
-          <folding>
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#611#612#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/meetingtest/groundx/Gx03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1565">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
         </state>
       </provider>
     </entry>

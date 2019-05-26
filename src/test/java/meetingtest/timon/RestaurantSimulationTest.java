@@ -33,4 +33,10 @@ public class RestaurantSimulationTest extends BaseTest {
         restaurantSimulation.setup(1,5,5,5);
         restaurantSimulation.run();
     }
+
+    @Test
+    public void setup3() {
+        restaurantSimulation.setup(12,3,2,10);
+        restaurantSimulation.run();
+    }
 }

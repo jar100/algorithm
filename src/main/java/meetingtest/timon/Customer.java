@@ -21,10 +21,12 @@ public class Customer {
     }
 
     public void eat() {
-        eatTime ++;
+
         if (eatTime >= FINISH_TIME)  {
             finishFood = true;
         }
+        eatTime ++;
+
     }
 
     public boolean finishEat() {

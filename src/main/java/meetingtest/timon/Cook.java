@@ -3,7 +3,8 @@ package meetingtest.timon;
 import java.util.Objects;
 
 public class Cook {
-    private static final int FINISH_TIME = 4;
+    private int proficiency;
+    private int finishTime = 4;
     private int cookTime;
     private boolean isStartCook = false;
 
@@ -13,17 +14,17 @@ public class Cook {
             isStartCook = true;
         }
         cookTime ++;
+        proficiency ++;
     }
 
     public boolean finishCook() {
-        if (isStartCook && cookTime == FINISH_TIME) {
+        if (isStartCook && cookTime == finishTime) {
             isStartCook = false;
             cookTime = 0;
             return true;
         }
         return false;
     }
-
 
 
     @Override

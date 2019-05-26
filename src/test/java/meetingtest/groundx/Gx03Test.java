@@ -22,9 +22,9 @@ public class Gx03Test extends BaseTest {
 
     @Test
     public void name3() {
-        String[] strings = {"o.o2", ".x.", "oxx"};
+        String[] strings = {"o.o", ".x.", "oxx"};
 
-        softly.assertThat(solution.solution(strings)).isEqualTo("O");
+        softly.assertThat(solution.solution(strings)).isEqualTo("X");
     }
 
     @Test
@@ -36,12 +36,12 @@ public class Gx03Test extends BaseTest {
     @Test
     public void checkRowWhenOWin() {
         String[] strings = {".oo", ".xx", "o.."};
-        softly.assertThat(solution.solution(strings)).isEqualTo("O");
+        softly.assertThat(solution.solution(strings)).isEqualTo("X");
     }
 
     @Test
     public void checkClomnWhenOWin() {
-        String[] strings = {".oo", ".ox", "x.."};
+        String[] strings = {".oo", ".ox", "xx."};
         softly.assertThat(solution.solution(strings)).isEqualTo("X");
     }
 }

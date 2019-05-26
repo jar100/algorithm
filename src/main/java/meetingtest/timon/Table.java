@@ -9,7 +9,7 @@ public class Table {
 
 
 
-    public Table seet(Customer customer) {
+    public Table sit(Customer customer) {
         this.customer = customer;
         return this;
     }
@@ -22,7 +22,7 @@ public class Table {
     }
 
     public boolean needCook() {
-        if ( (cook == null && !isHaveFood) && cleaner == null) {
+        if ( (cook == null && !isHaveFood) && (cleaner == null && !isNeedClean)) {
             return true;
         }
         return false;
@@ -61,7 +61,7 @@ public class Table {
         return false;
     }
 
-    public int isCustommerFinishFood() {
+    public int customerFinishFood() {
         if (customer.finishEat()) {
             this.customer = null;
             this.isHaveFood = false;
@@ -99,9 +99,7 @@ public class Table {
 
     public Cleaner getCleaner() {
         cleaner.finishJob();
-        Cleaner cleaner1 = cleaner;
-        cleaner = null;
-        return cleaner1;
+        return cleaner;
     }
 
     public boolean hasCleaner() {

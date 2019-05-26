@@ -22,11 +22,9 @@ public class RestaurantSimulation {
         for (int i = 0; i < cook; i++) {
             cooks.add(new Cook());
         }
-
         for (int i = 0; i < cleaner; i++) {
             cleaners.add(new Cleaner());
         }
-
         for (int i = 0; i < table; i++) {
             tables.add(new Table());
         }
@@ -40,8 +38,9 @@ public class RestaurantSimulation {
             customerSitTables();
             weighting.forEach(Customer::addTime);
             usingTablesAddTime();
-
             minute++;
+
+//            System.out.println(minute);
         }
 
         System.out.println("밥먹은사람: " + customerCount);
@@ -60,6 +59,7 @@ public class RestaurantSimulation {
 
             // 사용중인 테이블중 담당 요리사가 없고 놀고있는 요리사가 있으면 들어간다.
             // todo 클린중에 사람이 들어가 요리사도 같이 들어가는 문제 발생 요리사와 사람은 같이 들어갈 수 있으나 청소부가 있으면 둘다 못들어온다.
+
             usingTableNeedCook(usingTable);
 
 
@@ -88,6 +88,7 @@ public class RestaurantSimulation {
         if (usingTable.hasCleaner()) {
             if (usingTable.isCleanerFinish()) {
                 cleaners.add(usingTable.getCleaner());
+                usingTable.setCleaner(null);
             }
         }
     }
@@ -101,7 +102,7 @@ public class RestaurantSimulation {
 
     private void countWhenCustomerFinishFood(Table usingTable) {
         if (usingTable.hasCustomer()) {
-            customerCount += usingTable.isCustommerFinishFood();
+            customerCount += usingTable.customerFinishFood();
         }
     }
 
@@ -132,7 +133,7 @@ public class RestaurantSimulation {
         while (!weighting.isEmpty() && !tables.isEmpty()) {
             customer = weighting.remove(0);
             if (!customer.isLeaveTime()) {
-                usingTables.add(tables.remove(0).seet(customer));
+                usingTables.add(tables.remove(0).sit(customer));
             }
         }
     }
