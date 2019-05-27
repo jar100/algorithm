@@ -8,12 +8,17 @@ import java.util.stream.Collectors;
 
 public class RestaurantSimulation {
     List<Customer> weighting = new ArrayList<>();
+
     List<Table> tables = new ArrayList<>();
     List<Table> usingTables = new ArrayList<>();
+
     List<Cook> cooks = new ArrayList<>();
     List<Cleaner> cleaners = new ArrayList<>();
+
     int minute = 0;
+
     int FinishMinute;
+
     int customerCount = 0;
 
 
@@ -38,8 +43,8 @@ public class RestaurantSimulation {
             customerSitTables();
             weighting.forEach(Customer::addTime);
             usingTablesAddTime();
-            minute++;
 
+            minute++;
 //            System.out.println(minute);
         }
 

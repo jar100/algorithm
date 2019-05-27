@@ -7,7 +7,7 @@ public class Refrigerator {
         boolean isOpen = false;
         int answer = 0;
         int temp = 0;
-        while (openindex != open.length ) {
+        while (openindex != open.length) {
 
             if (!isOpen && close[closeindex] > open[openindex]) {
                 isOpen = true;
@@ -15,13 +15,13 @@ public class Refrigerator {
 
             }
 
-            if (isOpen && close[closeindex] > open[openindexInclse(openindex  + 1,open.length)]) {
+            if (isOpen && close[closeindex] > open[openindexInclse(openindex + 1, open.length)]) {
                 if (openindex < open.length - 1) {
                     openindex++;
                 } else {
                     isOpen = false;
                 }
-            } else  if (close[closeindex] < open[openindexInclse(openindex  + 1,open.length)] || openindex >= open.length - 1) {
+            } else if (close[closeindex] < open[openindexInclse(openindex + 1, open.length)] || openindex >= open.length - 1) {
                 isOpen = false;
             }
 
@@ -29,7 +29,7 @@ public class Refrigerator {
             if (!isOpen) {
                 answer += temp;
                 if (temp != 0) {
-                    openindex ++ ;
+                    openindex++;
                 }
                 temp = 0;
                 closeindex++;

@@ -81,12 +81,6 @@ public class Gx03 {
         if (isFinished((char) ('o' + 'x' - turn))) {
             return -1;
         }
-        /*
-        *
-        * chach 에 값을 result 로 바꿔준다. 그럼 1 -1 0 3개중 하나로 변함
-        *
-        *
-        * */
         int resultInedx = bijection();
         int result = cache[resultInedx];
         // 케시를 사용하려면 result 가 -2 가 아니면 리턴 보인값
@@ -112,13 +106,11 @@ public class Gx03 {
 
         // 플레이 할 수 없거나, 어떻게 해도 비기는 것이 최선인 경우
         if (minValue == 2 || minValue == 0) {
-            cache[resultInedx] = 0;
-            return result = 0;
+            return cache[resultInedx] = 0;
         }
 
         // 최선이 상대가 이기는 거라면 난 무조건 지고, 상대가 지는 거라면 난 이긴다.
-        cache[resultInedx] = -minValue;
-        return result = -minValue;
+        return cache[resultInedx] = -minValue;
     }
 
     private void checkMark(char turn, int i, int j) {
