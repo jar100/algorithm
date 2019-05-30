@@ -60,7 +60,8 @@ public class Gx03 {
     // 틱택토 게임이 주어질 때, [0, 19682] 범위의 정수로 변환한다.
     public int bijection() {
         int ret = 0;
-
+        StringBuilder a = new StringBuilder();
+        
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++) {
                 ret *= 3;

@@ -21,6 +21,7 @@ public class Cook {
         if (isStartCook && cookTime == finishTime) {
             isStartCook = false;
             cookTime = 0;
+
             return true;
         }
         return false;
