@@ -7,19 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23586ee2-4605-423a-a2cc-a7fb8717802a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjun/clear/baek2589/Baek2589.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codility/binarygap/BinaryGap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codility/checkunpair/CheckUnpair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/codility/binarygap/BinaryGapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/codility/checkunpair/CheckUnpairTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/sort/QuickSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programas/changechar/ChangeChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/programas/changechar/ChangeCharTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/groundx/Gx03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/groundx/Gx03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/timon/Cook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/timon/Cook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/timon/RestaurantSimulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/timon/RestaurantSimulation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/meetingtest/groundx/Gx03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/meetingtest/groundx/Gx03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/meetingtest/timon/Cook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/meetingtest/timon/Cook.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -117,7 +107,7 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="Groovy" value="5" />
-          <entry key="JAVA" value="608" />
+          <entry key="JAVA" value="613" />
           <entry key="Markdown" value="24" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="XML" value="1" />
@@ -132,7 +122,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="77828" />
+          <entry key="JAVA" value="80067" />
           <entry key="Markdown" value="1486" />
           <entry key="PLAIN_TEXT" value="78" />
         </counts>
@@ -142,11 +132,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/baekjun/clear/baek2589/Baek2589.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="7" selection-end-column="23" />
+            <state relative-caret-position="289">
+              <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programas/changechar/ChangeChar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="579">
+              <caret line="52" column="11" lean-forward="true" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -155,28 +157,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/meetingtest/timon/Table.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/study/bfs/Graph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+            <state relative-caret-position="-213">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/codility/binarygap/BinaryGap.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/study/dfs/DfsEx1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="14" selection-end-column="22" />
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/codility/checkunpair/CheckUnpair.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/study/dfs/DfsEx2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="11" selection-end-column="22" />
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programas/changechar/ChangeCharTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -191,24 +205,6 @@
                 <element signature="e#249#250#0" expanded="true" />
                 <element signature="e#350#351#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/codility/binarygap/BinaryGapTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/study/sort/QuickSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -589,8 +585,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/programas/skill/SkillTwoTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programas/skill/SkillTwo.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/skill/SkillOne.java" />
         <option value="$PROJECT_DIR$/src/main/java/programas/clear/skill/SkillTwo.java" />
         <option value="$PROJECT_DIR$/src/main/java/baekjun/baek11066/Baek11066.java" />
@@ -640,6 +634,8 @@
         <option value="$PROJECT_DIR$/src/main/java/codility/checkunpair/CheckUnpair.java" />
         <option value="$PROJECT_DIR$/src/test/java/codility/checkunpair/CheckUnpairTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/baekjun/clear/baek2589/Baek2589.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programas/changechar/ChangeCharTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programas/changechar/ChangeChar.java" />
       </list>
     </option>
   </component>
@@ -747,30 +743,11 @@
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="programas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="baekjun" type="462c0819:PsiDirectoryNode" />
+              <item name="clear" type="462c0819:PsiDirectoryNode" />
+              <item name="baek2589" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -784,8 +761,8 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/jar10/Documents/codesquad/workspace/algorithm/src/test/java/meetingtest/groundx/RefrigeratorTest.java&#10;zoom&#9;PSI&#9;JAVA://javafx.scene.input.ZoomEvent&#10;stack&#9;PSI&#9;JAVA://java.util.Stack" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559212454463" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/jar10/Documents/codesquad/workspace/algorithm/src/test/java/programas/changechar/ChangeCharTest.java&#10;zoom&#9;PSI&#9;JAVA://javafx.scene.input.ZoomEvent&#10;stack&#9;PSI&#9;JAVA://java.util.Stack" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559400834169" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="extract.method.default.visibility" value="private" />
@@ -797,11 +774,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="programas.changechar" />
       <recent name="codility.checkunpair" />
       <recent name="codility.binarygap" />
       <recent name="study.sort" />
       <recent name="meetingtest.timon" />
-      <recent name="meetingtest.groundx" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -825,20 +802,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CheckUnpairTest.name">
-    <configuration name="Baek2589" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjun.clear.baek2589.Baek2589" />
-      <module name="algorithm_main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="baekjun.clear.baek2589.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.ChangeCharTest.변화되는경우가많아최소값을탐색">
     <configuration name="Unnamed" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -855,65 +819,79 @@
       </ExternalSystemSettings>
       <method v="2" />
     </configuration>
-    <configuration name="BinaryGapTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ChangeCharTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codility.binarygap.*" />
+          <option name="PATTERN" value="programas.changechar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="codility.binarygap" />
-      <option name="MAIN_CLASS_NAME" value="codility.binarygap.BinaryGapTest" />
+      <option name="PACKAGE_NAME" value="programas.changechar" />
+      <option name="MAIN_CLASS_NAME" value="programas.changechar.ChangeCharTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChangeCharTest.타겟은있지만타겟으로변화되는게없다" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programas.changechar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programas.changechar" />
+      <option name="MAIN_CLASS_NAME" value="programas.changechar.ChangeCharTest" />
+      <option name="METHOD_NAME" value="타겟은있지만타겟으로변화되는게없다" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChangeCharTest.변화되는경우가많아최소값을탐색" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programas.changechar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programas.changechar" />
+      <option name="MAIN_CLASS_NAME" value="programas.changechar.ChangeCharTest" />
+      <option name="METHOD_NAME" value="변화되는경우가많아최소값을탐색" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChangeCharTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programas.changechar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programas.changechar" />
+      <option name="MAIN_CLASS_NAME" value="programas.changechar.ChangeCharTest" />
       <option name="METHOD_NAME" value="name" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckUnpairTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ChangeCharTest.name2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codility.checkunpair.*" />
+          <option name="PATTERN" value="programas.changechar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="codility.checkunpair" />
-      <option name="MAIN_CLASS_NAME" value="codility.checkunpair.CheckUnpairTest" />
-      <option name="METHOD_NAME" value="name" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuickSortTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="study.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="study.sort" />
-      <option name="MAIN_CLASS_NAME" value="study.sort.QuickSortTest" />
-      <option name="METHOD_NAME" value="name" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RestaurantSimulationTest.setup3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="meetingtest.timon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="meetingtest.timon" />
-      <option name="MAIN_CLASS_NAME" value="meetingtest.timon.RestaurantSimulationTest" />
-      <option name="METHOD_NAME" value="setup3" />
+      <option name="PACKAGE_NAME" value="programas.changechar" />
+      <option name="MAIN_CLASS_NAME" value="programas.changechar.ChangeCharTest" />
+      <option name="METHOD_NAME" value="name2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -921,19 +899,19 @@
     </configuration>
     <list>
       <item itemvalue="Gradle.Unnamed" />
-      <item itemvalue="JUnit.RestaurantSimulationTest.setup3" />
-      <item itemvalue="Application.Baek2589" />
-      <item itemvalue="JUnit.QuickSortTest.name" />
-      <item itemvalue="JUnit.BinaryGapTest.name" />
-      <item itemvalue="JUnit.CheckUnpairTest.name" />
+      <item itemvalue="JUnit.ChangeCharTest.name" />
+      <item itemvalue="JUnit.ChangeCharTest.name2" />
+      <item itemvalue="JUnit.ChangeCharTest.타겟은있지만타겟으로변화되는게없다" />
+      <item itemvalue="JUnit.ChangeCharTest.변화되는경우가많아최소값을탐색" />
+      <item itemvalue="JUnit.ChangeCharTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CheckUnpairTest.name" />
-        <item itemvalue="JUnit.BinaryGapTest.name" />
-        <item itemvalue="Application.Baek2589" />
-        <item itemvalue="JUnit.QuickSortTest.name" />
-        <item itemvalue="JUnit.RestaurantSimulationTest.setup3" />
+        <item itemvalue="JUnit.ChangeCharTest.변화되는경우가많아최소값을탐색" />
+        <item itemvalue="JUnit.ChangeCharTest.타겟은있지만타겟으로변화되는게없다" />
+        <item itemvalue="JUnit.ChangeCharTest" />
+        <item itemvalue="JUnit.ChangeCharTest.name" />
+        <item itemvalue="JUnit.ChangeCharTest.name2" />
       </list>
     </recent_temporary>
   </component>
@@ -951,35 +929,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RestaurantSimulationTest_setup - 2019.05.27 at 12h 04m 14s.xml">
-      <configuration name="RestaurantSimulationTest.setup" configurationId="JUnit" />
+    <history-entry file="ChangeCharTest_변화되는경우가많아최소값을탐색 - 2019.06.01 at 17h 14m 49s.xml">
+      <configuration name="ChangeCharTest.변화되는경우가많아최소값을탐색" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RestaurantSimulationTest_setup3 - 2019.05.27 at 12h 04m 24s.xml">
-      <configuration name="RestaurantSimulationTest.setup3" configurationId="JUnit" />
+    <history-entry file="ChangeCharTest_변화되는경우가많아최소값을탐색 - 2019.06.01 at 17h 16m 20s.xml">
+      <configuration name="ChangeCharTest.변화되는경우가많아최소값을탐색" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QuickSortTest_name - 2019.05.29 at 17h 16m 54s.xml">
-      <configuration name="QuickSortTest.name" configurationId="JUnit" />
+    <history-entry file="ChangeCharTest_변화되는경우가많아최소값을탐색 - 2019.06.01 at 17h 17m 52s.xml">
+      <configuration name="ChangeCharTest.변화되는경우가많아최소값을탐색" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QuickSortTest_name - 2019.05.29 at 17h 17m 03s.xml">
-      <configuration name="QuickSortTest.name" configurationId="JUnit" />
+    <history-entry file="ChangeCharTest_변화되는경우가많아최소값을탐색 - 2019.06.01 at 17h 18m 44s.xml">
+      <configuration name="ChangeCharTest.변화되는경우가많아최소값을탐색" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QuickSortTest_name - 2019.05.29 at 17h 17m 09s.xml">
-      <configuration name="QuickSortTest.name" configurationId="JUnit" />
+    <history-entry file="ChangeCharTest_변화되는경우가많아최소값을탐색 - 2019.06.01 at 17h 19m 01s.xml">
+      <configuration name="ChangeCharTest.변화되는경우가많아최소값을탐색" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinaryGapTest_name - 2019.05.30 at 15h 18m 06s.xml">
-      <configuration name="BinaryGapTest.name" configurationId="JUnit" />
+    <history-entry file="ChangeCharTest_변화되는경우가많아최소값을탐색 - 2019.06.01 at 17h 21m 02s.xml">
+      <configuration name="ChangeCharTest.변화되는경우가많아최소값을탐색" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinaryGapTest_name - 2019.05.30 at 15h 18m 22s.xml">
-      <configuration name="BinaryGapTest.name" configurationId="JUnit" />
+    <history-entry file="ChangeCharTest_변화되는경우가많아최소값을탐색 - 2019.06.01 at 17h 22m 40s.xml">
+      <configuration name="ChangeCharTest.변화되는경우가많아최소값을탐색" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinaryGapTest_name - 2019.05.30 at 15h 19m 31s.xml">
-      <configuration name="BinaryGapTest.name" configurationId="JUnit" />
+    <history-entry file="ChangeCharTest_변화되는경우가많아최소값을탐색 - 2019.06.01 at 17h 24m 57s.xml">
+      <configuration name="ChangeCharTest.변화되는경우가많아최소값을탐색" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinaryGapTest_name - 2019.05.30 at 15h 19m 53s.xml">
-      <configuration name="BinaryGapTest.name" configurationId="JUnit" />
+    <history-entry file="ChangeCharTest_변화되는경우가많아최소값을탐색 - 2019.06.01 at 17h 25m 44s.xml">
+      <configuration name="ChangeCharTest.변화되는경우가많아최소값을탐색" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckUnpairTest_name - 2019.05.30 at 18h 14m 59s.xml">
-      <configuration name="CheckUnpairTest.name" configurationId="JUnit" />
+    <history-entry file="ChangeCharTest_변화되는경우가많아최소값을탐색 - 2019.06.01 at 17h 29m 22s.xml">
+      <configuration name="ChangeCharTest.변화되는경우가많아최소값을탐색" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -993,8 +971,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.18590604" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.18590604" />
       <window_info id="Structure" order="1" sideWeight="0.50142044" side_tool="true" weight="0.35436243" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1003,7 +982,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.71875" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.61647725" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.41477272" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1198,6 +1177,12 @@
           <properties />
           <option name="timeStamp" value="127" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/programas/changechar/ChangeChar.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/baekjun/clear/baek1015/Baek1015.java</url>
           <line>8</line>
@@ -1245,13 +1230,9 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
-        <watch expression="((RestaurantSimulation)this).minute" custom="meetingtest.timon.RestaurantSimulation" />
-        <watch expression="((RestaurantSimulation)this).tables" custom="meetingtest.timon.RestaurantSimulation" />
-        <watch expression="((RestaurantSimulation)this).usingTables" custom="meetingtest.timon.RestaurantSimulation" />
-        <watch expression="((RestaurantSimulation)this).weighting" language="JAVA" custom="meetingtest.timon.RestaurantSimulation" />
-        <watch expression="((RestaurantSimulation)this).usingTables.get(0)" />
-        <watch expression="((RestaurantSimulation)this).usingTables.get(0)" />
-        <watch expression="((RestaurantSimulation)this).usingTables.get(9)" />
+        <watch expression="begin" />
+        <watch expression="count" />
+        <watch expression="isVisited" />
       </configuration>
       <configuration name="Application">
         <watch expression="que" />
@@ -1335,37 +1316,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/study/bfs/Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/study/dfs/DfsEx1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/makebignum/MakeBigNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/indexknum/IndexOfKNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/programas/clear/hindex/HIndex.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1648,18 +1598,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/codility/checkunpair/CheckUnpairTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="77" selection-start-line="13" selection-start-column="77" selection-end-line="13" selection-end-column="77" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/codility/binarygap/BinaryGapTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1695,6 +1633,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/study/dfs/DfsEx1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/study/dfs/DfsEx2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/codility/checkunpair/CheckUnpair.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1702,10 +1654,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/codility/checkunpair/CheckUnpairTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="77" selection-start-line="13" selection-start-column="77" selection-end-line="13" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/study/bfs/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-213">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/baekjun/clear/baek2589/Baek2589.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="7" selection-end-column="23" />
+        <state relative-caret-position="289">
+          <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programas/changechar/ChangeCharTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/changechar/ChangeChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="52" column="11" lean-forward="true" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
