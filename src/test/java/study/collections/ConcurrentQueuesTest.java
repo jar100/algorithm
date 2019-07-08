@@ -1,13 +1,17 @@
 package study.collections;
 
-import com.sun.xml.internal.rngom.parse.host.Base;
 import org.junit.Test;
+import programas.BaseTest;
 
-public class ConcurrentQueuesTest extends Base {
+import java.util.ArrayDeque;
+import java.util.Deque;
+
+public class ConcurrentQueuesTest extends BaseTest {
 
 
     @Test
     public void concurrentLinkedQueueTest() {
+        Deque<Integer> deque = new ArrayDeque<>();
 
     }
 }

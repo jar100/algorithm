@@ -4,14 +4,11 @@ import org.junit.Test;
 import programas.BaseTest;
 
 public class ConsumerTest extends BaseTest {
-    @Test
-    public void name() {
+    public static void main(String[] args) {
         Table table = new Table(100);
 
         new Produce(table).start();
-
         new Consumer(table).start();
-
 
     }
 }

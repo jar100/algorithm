@@ -2,25 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e81a641-9abe-48a5-abd4-666a262df1bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/collections/CodingTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/collections/ConcurrentQueuesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/collections/EmptyTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/collections/IteratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/collections/NavigableMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/collections/PhoneTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/collections/SetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/collections/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/collections/TaskTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/ConsumerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Produce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/generics/GenericsStudyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Table2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/generics/GenericsStudy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/generics/GenericsStudyTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/generics/GenericsStudy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/generics/GenericsStudy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/generics/GenericsStudyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/codility/postivenum/CheckNumCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/yanolja/t1/TransformTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/yanolja/t2/CheckSeasonTemperatures.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/yanolja/t3/SoldierRank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/yanolja/t4/CheckPair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/budgets/Budgets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/onemore/cardgame/CardGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/onemore/joystick/JoyStick.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/interfacetest/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/interfacetest/CarImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/interfacetest/SuperBusImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/interfacetest/SuperCarImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/sort/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/codility/postivenum/CheckNumCountTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/meetingtest/yanolja/t1/TransformTimeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/meetingtest/yanolja/t2/CheckSeasonTemperaturesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/meetingtest/yanolja/t4/CheckPairTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/onemore/cardgame/CardGameTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/onemore/joystick/JoyStickTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/ConcurrentQueuesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/ConcurrentQueuesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/produceconsumer/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/produceconsumer/Consumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/produceconsumer/ConsumerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/produceconsumer/ConsumerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/produceconsumer/Produce.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/produceconsumer/Produce.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/produceconsumer/Table.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/produceconsumer/Table.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/money/MoneyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/collections/ConcurrentQueuesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/collections/ConcurrentQueuesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/ConsumerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/ConsumerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Produce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Produce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Table.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -31,6 +46,35 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/algorithm$kakaoEx4Test_solution.ic" NAME="kakaoEx4Test.solution Coverage Results" MODIFIED="1548917877535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>programas.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/algorithm$SafeBoatTest_name.ic" NAME="SafeBoatTest.name Coverage Results" MODIFIED="1553591868844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>programas.safeboat.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/algorithm$Baek2589.ic" NAME="Baek2589 Coverage Results" MODIFIED="1559129922568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>baekjun.baek2589.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/algorithm$CrossingBridgeTest_solution.ic" NAME="CrossingBridgeTest.solution Coverage Results" MODIFIED="1546513057418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>programas.crossingbridge.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/algorithm$NewYearChaosTest_name.ic" NAME="NewYearChaosTest.name Coverage Results" MODIFIED="1557979330306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>hackerrank.newyearchaos.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/algorithm$Num4Test_solution.ic" NAME="Num4Test.solution Coverage Results" MODIFIED="1545894609389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>programas.bamin.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/algorithm$ThieveryTest_name2.ic" NAME="ThieveryTest.name2 Coverage Results" MODIFIED="1555913308073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>programas.thievery.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/algorithm$NewYearChaosTest_name4.ic" NAME="NewYearChaosTest.name4 Coverage Results" MODIFIED="1557984384130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>hackerrank.newyearchaos.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/algorithm$JumpIronsuitTest_jumpTest.ic" NAME="JumpIronsuitTest.jumpTest Coverage Results" MODIFIED="1546440852422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>programas.jumpsuit.*</FILTER>
+    </SUITE>
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
@@ -39,35 +83,27 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1804102672">
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="280" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentSkipListSet.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/ConsumerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="111" column="31" selection-start-line="111" selection-start-column="31" selection-end-line="111" selection-end-column="31" />
-              <folding>
-                <element signature="e#9480#9481#0" expanded="true" />
-                <element signature="e#9533#9534#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentSkipListMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-495">
-              <caret line="832" column="66" lean-forward="true" selection-start-line="832" selection-start-column="66" selection-end-line="832" selection-end-column="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/ConcurrentQueuesTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="119">
+              <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,26 +114,57 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Produce.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="36" />
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Table.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/Task.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="519">
-              <caret line="44" column="4" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+            <state relative-caret-position="170">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding>
+                <element signature="e#307#308#0" expanded="true" />
+                <element signature="e#364#365#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/ConsumerTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/TaskTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            <state relative-caret-position="187">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/EmptyTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#127#128#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/ConcurrentQueuesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -106,37 +173,47 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Consumer.java">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayDeque.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="-64">
+              <caret line="375" column="24" lean-forward="true" selection-start-line="375" selection-start-column="24" selection-end-line="375" selection-end-column="24" />
+              <folding>
+                <element signature="e#6627#6628#0" expanded="true" />
+                <element signature="e#6668#6669#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentLinkedQueue.java">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Deque.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="550" column="44" lean-forward="true" selection-start-line="550" selection-start-column="44" selection-end-line="550" selection-end-column="44" />
+            <state relative-caret-position="-863">
+              <caret line="252" column="1" lean-forward="true" selection-start-line="252" selection-start-column="1" selection-end-line="255" selection-end-column="73" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Table.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="712" column="17" selection-start-line="712" selection-start-column="17" selection-end-line="712" selection-end-column="17" />
+            <state relative-caret-position="149">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentNavigableMap.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Table2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+            <state relative-caret-position="289">
+              <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -156,7 +233,6 @@
       <find>generics</find>
       <find>size</find>
       <find>size()</find>
-      <find>take</find>
       <find>descendingIterator</find>
       <find>headSet</find>
       <find>putin</find>
@@ -169,8 +245,10 @@
       <find>lock</find>
       <find>put</find>
       <find>add</find>
-      <find>offer</find>
       <find>atomic</find>
+      <find>offer</find>
+      <find>take</find>
+      <find>ge</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -178,6 +256,370 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="C:\Users\jar10\.gradle\wrapper\dists\gradle-4.8-all\41c9mvq2w0645xx6nsenaerjl\gradle-4.8" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.8" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="algorithm" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="algorithm" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'algorithm'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'algorithm'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'algorithm'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'algorithm'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'algorithm'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'algorithm'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'algorithm'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'algorithm'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'algorithm'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="6176696129773" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="3177555886" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2585518924" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="2241378156" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="algorithm" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/build-cache" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/build-cache-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/build-option" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/composite-builds" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/core-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/dependency-management" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/ide-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/ide-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/installation-beacon" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/internal-android-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/internal-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/jvm-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/language-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/language-java" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/language-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/language-scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/logging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/model-core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/model-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/persistent-cache" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/platform-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/platform-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/platform-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/platform-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/plugin-development" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/process-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/resources-gcs" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/resources-s3" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/resources-sftp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/test-kit" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/testing-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/testing-junit-platform" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/testing-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/testing-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/tooling-api-builders" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/version-control" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/workers" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/wrapper" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/ant-1.9.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/ant-launcher-1.9.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-base-services-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-base-services-groovy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-build-cache-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-build-option-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-cli-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-core-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-core-api-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-docs-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-installation-beacon-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-jvm-services-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-kotlin-dsl-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-kotlin-dsl-provider-plugins-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-kotlin-dsl-provider-spi-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-kotlin-dsl-tooling-builders-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-kotlin-dsl-tooling-models-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-launcher-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-logging-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-messaging-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-model-core-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-model-groovy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-persistent-cache-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-process-services-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-resources-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-runtime-api-info-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-tooling-api-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-wrapper-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/groovy-all-2.4.12.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-announce-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-antlr-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-build-cache-http-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-build-comparison-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-build-init-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-code-quality-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-composite-builds-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-dependency-management-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-diagnostics-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-ear-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-ide-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-ide-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-ide-play-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-ivy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-jacoco-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-javascript-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-language-groovy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-language-java-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-language-jvm-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-language-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-language-scala-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-maven-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-osgi-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-platform-base-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-platform-jvm-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-platform-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-platform-play-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-plugin-development-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-plugin-use-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-plugins-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-publish-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-reporting-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-resources-gcs-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-resources-http-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-resources-s3-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-resources-sftp-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-scala-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-signing-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-test-kit-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-testing-base-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-testing-junit-platform-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-testing-jvm-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-testing-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-tooling-api-builders-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-version-control-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-workers-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/ivy-2.2.0.jar" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -194,25 +636,27 @@
         <option value="$PROJECT_DIR$/src/test/java/study/collections/SetTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/study/collections/TaskTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/study/collections/IteratorTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/study/collections/ConcurrentQueuesTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Produce.java" />
-        <option value="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Consumer.java" />
-        <option value="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Table.java" />
+        <option value="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Table2.java" />
         <option value="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/ConsumerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Produce.java" />
+        <option value="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Table.java" />
+        <option value="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Consumer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/study/collections/ConcurrentQueuesTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="89" />
-    <option name="y" value="53" />
-    <option name="width" value="1680" />
-    <option name="height" value="961" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,6 +686,22 @@
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="programas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -275,14 +735,12 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="collections" type="462c0819:PsiDirectoryNode" />
-              <item name="produceconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -290,6 +748,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562598440398" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -316,7 +775,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ConsumerTest.name">
+  <component name="RunManager" selected="Application.ConsumerTest">
+    <configuration name="ConsumerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.collections.produceconsumer.ConsumerTest" />
+      <module name="com.studyjava.algorithm.algorithm.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.collections.produceconsumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.collections.produceconsumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="study.collections.produceconsumer" />
+      <option name="MAIN_CLASS_NAME" value="study.collections.produceconsumer.ConsumerTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConsumerTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm.test" />
       <extension name="coverage">
@@ -344,38 +830,6 @@
       <option name="PACKAGE_NAME" value="study.collections" />
       <option name="MAIN_CLASS_NAME" value="study.collections.IteratorTest" />
       <option name="METHOD_NAME" value="concurrentException" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TaskTest.iteratorTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="study.collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="study.collections" />
-      <option name="MAIN_CLASS_NAME" value="study.collections.TaskTest" />
-      <option name="METHOD_NAME" value="iteratorTest2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TaskTest.iteratorTest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="study.collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="study.collections" />
-      <option name="MAIN_CLASS_NAME" value="study.collections.TaskTest" />
-      <option name="METHOD_NAME" value="iteratorTest3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -411,19 +865,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.TaskTest.iteratorTest3" />
-      <item itemvalue="JUnit.TaskTest.iteratorTest2" />
       <item itemvalue="JUnit.TaskTest.iteratorTestWithSnapshotIterator" />
       <item itemvalue="JUnit.IteratorTest.concurrentException" />
       <item itemvalue="JUnit.ConsumerTest.name" />
+      <item itemvalue="JUnit.ConsumerTest" />
+      <item itemvalue="Application.ConsumerTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConsumerTest" />
+        <item itemvalue="JUnit.ConsumerTest" />
         <item itemvalue="JUnit.ConsumerTest.name" />
         <item itemvalue="JUnit.IteratorTest.concurrentException" />
         <item itemvalue="JUnit.TaskTest.iteratorTestWithSnapshotIterator" />
-        <item itemvalue="JUnit.TaskTest.iteratorTest3" />
-        <item itemvalue="JUnit.TaskTest.iteratorTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -454,12 +908,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TaskTest_iteratorTest - 2019.07.08 at 16h 26m 15s.xml">
-      <configuration name="TaskTest.iteratorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TaskTest_iteratorTest - 2019.07.08 at 16h 26m 23s.xml">
-      <configuration name="TaskTest.iteratorTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TaskTest_iteratorTest3 - 2019.07.08 at 16h 26m 45s.xml">
       <configuration name="TaskTest.iteratorTest3" configurationId="JUnit" />
     </history-entry>
@@ -484,15 +932,20 @@
     <history-entry file="ConsumerTest_name - 2019.07.08 at 19h 07m 29s.xml">
       <configuration name="ConsumerTest.name" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ConsumerTest - 2019.07.08 at 21h 43m 30s.xml">
+      <configuration name="ConsumerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConsumerTest - 2019.07.08 at 21h 43m 51s.xml">
+      <configuration name="ConsumerTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="78314000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="89" y="53" width="1680" height="961" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21001221" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22818792" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -501,13 +954,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.283084" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28267047" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39930955" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.33194155" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3298969" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32954547" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.328125" />
@@ -524,113 +977,49 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.22550336" />
+      <window_info id="Structure" order="1" sideWeight="0.50142044" side_tool="true" weight="0.35436243" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4318182" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2627841" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32954547" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.30539772" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.32954547" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32954547" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="12" weight="0.32954547" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49573863" weight="0.24966443" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" sideWeight="0.49573863" weight="0.3295302" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5042614" side_tool="true" weight="0.24966443" />
+      <window_info anchor="right" id="Key Promoter X" order="9" sideWeight="0.49857953" weight="0.3295302" />
+      <window_info anchor="right" id="Maven Projects" order="10" sideWeight="0.4971591" weight="0.034899328" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/Arrays.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/lang/Number.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/List.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/lang/Comparable.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/AbstractList.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/NavigableMap.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/study/generics/GenericsStudy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3930">
-          <caret line="120" column="10" selection-start-line="120" selection-start-column="10" selection-end-line="120" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="190" column="12" lean-forward="true" selection-start-line="190" selection-start-column="12" selection-end-line="190" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/study/generics/GenericsStudyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/DelayQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2318">
-          <caret line="164" column="6" selection-start-line="164" selection-start-column="6" selection-end-line="164" selection-end-column="6" />
-          <folding>
-            <element signature="e#3752#3753#0" expanded="true" />
-            <element signature="e#3782#3783#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/PriorityBlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7828">
-          <caret line="462" column="22" selection-start-line="462" selection-start-column="19" selection-end-line="462" selection-end-column="22" />
-          <folding>
-            <element signature="e#6714#6715#0" expanded="true" />
-            <element signature="e#6757#6758#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6612">
-          <caret line="397" column="17" selection-start-line="397" selection-start-column="13" selection-end-line="397" selection-end-column="17" />
-          <folding>
-            <element signature="e#6812#6813#0" expanded="true" />
-            <element signature="e#6849#6850#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Condition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6137">
-          <caret line="357" column="9" selection-start-line="357" selection-start-column="9" selection-end-line="357" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/AbstractQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2660">
-          <caret line="173" column="62" selection-start-line="173" selection-start-column="59" selection-end-line="173" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1159">
-          <caret line="84" column="29" selection-start-line="84" selection-start-column="29" selection-end-line="84" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7923">
-          <caret line="442" column="7" selection-start-line="442" selection-start-column="7" selection-end-line="442" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Condition.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/AbstractQueue.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Collection.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/programas/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -641,124 +1030,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5505">
-          <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1068">
-          <caret line="219" column="32" selection-start-line="219" selection-start-column="32" selection-end-line="219" selection-end-column="32" />
-          <folding>
-            <element signature="e#3740#3741#0" expanded="true" />
-            <element signature="e#3777#3778#0" expanded="true" />
-            <element signature="e#8064#8065#0" expanded="true" />
-            <element signature="e#8112#8113#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/TreeSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="279" column="49" lean-forward="true" selection-start-line="279" selection-start-column="49" selection-end-line="279" selection-end-column="49" />
-          <folding>
-            <element signature="e#4697#4698#0" expanded="true" />
-            <element signature="e#4742#4743#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/io/Serializable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="168" column="17" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/AbstractSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-225">
-          <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Cloneable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-588">
-          <caret line="2833" column="27" selection-start-line="2833" selection-start-column="23" selection-end-line="2833" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="78" column="6" lean-forward="true" selection-start-line="78" selection-start-column="6" selection-end-line="78" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Spliterators.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7233">
-          <caret line="1713" column="64" selection-start-line="1713" selection-start-column="64" selection-end-line="1713" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/SortedSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="255" column="41" selection-start-line="255" selection-start-column="41" selection-end-line="255" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/NavigableSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="85" column="43" selection-start-line="85" selection-start-column="43" selection-end-line="85" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/ConcurrentModificationException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="69" column="13" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/Task.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#393#394#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/EmptyTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Set.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/HashSet.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/TreeSet.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/io/Serializable.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/AbstractSet.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Cloneable.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Iterator.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Spliterators.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/SortedSet.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/NavigableSet.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/ConcurrentModificationException.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/PhoneTask.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -774,19 +1057,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="141" column="18" selection-start-line="141" selection-start-column="18" selection-end-line="141" selection-end-column="18" />
-          <folding>
-            <element signature="e#6283#6284#0" expanded="true" />
-            <element signature="e#6351#6352#0" expanded="true" />
-            <element signature="e#51840#51841#0" expanded="true" />
-            <element signature="e#51898#51899#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/NavigableMapTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="517">
@@ -797,40 +1068,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/IteratorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/TaskTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1900">
-          <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/CodingTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentMap.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/SetTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -841,49 +1079,144 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentNavigableMap.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentNavigableMap.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentSkipListSet.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentSkipListMap.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentLinkedQueue.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/study/sort/QuickSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentSkipListSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="111" column="31" selection-start-line="111" selection-start-column="31" selection-end-line="111" selection-end-column="31" />
+        <state relative-caret-position="238">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
           <folding>
-            <element signature="e#9480#9481#0" expanded="true" />
-            <element signature="e#9533#9534#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentSkipListMap.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/IteratorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-495">
-          <caret line="832" column="66" lean-forward="true" selection-start-line="832" selection-start-column="66" selection-end-line="832" selection-end-column="66" />
+        <state relative-caret-position="429">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/changechar/ChangeChar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="712" column="17" selection-start-line="712" selection-start-column="17" selection-end-line="712" selection-end-column="17" />
+        <state relative-caret-position="201">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentLinkedQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/MakeJadenCase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="550" column="44" lean-forward="true" selection-start-line="550" selection-start-column="44" selection-end-line="550" selection-end-column="44" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/ConcurrentQueuesTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/FindBigSquare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programas/descripn/DescripN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/meetingtest/timon/Table.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-106">
+          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-155">
+          <caret line="698" column="29" selection-start-line="698" selection-start-column="29" selection-end-line="698" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/TimeUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="232" column="16" selection-start-line="232" selection-start-column="16" selection-end-line="232" selection-end-column="16" />
+          <folding>
+            <element signature="e#8926#8927#0" expanded="true" />
+            <element signature="e#8973#8974#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/BlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="251" column="12" selection-start-line="251" selection-start-column="12" selection-end-line="251" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/CodingTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="402" column="29" selection-start-line="402" selection-start-column="29" selection-end-line="402" selection-end-column="29" />
+          <folding>
+            <element signature="e#6812#6813#0" expanded="true" />
+            <element signature="e#6849#6850#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding>
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/ConsumerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Table2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -892,32 +1225,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Produce.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="36" />
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Table.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/Task.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="44" column="4" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+        <state relative-caret-position="170">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/ConsumerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/TaskTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Consumer.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/EmptyTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/ConcurrentQueuesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Table.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-863">
+          <caret line="252" column="1" lean-forward="true" selection-start-line="252" selection-start-column="1" selection-end-line="255" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-64">
+          <caret line="375" column="24" lean-forward="true" selection-start-line="375" selection-start-column="24" selection-end-line="375" selection-end-column="24" />
+          <folding>
+            <element signature="e#6627#6628#0" expanded="true" />
+            <element signature="e#6668#6669#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
