@@ -1,4 +1,4 @@
-package generics;
+package study.generics;
 
 import java.util.ArrayList;
 import java.util.Arrays;
