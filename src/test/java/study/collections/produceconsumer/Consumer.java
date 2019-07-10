@@ -9,14 +9,11 @@ public class Consumer extends Thread {
 
     public void run() {
         while (true) {
-            System.out.println("커스터머런");
             try {
-                Thread.sleep(10000);
-                String packet = null;   // 큐에서 가져옴
-                packet = table.take();
+                String packet = table.take();
                 System.out.println("consumer : " + packet);
             } catch (InterruptedException e) {
-                e.printStackTrace();
+                throw new IllegalThreadStateException();
             }
 
 

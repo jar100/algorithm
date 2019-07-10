@@ -51,7 +51,30 @@ public class SetTest extends BaseTest {
             sortedSet.add(i * 10);
         }
 
+
+        System.out.println(sortedSet.toString());
         System.out.println(sortedSet.tailSet(5));
+    }
+
+    @Test
+    public void sortedSetNonComparable() {
+        SortedSet<Integer> sortedSet = new TreeSet<>();
+//sortred 에 정의 안한 이유
+        /////////////
+        PriorityQueue<Car> priorityQueue = new PriorityQueue<>();
+
+        Car a = new Car("123",3);
+        Car b = new Car("1234",5);
+        sortedSet.add(1);
+        sortedSet.add(2);
+        sortedSet.add(3);
+        sortedSet.add(4);
+
+//        sortedSet.add(b);
+//        priorityQueue.add(a);
+//        priorityQueue.add(b);
+        System.out.println(priorityQueue.toString());
+        System.out.println(sortedSet.toString());
     }
 
     @Test
