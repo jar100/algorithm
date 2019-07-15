@@ -2,25 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e81a641-9abe-48a5-abd4-666a262df1bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/collections/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/collections/ListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/collections/QueuesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/collections/maps/MapsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/study/StaticTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/ConcurrentQueuesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/Car.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/SetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/SetTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/produceconsumer/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/produceconsumer/Consumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/produceconsumer/ConsumerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/produceconsumer/ConsumerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/produceconsumer/Produce.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/produceconsumer/Produce.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/produceconsumer/Table.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/produceconsumer/Table.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/study/collections/ConcurrentQueuesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/collections/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/collections/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/study/collections/SetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/collections/SetTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Consumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/ConsumerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/ConsumerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Produce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Produce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Table.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -42,22 +29,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/maps/MapsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-879">
-              <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/TreeSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+            <state relative-caret-position="4693">
+              <caret line="294" column="76" selection-start-line="294" selection-start-column="76" selection-end-line="294" selection-end-column="76" />
               <folding>
                 <element signature="e#4697#4698#0" expanded="true" />
                 <element signature="e#4742#4743#0" expanded="true" />
@@ -69,8 +44,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/SetTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+            <state relative-caret-position="-1355">
+              <caret line="78" column="25" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,11 +53,28 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/study/StaticTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+            <state relative-caret-position="326">
+              <caret line="48" column="67" selection-start-line="48" selection-start-column="67" selection-end-line="48" selection-end-column="67" />
+              <folding>
+                <element signature="e#300#301#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
+                <element signature="e#616#617#0" expanded="true" />
+                <element signature="e#661#662#0" expanded="true" />
+                <element signature="e#950#951#0" expanded="true" />
+                <element signature="e#1023#1024#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1976">
+              <caret line="132" column="6" selection-start-line="132" selection-start-column="6" selection-end-line="132" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -90,29 +82,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Set.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="84" column="37" lean-forward="true" selection-start-line="84" selection-start-column="37" selection-end-line="84" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/ConsumerTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="1159">
+              <caret line="84" column="37" selection-start-line="84" selection-start-column="37" selection-end-line="84" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/ConsumerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="89" column="94" selection-start-line="89" selection-start-column="88" selection-end-line="89" selection-end-column="94" />
+            <state relative-caret-position="190">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/SortedSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1767">
+              <caret line="116" column="7" selection-start-line="116" selection-start-column="7" selection-end-line="116" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -121,7 +110,7 @@
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -138,11 +127,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="589">
+              <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
               <folding>
-                <element signature="e#546#547#0" expanded="true" />
-                <element signature="e#595#596#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#327#328#0" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -218,19 +209,19 @@
         <option value="$PROJECT_DIR$/src/test/java/study/collections/ConcurrentQueuesTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/study/collections/ListTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/study/collections/QueuesTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/study/collections/Car.java" />
         <option value="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Table.java" />
         <option value="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Produce.java" />
         <option value="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Consumer.java" />
         <option value="$PROJECT_DIR$/src/test/java/study/collections/maps/MapsTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/study/collections/SetTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/ConsumerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/study/collections/Car.java" />
+        <option value="$PROJECT_DIR$/src/test/java/study/collections/SetTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/study/StaticTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="136" />
-    <option name="y" value="70" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="961" />
   </component>
@@ -240,7 +231,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -320,6 +310,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -352,13 +343,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ConsumerTest.name">
-    <configuration name="ConsumerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.collections.produceconsumer.ConsumerTest" />
+  <component name="RunManager" selected="Application.StaticTest">
+    <configuration name="StaticTest$StaticClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.StaticTest$StaticClassTest" />
       <module name="algorithm.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.collections.produceconsumer.*" />
+          <option name="PATTERN" value="study.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -366,33 +357,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConsumerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StaticTest$StaticClassTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.StaticTest$StaticClassTest2" />
       <module name="algorithm.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.collections.produceconsumer.*" />
+          <option name="PATTERN" value="study.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="study.collections.produceconsumer" />
-      <option name="MAIN_CLASS_NAME" value="study.collections.produceconsumer.ConsumerTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConsumerTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.StaticTest" />
       <module name="algorithm.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.collections.produceconsumer.*" />
+          <option name="PATTERN" value="study.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="study.collections.produceconsumer" />
-      <option name="MAIN_CLASS_NAME" value="study.collections.produceconsumer.ConsumerTest" />
-      <option name="METHOD_NAME" value="name" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -413,7 +399,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetTest.sortedSetNotComparable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SetTest.sortedSetWhyNonComparable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm.test" />
       <extension name="coverage">
         <pattern>
@@ -423,7 +409,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="study.collections" />
       <option name="MAIN_CLASS_NAME" value="study.collections.SetTest" />
-      <option name="METHOD_NAME" value="sortedSetNotComparable" />
+      <option name="METHOD_NAME" value="sortedSetWhyNonComparable" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -443,19 +429,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.SetTest.sortedSetNotComparable" />
       <item itemvalue="JUnit.SetTest.sortedSetNonComparable" />
-      <item itemvalue="Application.ConsumerTest" />
-      <item itemvalue="JUnit.ConsumerTest.name" />
-      <item itemvalue="JUnit.ConsumerTest" />
+      <item itemvalue="JUnit.SetTest.sortedSetWhyNonComparable" />
+      <item itemvalue="Application.StaticTest$StaticClassTest" />
+      <item itemvalue="Application.StaticTest$StaticClassTest2" />
+      <item itemvalue="Application.StaticTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ConsumerTest.name" />
-        <item itemvalue="Application.ConsumerTest" />
-        <item itemvalue="JUnit.ConsumerTest" />
+        <item itemvalue="Application.StaticTest" />
+        <item itemvalue="Application.StaticTest$StaticClassTest2" />
+        <item itemvalue="Application.StaticTest$StaticClassTest" />
+        <item itemvalue="JUnit.SetTest.sortedSetWhyNonComparable" />
         <item itemvalue="JUnit.SetTest.sortedSetNonComparable" />
-        <item itemvalue="JUnit.SetTest.sortedSetNotComparable" />
       </list>
     </recent_temporary>
   </component>
@@ -483,26 +469,14 @@
       <workItem from="1562306302851" duration="4283000" />
       <workItem from="1562393527591" duration="17808000" />
       <workItem from="1562656767506" duration="176000" />
-      <workItem from="1562663130365" duration="17267000" />
+      <workItem from="1562663130365" duration="20224000" />
+      <workItem from="1562895929159" duration="3087000" />
+      <workItem from="1562920345534" duration="269000" />
+      <workItem from="1563172780595" duration="819000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ConsumerTest - 2019.07.10 at 16h 20m 50s.xml">
-      <configuration name="ConsumerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ConsumerTest - 2019.07.10 at 16h 22m 42s.xml">
-      <configuration name="ConsumerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ConsumerTest - 2019.07.10 at 16h 22m 50s.xml">
-      <configuration name="ConsumerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ConsumerTest - 2019.07.10 at 16h 23m 08s.xml">
-      <configuration name="ConsumerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ConsumerTest - 2019.07.10 at 16h 23m 21s.xml">
-      <configuration name="ConsumerTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ConsumerTest - 2019.07.10 at 16h 23m 30s.xml">
       <configuration name="ConsumerTest" configurationId="JUnit" />
     </history-entry>
@@ -518,15 +492,30 @@
     <history-entry file="ConsumerTest_name - 2019.07.10 at 17h 35m 30s.xml">
       <configuration name="ConsumerTest.name" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ConsumerTest_name - 2019.07.11 at 10h 43m 36s.xml">
+      <configuration name="ConsumerTest.name" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SetTest_sortedSetNonComparable - 2019.07.12 at 11h 00m 31s.xml">
+      <configuration name="SetTest.sortedSetNonComparable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SetTest_sortedSetNonComparable - 2019.07.12 at 11h 00m 38s.xml">
+      <configuration name="SetTest.sortedSetNonComparable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SetTest_sortedSetNonComparable - 2019.07.12 at 11h 01m 12s.xml">
+      <configuration name="SetTest.sortedSetNonComparable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SetTest_sortedSetWhyNonComparable - 2019.07.12 at 14h 55m 32s.xml">
+      <configuration name="SetTest.sortedSetWhyNonComparable" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100907000" />
+    <option name="totallyTimeSpent" value="108039000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="136" y="70" width="1680" height="961" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="988" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16544567" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28434506" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -535,7 +524,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41657078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3828125" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39930955" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -645,21 +634,21 @@
       </map>
     </option>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/study/collections/SetTest.java</url>
+          <line>59</line>
+          <properties class="study.collections.SetTest" method="sortedSetWhyNonComparable">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentNavigableMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/CodingTask.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -920,13 +909,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/SortedSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="107" column="24" selection-start-line="107" selection-start-column="24" selection-end-line="107" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/Table.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -966,38 +948,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/Car.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#546#547#0" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-252">
+          <caret line="65" column="18" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/maps/MapsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-879">
-          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        <state relative-caret-position="38">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="84" column="37" lean-forward="true" selection-start-line="84" selection-start-column="37" selection-end-line="84" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/TreeSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+        <state relative-caret-position="4693">
+          <caret line="294" column="76" selection-start-line="294" selection-start-column="76" selection-end-line="294" selection-end-column="76" />
           <folding>
             <element signature="e#4697#4698#0" expanded="true" />
             <element signature="e#4742#4743#0" expanded="true" />
@@ -1005,10 +983,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+        <state relative-caret-position="1976">
+          <caret line="132" column="6" selection-start-line="132" selection-start-column="6" selection-end-line="132" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1159">
+          <caret line="84" column="37" selection-start-line="84" selection-start-column="37" selection-end-line="84" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/ConsumerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/SortedSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1767">
+          <caret line="116" column="7" selection-start-line="116" selection-start-column="7" selection-end-line="116" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1019,36 +1025,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+          <folding>
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/SetTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        <state relative-caret-position="-1355">
+          <caret line="78" column="25" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/study/StaticTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="89" column="94" selection-start-line="89" selection-start-column="88" selection-end-line="89" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/ConsumerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        <state relative-caret-position="326">
+          <caret line="48" column="67" selection-start-line="48" selection-start-column="67" selection-end-line="48" selection-end-column="67" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#950#951#0" expanded="true" />
+            <element signature="e#1023#1024#0" expanded="true" />
           </folding>
         </state>
       </provider>

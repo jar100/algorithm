@@ -57,22 +57,33 @@ public class SetTest extends BaseTest {
     }
 
     @Test
-    public void sortedSetNonComparable() {
+    public void sortedSetWhyNonComparable() {
         SortedSet<Integer> sortedSet = new TreeSet<>();
-//sortred 에 정의 안한 이유
+        //sortred 에 적제되는 원소 <E> 를 <E extends comparable> 정의 안한 이유
         /////////////
-        PriorityQueue<Car> priorityQueue = new PriorityQueue<>();
+        PriorityQueue<Car> priorityQueue = new PriorityQueue<>(new Comparator<Car>() {
 
-        Car a = new Car("123",3);
-        Car b = new Car("1234",5);
+            @Override
+            public int compare(Car o1, Car o2) {
+                if (o1.getNumber() > o2.getNumber()) {
+                    return 1;
+                } else if (o1.getNumber() < o2.getNumber()) {
+                    return -1;
+                }
+                return 0;
+            }
+        });
+
+        Car a = new Car("123", 3);
+        Car b = new Car("1234", 5);
         sortedSet.add(1);
         sortedSet.add(2);
         sortedSet.add(3);
         sortedSet.add(4);
 
 //        sortedSet.add(b);
-//        priorityQueue.add(a);
-//        priorityQueue.add(b);
+        priorityQueue.add(a);
+        priorityQueue.add(b);
         System.out.println(priorityQueue.toString());
         System.out.println(sortedSet.toString());
     }
@@ -87,7 +98,7 @@ public class SetTest extends BaseTest {
             sortedSet.add(i * 10);
         }
 
-        System.out.println(sortedSet.subSet(2,5));
+        System.out.println(sortedSet.subSet(2, 5));
     }
 
     // NavigableSet
@@ -159,7 +170,6 @@ public class SetTest extends BaseTest {
     }
 
 
-
     // concurrentSkipListSet
 
 
@@ -171,7 +181,7 @@ public class SetTest extends BaseTest {
             skipListSet.add(i * 10);
         }
 
-        for (Iterator it = skipListSet.iterator(); it.hasNext();) {
+        for (Iterator it = skipListSet.iterator(); it.hasNext(); ) {
 
         }
     }
