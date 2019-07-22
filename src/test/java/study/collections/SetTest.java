@@ -62,7 +62,6 @@ public class SetTest extends BaseTest {
         //sortred 에 적제되는 원소 <E> 를 <E extends comparable> 정의 안한 이유
         /////////////
         PriorityQueue<Car> priorityQueue = new PriorityQueue<>(new Comparator<Car>() {
-
             @Override
             public int compare(Car o1, Car o2) {
                 if (o1.getNumber() > o2.getNumber()) {

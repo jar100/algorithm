@@ -46,13 +46,17 @@ public class StaticTest {
         }
 
         static void run() {
+            System.out.println("런을 통한 출력");
             System.out.println(k);
+            k = 500;
         }
     }
 
     public static void main(String[] args) {
-        StaticClassTest2 staticClassTest2 = new StaticClassTest2();
-        System.out.println(123);
+
+        System.out.println("한번");
         StaticClassTest2.run();
+        System.out.println("두번");
+
     }
 }

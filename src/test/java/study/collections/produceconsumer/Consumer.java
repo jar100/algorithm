@@ -10,6 +10,8 @@ public class Consumer extends Thread {
     public void run() {
         while (true) {
             try {
+                Thread.sleep(4000);
+
                 String packet = table.take();
                 System.out.println("consumer : " + packet);
             } catch (InterruptedException e) {

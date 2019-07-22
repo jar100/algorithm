@@ -17,6 +17,8 @@ public class Produce extends Thread {
                 Thread.sleep(1000);
                 String packet = "No : " + nextId();
                 table.put(packet);  // 큐에 추가
+                System.out.println(packet + " 프로듀스 런");
+
             } catch (InterruptedException e) {
                 throw new IllegalThreadStateException();
             }

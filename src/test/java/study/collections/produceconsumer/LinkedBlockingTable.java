@@ -1,16 +1,14 @@
 package study.collections.produceconsumer;
 
-import java.util.concurrent.ArrayBlockingQueue;
-import java.util.concurrent.BlockingQueue;
-import java.util.concurrent.SynchronousQueue;
+import java.util.concurrent.LinkedBlockingQueue;
 
+public class LinkedBlockingTable extends Table{
 
-public class Table {
-    private final SynchronousQueue<String> buffer;
+    private final LinkedBlockingQueue<String> buffer;
 
-    public Table(int count) {
-
-        this.buffer = new SynchronousQueue<>();
+    public LinkedBlockingTable(int count) {
+        super(10);
+        this.buffer = new LinkedBlockingQueue<>();
 
     }
 
