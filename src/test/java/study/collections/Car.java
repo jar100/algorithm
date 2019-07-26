@@ -3,11 +3,17 @@ package study.collections;
 import java.util.Objects;
 
 public class Car {
-    private String name;
+    private String color;
     private int number;
 
+
+    public Car(int number) {
+        this.color = "null";
+        this.number = number;
+    }
+
     public Car(String name, int number) {
-        this.name = name;
+        this.color = name;
         this.number = number;
     }
 
@@ -26,18 +32,18 @@ public class Car {
         if (o == null || getClass() != o.getClass()) return false;
         Car car = (Car) o;
         return number == car.number &&
-                Objects.equals(name, car.name);
+                Objects.equals(color, car.color);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(name, number);
+        return Objects.hash(color, number);
     }
 
     @Override
     public String toString() {
         return "Car{" +
-                "name='" + name + '\'' +
+                "color='" + color + '\'' +
                 ", number=" + number +
                 '}';
     }
