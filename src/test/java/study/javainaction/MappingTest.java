@@ -2,6 +2,8 @@ package study.javainaction;
 
 import org.junit.Before;
 import org.junit.Test;
+import study.collections.Car;
+import study.collections.Tire;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -40,26 +42,18 @@ public class MappingTest {
 
     @Test
     public void flatMap() {
-        // map
-        List<String> words = Arrays.asList("Hello", "World");
-        List<Integer> wordLengths = words.stream()
-                .map(String::length)
-                .collect(toList());
-        System.out.println(wordLengths);
 
+
+        List<String> words = Arrays.asList("Hello", "World");
 
         // map
         words.stream()
-                .map((String line) -> Arrays.stream(line.split("")))
-                .distinct()
+                .map(String::toUpperCase)
                 .forEach(System.out::println);
 
         // flatMap
-
-
         words.stream()
                 .flatMap((String line) -> Arrays.stream(line.split("")))
-                .distinct()
                 .forEach(System.out::println);
 
 
@@ -68,11 +62,29 @@ public class MappingTest {
 
         Optional<Optional<String>> b = a.map(Optional::of);
 
+        final Optional<String[]> strings = a.flatMap(c -> Optional.of(c.split("")));
+        final Optional<Optional<String[]>> strings1 = a.map(c -> Optional.of(c.split("")));
+
         Optional<Optional<Optional<String>>> c = b.map(Optional::of);
         Optional<Optional<Optional<Optional<String>>>> d = Optional.of(c);
         System.out.println(d);
         System.out.println(d.flatMap(Optional::get));
+    }
 
+    @Test
+    public void cartest() {
+        Car newCar = new Car("붕붕", 1,new Tire("스노우 타이어"));
+        Car nullCar = new Car("붕붕", 1,null);
+
+        final Optional<String> s =
+                Optional.of(nullCar).map(Car::getTire)
+                        .map(Tire::getType);
+        System.out.println(s);
+
+        final Optional<String> s2 =
+                Optional.of(newCar).flatMap(Car::getOptionalTire)
+                        .map(Tire::getType);
+        System.out.println(s2);
     }
 
     @Test

@@ -249,4 +249,37 @@ public class GenericsStudyTest extends BaseTest {
     }
 
 
+
+    private <T> void sout(List<T> a) {
+        for (T t : a) {
+            System.out.println(t);
+        }
+    }
+
+    private  void sout1(List<?> a) {
+        for (Object o : a) {
+            System.out.println(o);
+        }
+    }
+
+    private void sout2(List<? extends Integer> a) {
+        for (Integer integer : a) {
+            System.out.println(integer);
+        }
+    }
+
+    private void sout3(List<? super Integer> a) {
+        for (Object o : a) {
+            System.out.println(o);
+        }
+    }
+
+    @Test
+    public void wildcardsoutTest() {
+        List<Number> numbers = new ArrayList<>(Arrays.asList(1,2,3,4,5.23));
+        sout(numbers);
+        sout1(numbers);
+        sout2(new ArrayList<Integer>(Arrays.asList(1,4,3,2,5)));
+        sout3(numbers);
+    }
 }
