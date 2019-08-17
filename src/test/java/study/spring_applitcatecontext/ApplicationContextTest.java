@@ -2,13 +2,11 @@ package study.spring_applitcatecontext;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
-import study.Gh2Config;
 import study.GhConfig;
 
 import javax.inject.Inject;
@@ -38,17 +36,17 @@ public class ApplicationContextTest {
 
 
         //스코프가 prototype 라 재생성 됨
-        String str = applicationContext.getBean("ghhh",String.class);
-        System.out.println("get bean 1: " +str);
+        String str = applicationContext.getBean("ghhh", String.class);
+        System.out.println("get bean 1: " + str);
 
         //스코프가 싱글톤이라 재생성안됨
-        str = applicationContext.getBean("ghString",String.class);
-        System.out.println("get bean: 2" +str);
+        str = applicationContext.getBean("ghString", String.class);
+        System.out.println("get bean: 2" + str);
 
-        str = applicationContext.getBean("ghhh",String.class);
-        System.out.println("get bean: 3" +str);
+        str = applicationContext.getBean("ghhh", String.class);
+        System.out.println("get bean: 3" + str);
 
-        str = applicationContext.getBean("ghhh",String.class);
-        System.out.println("get bean: " +str);
+        str = applicationContext.getBean("ghhh", String.class);
+        System.out.println("get bean: " + str);
     }
 }
