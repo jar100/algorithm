@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="5e81a641-9abe-48a5-abd4-666a262df1bf" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/main/java/study/Application.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/study/Gh2Config.java" afterDir="false" />
@@ -35,10 +36,16 @@
       <change beforePath="$PROJECT_DIR$/src/test/java/study/javainaction/Dish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/javainaction/Dish.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/study/javainaction/MappingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/javainaction/MappingTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/study/javainaction/StreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/javainaction/StreamTest.java" afterDir="false" />
+=======
+    <list default="true" id="9aa488bf-00a4-4976-962d-6dfe9e9a0cab" name="testTask" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
+    <list id="5e81a641-9abe-48a5-abd4-666a262df1bf" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path=".idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -278,6 +285,13 @@
       </list>
     </option>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="MavenProjectNavigator">
     <treeState>
       <expand />
@@ -293,6 +307,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< Updated upstream
+=======
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+>>>>>>> Stashed changes
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -423,7 +456,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+<<<<<<< Updated upstream
     <property name="settings.editor.selected.configurable" value="terminal" />
+=======
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
+>>>>>>> Stashed changes
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -613,7 +650,28 @@
       <workItem from="1565015313760" duration="2151000" />
       <workItem from="1565069863202" duration="10453000" />
       <workItem from="1565267816068" duration="13498000" />
+<<<<<<< Updated upstream
       <workItem from="1565426388063" duration="119000" />
+=======
+      <workItem from="1565426388063" duration="431000" />
+      <workItem from="1565507928276" duration="1368000" />
+      <workItem from="1565573008937" duration="1376000" />
+      <workItem from="1565591109720" duration="6916000" />
+      <workItem from="1566026489320" duration="76000" />
+    </task>
+    <task active="true" id="LOCAL-00001" summary="testTask">
+      <branch name="master" repository="$PROJECT_DIR$" original="true" />
+      <branch name="testTask" repository="$PROJECT_DIR$" />
+      <changelist id="9aa488bf-00a4-4976-962d-6dfe9e9a0cab" name="testTask" comment="" />
+      <created>1566026508859</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566026564481</updated>
+      <workItem from="1566026565439" duration="1003000" />
+      <workItem from="1566027673788" duration="25000" />
+      <workItem from="1566027989793" duration="467000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
@@ -650,12 +708,20 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="240607000" />
+=======
+    <option name="totallyTimeSpent" value="252150000" />
+>>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
     <layout>
+<<<<<<< Updated upstream
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1941392" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17277168" />
+>>>>>>> Stashed changes
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -671,10 +737,17 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.33168316" />
+<<<<<<< Updated upstream
       <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3510204" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3255102" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4969475" visible="true" weight="0.28367347" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50305253" side_tool="true" visible="true" weight="0.28367347" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3158416" />
+>>>>>>> Stashed changes
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.32911393" />
       <window_info anchor="bottom" id="Spring" order="14" />
