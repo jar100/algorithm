@@ -5,6 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class Dip {
+
     public static void main(String[] args) {
         Farm farm = new Farm();
         farm.init(new Bard());

@@ -88,6 +88,21 @@ public class MappingTest {
     }
 
     @Test
+    public void listContainsTest() {
+        Car newCar = new Car("붕붕", 1,new Tire("스노우 타이어"));
+        Car nullCar = new Car("붕붕", 2,null);
+
+        List<Car> cars = new ArrayList<>();
+        cars.add(newCar);
+        cars.add(nullCar);
+
+        System.out.println(cars.contains(new Car(1)));
+
+
+
+    }
+
+    @Test
     public void other() {
         // flatMap
         List<Integer> numbers1 = Arrays.asList(1, 2, 3, 4, 5);

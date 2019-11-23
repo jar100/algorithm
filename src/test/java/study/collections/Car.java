@@ -56,17 +56,16 @@ public class Car {
     }
 
     @Override
-    public boolean equals(Object o) {
+    public boolean equals(final Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
-        Car car = (Car) o;
-        return number == car.number &&
-                Objects.equals(color, car.color);
+        final Car car = (Car) o;
+        return number == car.number;
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(color, number);
+        return Objects.hash(number);
     }
 
     @Override

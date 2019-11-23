@@ -7,12 +7,13 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
+import study.BeanFactoryPostProcessorTest;
 import study.GhConfig;
 
 import javax.inject.Inject;
 
 @ExtendWith(SpringExtension.class)
-@ContextConfiguration(classes = {GhConfig.class})
+@ContextConfiguration(classes = {GhConfig.class, BeanFactoryPostProcessorTest.class})
 public class ApplicationContextTest {
 
     @Inject
@@ -33,7 +34,6 @@ public class ApplicationContextTest {
     void name() {
 
         ApplicationContext applicationContext = new AnnotationConfigApplicationContext(GhConfig.class);
-
 
         //스코프가 prototype 라 재생성 됨
         String str = applicationContext.getBean("ghhh", String.class);
