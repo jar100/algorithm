@@ -1,15 +1,16 @@
 package programas.onemore.Ironrod;
 
-import org.junit.Before;
-import org.junit.Test;
-import programas.BaseTest;
+import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.Test;
 
-public class IronRodTest extends BaseTest {
+import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 
-    private IronRod ironRod;
+public class IronRodTest {
 
-    @Before
-    public void setup() {
+    private static IronRod ironRod;
+
+    @BeforeAll
+    public static void setup() {
         ironRod = new IronRod();
     }
     @Test
@@ -17,7 +18,7 @@ public class IronRodTest extends BaseTest {
         long start = System.currentTimeMillis();
         String answer = "";
         answer = "()(((()())(())()))(())";
-        softly.assertThat(ironRod.solution(answer)).isEqualTo(17);
+        assertThat(ironRod.solution(answer)).isEqualTo(17);
         long time = System.currentTimeMillis();
         System.out.println(time - start);
     }
@@ -27,7 +28,7 @@ public class IronRodTest extends BaseTest {
         long start = System.currentTimeMillis();
         String answer = "";
         answer = "()(((()())(())()))(())";
-        softly.assertThat(ironRod.solution2(answer)).isEqualTo(17);
+        assertThat(ironRod.solution2(answer)).isEqualTo(17);
         long time = System.currentTimeMillis();
         System.out.println(time - start);
     }

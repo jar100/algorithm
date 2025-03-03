@@ -1,12 +1,11 @@
 package study.jvmoom;
 
-import org.junit.Test;
-import programas.BaseTest;
+import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class HeavyInstanceTest extends BaseTest {
+public class HeavyInstanceTest {
 
     @Test
     public void oomTest() {

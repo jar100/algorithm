@@ -1,12 +1,12 @@
 package study.collections;
 
-import org.junit.Test;
-import org.omg.CORBA.INTERNAL;
-import programas.BaseTest;
+import org.junit.jupiter.api.Test;
 
 import java.util.*;
 
-public class NavigableMapTest extends BaseTest {
+import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
+
+public class NavigableMapTest {
 
     @Test
     public void whatIsNavigableMap() {
@@ -29,16 +29,16 @@ public class NavigableMapTest extends BaseTest {
         System.out.println(map.toString());
 
         // 199 보다 큰값 같은건 제외
-        softly.assertThat(map.higherKey(199)).isEqualTo(200);
+        assertThat(map.higherKey(199)).isEqualTo(200);
 
         // 199 가 천장이다. 이것 보다 작거나 같은 값.
-        softly.assertThat(map.floorKey(199)).isEqualTo(100);
+        assertThat(map.floorKey(199)).isEqualTo(100);
 
         // 199 가 바닥이다. 이것 보다 크거나 같은 값.
-        softly.assertThat(map.ceilingKey(199)).isEqualTo(200);
+        assertThat(map.ceilingKey(199)).isEqualTo(200);
 
         // 199 보다 작은값.
-        softly.assertThat(map.lowerKey(199)).isEqualTo(100);
+        assertThat(map.lowerKey(199)).isEqualTo(100);
 
     }
 }

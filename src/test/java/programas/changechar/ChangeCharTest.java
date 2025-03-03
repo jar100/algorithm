@@ -1,9 +1,10 @@
 package programas.changechar;
 
-import org.junit.Test;
-import programas.BaseTest;
+import org.junit.jupiter.api.Test;
 
-public class ChangeCharTest extends BaseTest {
+import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
+
+public class ChangeCharTest {
     ChangeChar changeChar = new ChangeChar();
 
 
@@ -12,7 +13,7 @@ public class ChangeCharTest extends BaseTest {
         String begin = "hit";
         String target = "cog";
         String[] words = {"hot", "dot", "dog", "lot", "log", "cog"};
-        softly.assertThat(changeChar.solution(begin, target, words)).isEqualTo(4);
+        assertThat(changeChar.solution(begin, target, words)).isEqualTo(4);
     }
 
     @Test
@@ -20,7 +21,7 @@ public class ChangeCharTest extends BaseTest {
         String begin = "hit";
         String target = "cog";
         String[] words = {"hot", "dot", "dog", "lot", "log"};
-        softly.assertThat(changeChar.solution(begin, target, words)).isEqualTo(0);
+        assertThat(changeChar.solution(begin, target, words)).isEqualTo(0);
     }
 
 
@@ -30,7 +31,7 @@ public class ChangeCharTest extends BaseTest {
         String begin = "hit";
         String target = "zul";
         String[] words = {"hot", "dot", "dog", "lot", "log", "zul"};
-        softly.assertThat(changeChar.solution(begin, target, words)).isEqualTo(0);
+        assertThat(changeChar.solution(begin, target, words)).isEqualTo(0);
     }
 
     @Test
@@ -45,6 +46,6 @@ public class ChangeCharTest extends BaseTest {
         // 나쁜가정 1 hit hot hog lot log cog
         // 나쁜가정 2 hit dot hot hog lot log cog 등등등
         String[] words = {"hot", "dot", "hog", "lot", "log", "cog"};
-        softly.assertThat(changeChar.solution(begin, target, words)).isEqualTo(3);
+        assertThat(changeChar.solution(begin, target, words)).isEqualTo(3);
     }
 }

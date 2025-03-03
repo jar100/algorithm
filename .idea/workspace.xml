@@ -1,60 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9aa488bf-00a4-4976-962d-6dfe9e9a0cab" name="testTask" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/myutils/ExcelDbUpdater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myutils/ExcelToCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/study/BeanFactoryPostProcessorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/study/DiCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/Test12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/groovy/GroovyScriptTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/spring_applitcatecontext/ApplicationContext2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/spring_applitcatecontext/ApplicationContextTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/spring_applitcatecontext/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/spring_applitcatecontext/testCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codility/naver/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codility/naver/solutionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Test_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/programas/JavaTest3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/programas/Test_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/programas/test_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/test_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/programas/JavaTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/programas.JavaTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/programas.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-programas.JavaTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/study/Dip$Bard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/Dip$Bard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/study/Dip$Chicken.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/Dip$Chicken.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/study/Dip$Farm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/Dip$Farm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/study/Dip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/Dip.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/study/Gh2Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/Gh2Config.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/META-INF/algorithm.main.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/MappingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/MappingTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/study/spring_applitcatecontext/ApplicationContextTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/spring_applitcatecontext/ApplicationContextTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/Dip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Dip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/Gh2Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Gh2Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/study/collections/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/collections/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/baekjun/baek1608/GraphTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/baekjun/baek1608/GraphTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/baekjun/clear/baek1015/Baek1015Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/baekjun/clear/baek1015/Baek1015Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/baekjun/clear/baek1193/Baek1193Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/baekjun/clear/baek1193/Baek1193Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/codility/binarygap/BinaryGapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/codility/binarygap/BinaryGapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/codility/checkunpair/CheckUnpairTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/codility/checkunpair/CheckUnpairTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hackerrank/newyearchaos/NewYearChaosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hackerrank/newyearchaos/NewYearChaosTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/meetingtest/groundx/Gx01Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/meetingtest/groundx/Gx01Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/meetingtest/groundx/Gx02Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/meetingtest/groundx/Gx02Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/meetingtest/groundx/Gx03Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/meetingtest/groundx/Gx03Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/meetingtest/groundx/RefrigeratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/meetingtest/groundx/RefrigeratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/meetingtest/groundx/TriangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/meetingtest/groundx/TriangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/meetingtest/icecream/IceCream1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/meetingtest/icecream/IceCream1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/meetingtest/icecream/IceCream2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/meetingtest/icecream/IceCream2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/meetingtest/icecream/IceCream3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/meetingtest/icecream/IceCream3Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/meetingtest/junggo/JungGoFourTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/meetingtest/junggo/JungGoFourTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/meetingtest/junggo/JungGoOneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/meetingtest/junggo/JungGoOneTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/meetingtest/junggo/JungGoThreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/meetingtest/junggo/JungGoThreeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/meetingtest/junggo/JungGoTwoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/meetingtest/junggo/JungGoTwoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/meetingtest/kakao/kakaoEx1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/meetingtest/kakao/kakaoEx1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/meetingtest/kakao/test/KakaoEx4Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/meetingtest/kakao/test/KakaoEx4Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/meetingtest/kakao/test/kakaoEx2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/meetingtest/kakao/test/kakaoEx2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/meetingtest/kakao/test/kakaoEx3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/meetingtest/kakao/test/kakaoEx3Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/meetingtest/kakao/test/kakaoTestEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/meetingtest/kakao/test/kakaoTestEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/meetingtest/sixshop/EqualsObjectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/meetingtest/sixshop/EqualsObjectTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/meetingtest/sixshop/SixShopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/meetingtest/sixshop/SixShopTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/meetingtest/timon/RestaurantSimulationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/meetingtest/timon/RestaurantSimulationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/BaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/BaseballTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/BaseballTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/DynamicArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/DynamicArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/IteratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/IteratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/KakaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/KakaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/MakeJadenCaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/MakeJadenCaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/cardgame/CardGameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/cardgame/CardGameTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/changechar/ChangeCharTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/changechar/ChangeCharTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/FindLCMTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/FindLCMTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/FindPositionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/FindPositionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/JavaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/JavaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/NewBigNumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/NewBigNumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/bamin/Num1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/bamin/Num1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/bamin/Num2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/bamin/Num2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/bamin/Num3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/bamin/Num3Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/bamin/Num4Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/bamin/Num4Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/bestalbum/BestAlbumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/bestalbum/BestAlbumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/camouflage/CamouflageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/camouflage/CamouflageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/crossingbridge/CrossingBridgeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/crossingbridge/CrossingBridgeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/doublepriorityqueue/DoublePriorityQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/doublepriorityqueue/DoublePriorityQueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/essencetriangle/EssenceTriangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/essencetriangle/EssenceTriangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/findsosu/FindSosuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/findsosu/FindSosuTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/giveupmath/GiveupMathTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/giveupmath/GiveupMathTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/gotoschool/GoToSchoolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/gotoschool/GoToSchoolTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/gymsuit/GymSuitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/gymsuit/GymSuitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/hindex/HIndexTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/hindex/HIndexTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/indexknum/IndexOfKNumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/indexknum/IndexOfKNumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/jobpare/JobPare3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/jobpare/JobPare3Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/jobpare/jobpare1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/jobpare/jobpare1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/jobpare/jobpare2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/jobpare/jobpare2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/jumpsuit/JumpIronsuitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/jumpsuit/JumpIronsuitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/makebignum/MakeBigNumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/makebignum/MakeBigNumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/maximumnum/MaximumNumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/maximumnum/MaximumNumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/morehot/MoreHotTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/morehot/MoreHotTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/network/NetworkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/network/NetworkTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/notfinishrun/NotFinishRunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/notfinishrun/NotFinishRunTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/numcountry/NumCountryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/numcountry/NumCountryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/okparentheses/OkParenthesesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/okparentheses/OkParenthesesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/operationdevelopment/operateiondevelopmentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/operationdevelopment/operateiondevelopmentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/phonebook/PhoneBookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/phonebook/PhoneBookTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/ramenfactory/RamenFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/ramenfactory/RamenFactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/safeboat/SafeBoatTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/safeboat/SafeBoatTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/samenumdelet/SameNumDeletTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/samenumdelet/SameNumDeletTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/skill/SkillOneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/skill/SkillOneTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/skill/SkillTwoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/skill/SkillTwoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/skilltree/SkillTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/skilltree/SkillTreeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/stockprices/StockPricesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/stockprices/StockPricesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/targetnum/TargetNumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/targetnum/TargetNumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/thievery/ThieveryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/thievery/ThieveryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/tileornaments/TileOrnamentsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/tileornaments/TileOrnamentsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/clear/visitlength/VisitLengthTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/clear/visitlength/VisitLengthTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/descripn/DescripNTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/descripn/DescripNTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/joystick/JoyStickTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/joystick/JoyStickTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/longestnode/LongestNodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/longestnode/LongestNodeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/onemore/Ironrod/IronRodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/onemore/Ironrod/IronRodTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/onemore/diskcontroller/DiskControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/onemore/diskcontroller/DiskControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programas/onemore/printer/PrinterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programas/onemore/printer/PrinterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/VolatileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/VolatileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/collections/IteratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/collections/IteratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/collections/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/collections/ListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/collections/NavigableMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/collections/NavigableMapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/collections/QueuesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/collections/QueuesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/collections/SetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/collections/SetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/collections/TaskTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/collections/TaskTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/collections/maps/MapsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/collections/maps/MapsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/ConsumerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/collections/produceconsumer/ConsumerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/generics/GenericsStudyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/generics/GenericsStudyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/javainaction/CloserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/javainaction/CloserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/javainaction/Closure2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/javainaction/Closure2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/javainaction/EffectivlyFinalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/javainaction/EffectivlyFinalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/javainaction/GroupingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/javainaction/GroupingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/javainaction/LambdaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/javainaction/LambdaTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/study/javainaction/MappingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/javainaction/MappingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/study/spring_applitcatecontext/ApplicationContextTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/spring_applitcatecontext/ApplicationContextTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/javainaction/MethodReferenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/javainaction/MethodReferenceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/javainaction/OptionalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/javainaction/OptionalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/javainaction/ParallelStreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/javainaction/ParallelStreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/javainaction/StreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/javainaction/StreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/jvmoom/HeavyInstanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/jvmoom/HeavyInstanceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/sort/QuickSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/sort/QuickSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/spring_applitcatecontext/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/spring_applitcatecontext/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/spring_applitcatecontext/testCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/spring_applitcatecontext/testCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/strategy/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/strategy/CarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/strategy/hashCodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/strategy/hashCodeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/templetcallback/StudyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/templetcallback/StudyTest.java" afterDir="false" />
     </list>
     <list id="5e81a641-9abe-48a5-abd4-666a262df1bf" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/.gradle/" />
-    <ignored path="$PROJECT_DIR$/build/" />
-    <ignored path=".idea/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,9 +147,6 @@
     </option>
     <expand />
     <select />
-  </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -235,6 +306,7 @@
         <option value="Interface" />
         <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -278,6 +350,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "gh-baek_yanolja"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jar100/algorithm.git",
+    "accountId": "38023ad3-f87d-4ef2-9a21-6feb1db2ead8"
+  }
+}]]></component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -348,11 +432,15 @@
       <select />
     </treeState>
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="1027" />
   </component>
+  <component name="ProjectId" id="2tnHuIp1tatdhLXVYaL0xKzTvRr" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -425,35 +513,38 @@
       </pane>
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/study/javainaction" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.solutionTest.executor": "Run",
+    "JUnit.solutionTest.name.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="study" />
-      <recent name="generics" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="study.collections" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/study/javainaction" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -461,58 +552,19 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/java/study/javainaction" />
     </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="codility.naver" />
+      <recent name="study" />
+      <recent name="generics" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="study" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/test/java/study/javainaction" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="study.collections" />
-    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.MappingTest.listContainsTest">
-    <configuration name="ApplicationContext2Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.spring_applitcatecontext.ApplicationContext2Test" />
-      <module name="algorithm.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="study.spring_applitcatecontext.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.solutionTest">
     <configuration name="ExcelToCall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myutils.ExcelToCall" />
       <module name="algorithm.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="myutils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.Test12" />
-      <module name="algorithm.test" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="myutils.*" />
@@ -554,15 +606,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="algorithm.main" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <configuration name="solutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codility.naver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="codility.naver" />
+      <option name="MAIN_CLASS_NAME" value="codility.naver.solutionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solutionTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codility.naver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="codility.naver" />
+      <option name="MAIN_CLASS_NAME" value="codility.naver.solutionTest" />
+      <option name="METHOD_NAME" value="name(int[])" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="algorithm.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -575,23 +653,32 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ApplicationContext2Test" />
-      <item itemvalue="Application.Test12" />
       <item itemvalue="Application.ExcelToCall" />
+      <item itemvalue="JUnit.solutionTest" />
+      <item itemvalue="JUnit.solutionTest.name" />
       <item itemvalue="JUnit.ApplicationContextTest" />
-      <item itemvalue="Spring Boot.Application" />
       <item itemvalue="JUnit.MappingTest.listContainsTest" />
+      <item itemvalue="Spring Boot.Application" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.solutionTest" />
+        <item itemvalue="JUnit.solutionTest.name" />
         <item itemvalue="JUnit.MappingTest.listContainsTest" />
         <item itemvalue="Application.ExcelToCall" />
         <item itemvalue="JUnit.ApplicationContextTest" />
-        <item itemvalue="Application.Test12" />
-        <item itemvalue="Application.ApplicationContext2Test" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -663,6 +750,7 @@
       <workItem from="1573739382509" duration="2166000" />
       <workItem from="1573796377859" duration="20246000" />
       <workItem from="1574322711466" duration="1220000" />
+      <workItem from="1740981140999" duration="2586000" />
     </task>
     <servers />
   </component>
@@ -746,7 +834,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -759,30 +847,6 @@
     </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
     <option name="RECENT_FILTERS">
       <map>
         <entry key="Branch">
@@ -797,13 +861,22 @@
         </entry>
       </map>
     </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/study/collections/SetTest.java</url>
-          <line>59</line>
+          <line>58</line>
           <properties class="study.collections.SetTest" method="sortedSetWhyNonComparable">
             <option name="EMULATED" value="true" />
           </properties>
@@ -812,13 +885,11 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/study/javainaction/PersistentTrainJourney.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/study/javainaction/PersistentTrainJourney.java</url>
           <line>62</line>
-          <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>

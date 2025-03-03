@@ -1,15 +1,12 @@
 package study.collections;
 
-import org.junit.Test;
-import programas.BaseTest;
+import org.junit.jupiter.api.Test;
 
 import java.util.*;
-import java.util.concurrent.ArrayBlockingQueue;
-import java.util.concurrent.BlockingQueue;
-import java.util.concurrent.DelayQueue;
-import java.util.concurrent.PriorityBlockingQueue;
 
-public class TaskTest extends BaseTest {
+import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
+
+public class TaskTest {
 
     @Test
     public void taskTest() {
@@ -30,44 +27,44 @@ public class TaskTest extends BaseTest {
         Collections.addAll(mondayTasks, logicCode, mikePhone);
         Collections.addAll(tuesdayTasks, databaseCode, interfaceCode, paulPhone);
 
-        softly.assertThat(phoneTasks.toString()).isEqualTo("[phone Mike, phone Paul]");
-        softly.assertThat(codingTasks.toString()).isEqualTo("[code db, code gui, code logic]");
+        assertThat(phoneTasks.toString()).isEqualTo("[phone Mike, phone Paul]");
+        assertThat(codingTasks.toString()).isEqualTo("[code db, code gui, code logic]");
 
-        softly.assertThat(mondayTasks.toString()).isEqualTo("[code logic, phone Mike]");
-        softly.assertThat(tuesdayTasks.toString()).isEqualTo("[code db, code gui, phone Paul]");
+        assertThat(mondayTasks.toString()).isEqualTo("[code logic, phone Mike]");
+        assertThat(tuesdayTasks.toString()).isEqualTo("[code db, code gui, phone Paul]");
 
         // add
         mondayTasks.add(new PhoneTask("Ruth", "567 1234"));
-        softly.assertThat(mondayTasks.toString()).isEqualTo("[code logic, phone Mike, phone Ruth]");
+        assertThat(mondayTasks.toString()).isEqualTo("[code logic, phone Mike, phone Ruth]");
 
         // add collections
         Collection<Task> allTasks = new ArrayList<>(mondayTasks);
         allTasks.addAll(tuesdayTasks);
-        softly.assertThat(allTasks.toString()).isEqualTo("[code logic, phone Mike, phone Ruth, code db, code gui, phone Paul]");
+        assertThat(allTasks.toString()).isEqualTo("[code logic, phone Mike, phone Ruth, code db, code gui, phone Paul]");
 
 
         //remove
         boolean wasPresent = mondayTasks.remove(mikePhone);
-        softly.assertThat(wasPresent).isTrue();
-        softly.assertThat(mondayTasks.toString()).isEqualTo("[code logic, phone Ruth]");
+        assertThat(wasPresent).isTrue();
+        assertThat(mondayTasks.toString()).isEqualTo("[code logic, phone Ruth]");
 
         // remove all
         mondayTasks.clear();
-        softly.assertThat(mondayTasks).isEmpty();
+        assertThat(mondayTasks).isNull();
 
         // remove to collections
         Collection<Task> tuesdayNonphoneTasks = new ArrayList<>(tuesdayTasks);
         tuesdayNonphoneTasks.removeAll(phoneTasks);
-        softly.assertThat(tuesdayNonphoneTasks.toString()).isEqualTo("[code db, code gui]");
+        assertThat(tuesdayNonphoneTasks.toString()).isEqualTo("[code db, code gui]");
 
         Collection<Task> phoneTuesdayTasks = new ArrayList<>(tuesdayTasks);
         phoneTuesdayTasks.retainAll(phoneTasks);
-        softly.assertThat(phoneTuesdayTasks.toString()).isEqualTo("[phone Paul]");
+        assertThat(phoneTuesdayTasks.toString()).isEqualTo("[phone Paul]");
 
 
         Collection<PhoneTask> tuesdayPhoneTasks = new ArrayList<>(phoneTasks);
         tuesdayPhoneTasks.retainAll(tuesdayTasks);
-        softly.assertThat(tuesdayPhoneTasks.toString()).isEqualTo("[phone Paul]");
+        assertThat(tuesdayPhoneTasks.toString()).isEqualTo("[phone Paul]");
 
 
         Queue<Task> taskQueue = new ArrayDeque<>();

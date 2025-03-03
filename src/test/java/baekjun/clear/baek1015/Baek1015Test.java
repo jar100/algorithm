@@ -1,16 +1,17 @@
 package baekjun.clear.baek1015;
 
-import org.junit.Test;
-import programas.BaseTest;
+import org.junit.jupiter.api.Test;
 
-public class Baek1015Test extends BaseTest {
+import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
+
+public class Baek1015Test {
 
     @Test
     public void solution() {
         Baek1015 baek1015 = new Baek1015();
 
-        softly.assertThat(baek1015.solution(3, new int[]{2, 3, 1})).isEqualTo(new int[]{1, 2, 0});
-        softly.assertThat(baek1015.solution(50,
+        assertThat(baek1015.solution(3, new int[]{2, 3, 1})).isEqualTo(new int[]{1, 2, 0});
+        assertThat(baek1015.solution(50,
                 new int[]{
                         302, 251, 425, 720, 122, 441, 752, 229, 918,
                         44, 927, 728, 372, 82, 410, 46, 641, 499, 700,
@@ -24,7 +25,7 @@ public class Baek1015Test extends BaseTest {
                 11, 42, 43, 28, 39, 26, 49, 36, 20, 21, 41, 34 });
 
 
-        softly.assertThat(baek1015.solution(5, new int[]{0, 0, 0, 0, 0})).isEqualTo(new int[]{1, 2, 0});
+        assertThat(baek1015.solution(5, new int[]{0, 0, 0, 0, 0})).isEqualTo(new int[]{1, 2, 0});
 
     }
 }

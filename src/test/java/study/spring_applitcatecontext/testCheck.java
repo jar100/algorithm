@@ -1,7 +1,8 @@
 package study.spring_applitcatecontext;
 
-import com.sun.tools.javac.util.List;
 import org.junit.jupiter.api.Test;
+
+import java.util.List;
 
 public class testCheck {
     @Test

@@ -1,7 +1,7 @@
 package study.javainaction;
 
-import org.junit.Before;
-import org.junit.Test;
+import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.Test;
 import study.collections.Car;
 
 import java.util.ArrayList;
@@ -12,8 +12,8 @@ import java.util.function.Predicate;
 public class LambdaTest {
     public static List<Dish> menu;
 
-    @Before
-    public void setup() throws Exception {
+    @BeforeAll
+    public static void setup() throws Exception {
         menu = new ArrayList<>();
         menu.add(new Dish("pork", false, 800, Dish.Type.MEAT));
         menu.add(new Dish("beef", false, 700, Dish.Type.MEAT));

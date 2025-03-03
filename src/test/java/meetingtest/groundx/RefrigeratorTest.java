@@ -1,9 +1,10 @@
 package meetingtest.groundx;
 
-import org.junit.Test;
-import programas.BaseTest;
+import org.junit.jupiter.api.Test;
 
-public class RefrigeratorTest extends BaseTest {
+import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
+
+public class RefrigeratorTest {
     Refrigerator refrigerator = new Refrigerator();
 
     @Test
@@ -11,7 +12,7 @@ public class RefrigeratorTest extends BaseTest {
         int[] open = {3, 5, 7};
         int[] close = {4, 10, 12};
 
-        softly.assertThat(refrigerator.solution(open, close)).isEqualTo(6);
+        assertThat(refrigerator.solution(open, close)).isEqualTo(6);
     }
 
 
@@ -19,7 +20,7 @@ public class RefrigeratorTest extends BaseTest {
     public void name1() {
         int[] open = {4, 7, 9, 16};
         int[] close = {2, 5, 12, 14, 20};
-        softly.assertThat(refrigerator.solution(open, close)).isEqualTo(10);
+        assertThat(refrigerator.solution(open, close)).isEqualTo(10);
     }
 
 
@@ -27,7 +28,7 @@ public class RefrigeratorTest extends BaseTest {
     public void name3() {
         int[] open = {1, 2, 3};
         int[] close = {4, 5, 6, 7, 20};
-        softly.assertThat(refrigerator.solution(open, close)).isEqualTo(3);
+        assertThat(refrigerator.solution(open, close)).isEqualTo(3);
 
     }
 
@@ -36,7 +37,7 @@ public class RefrigeratorTest extends BaseTest {
     public void name4() {
         int[] open = {2, 3, 4, 5, 6, 8, 9, 10, 11};
         int[] close = {7, 12};
-        softly.assertThat(refrigerator.solution(open, close)).isEqualTo(9);
+        assertThat(refrigerator.solution(open, close)).isEqualTo(9);
 
     }
 
@@ -44,7 +45,7 @@ public class RefrigeratorTest extends BaseTest {
     public void name5() {
         int[] open = {2, 3, 4, 5, 6, 8, 9, 10, 11};
         int[] close = {12};
-        softly.assertThat(refrigerator.solution(open, close)).isEqualTo(10);
+        assertThat(refrigerator.solution(open, close)).isEqualTo(10);
 
     }
 
@@ -53,7 +54,7 @@ public class RefrigeratorTest extends BaseTest {
     public void name6() {
         int[] open = {2};
         int[] close = {1, 4, 5, 6, 7, 8, 9, 10};
-        softly.assertThat(refrigerator.solution(open, close)).isEqualTo(2);
+        assertThat(refrigerator.solution(open, close)).isEqualTo(2);
 
     }
 

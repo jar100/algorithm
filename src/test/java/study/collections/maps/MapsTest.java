@@ -1,11 +1,12 @@
 package study.collections.maps;
 
-import org.junit.Test;
-import programas.BaseTest;
+import org.junit.jupiter.api.Test;
 
 import java.util.*;
 
-public class MapsTest extends BaseTest {
+import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
+
+public class MapsTest {
 
 
     @Test
@@ -90,10 +91,10 @@ public class MapsTest extends BaseTest {
 
         //before modifying keys;
         System.out.println(cardToExpiry);
-        softly.assertThat(cardToExpiry.get(visa)).isNotNull();
+        assertThat(cardToExpiry.get(visa)).isNotNull();
 
         System.out.println(cardToExpiryIdentity);
-        softly.assertThat(cardToExpiryIdentity.get(visa)).isNotNull();
+        assertThat(cardToExpiryIdentity.get(visa)).isNotNull();
 
         // modifying value object
         visa.setExpiryDate("02/11/2030");
@@ -102,10 +103,10 @@ public class MapsTest extends BaseTest {
 
         //after modifying keys
         System.out.println(cardToExpiry);
-        softly.assertThat(cardToExpiry.get(visa)).isNull();
+        assertThat(cardToExpiry.get(visa)).isNull();
 
         System.out.println(cardToExpiryIdentity);
-        softly.assertThat(cardToExpiryIdentity.get(visa)).isNotNull();
+        assertThat(cardToExpiryIdentity.get(visa)).isNotNull();
     }
 
     @Test

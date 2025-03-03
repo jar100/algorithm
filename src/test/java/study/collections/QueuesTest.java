@@ -1,12 +1,7 @@
 package study.collections;
 
-import org.junit.Test;
-import programas.BaseTest;
+import org.junit.jupiter.api.Test;
 
-
-import java.util.ArrayDeque;
-import java.util.Deque;
-import java.util.SortedSet;
 import java.util.concurrent.*;
 
 public class QueuesTest {

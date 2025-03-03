@@ -1,20 +1,21 @@
 package programas.clear.camouflage;
 
-import org.junit.Before;
-import org.junit.Test;
-import programas.BaseTest;
+import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.Test;
 
-public class CamouflageTest extends BaseTest {
-    private Camouflage camouflage;
+import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 
-    @Before
-    public void setup() {
+public class CamouflageTest {
+    private static Camouflage camouflage;
+
+    @BeforeAll
+    public static void setup() {
         camouflage = new Camouflage();
     }
 
     @Test
     public void solution() {
-        softly.assertThat(camouflage.solution(new String[][]{
+        assertThat(camouflage.solution(new String[][]{
                 {"yellow_hat", "headgear"},
                 {"blue_sunglasses", "eyewear"},
                 {"green_turban", "headgear"}})).isEqualTo(5);
@@ -22,7 +23,7 @@ public class CamouflageTest extends BaseTest {
 
     @Test
     public void solution2() {
-        softly.assertThat(camouflage.solution2(new String[][]{
+        assertThat(camouflage.solution2(new String[][]{
                 {"yellow_hat", "headgear"},
                 {"blue_sunglasses", "eyewear"},
                 {"green_turban", "headgear"}})).isEqualTo(5);

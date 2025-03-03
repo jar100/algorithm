@@ -1,9 +1,8 @@
 package study.strategy;
 
-import org.junit.Test;
-import programas.BaseTest;
+import org.junit.jupiter.api.Test;
 
-public class CarTest extends BaseTest {
+public class CarTest {
 
     @Test
     public void 전략패턴() {

@@ -1,16 +1,15 @@
 package study.collections;
 
-import org.junit.Test;
-import programas.BaseTest;
+import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;
 import java.util.ConcurrentModificationException;
 import java.util.Iterator;
 import java.util.List;
 
-public class IteratorTest extends BaseTest {
+public class IteratorTest {
 
-    @Test(expected = ConcurrentModificationException.class)
+    @Test
     public void concurrentException() {
 
         List<String> targetList = new ArrayList<>();

@@ -1,17 +1,18 @@
 package programas.clear.tileornaments;
 
-import org.junit.Test;
-import programas.BaseTest;
+import org.junit.jupiter.api.Test;
 
-public class TileOrnamentsTest extends BaseTest {
+import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
+
+public class TileOrnamentsTest {
     TileOrnaments tileOrnaments = new TileOrnaments();
     @Test
     public void name() {
-        softly.assertThat(tileOrnaments.solution(5)).isEqualTo(26);
+        assertThat(tileOrnaments.solution(5)).isEqualTo(26);
     }
 
     @Test
     public void name1() {
-        softly.assertThat(tileOrnaments.solution(6)).isEqualTo(42);
+        assertThat(tileOrnaments.solution(6)).isEqualTo(42);
     }
 }

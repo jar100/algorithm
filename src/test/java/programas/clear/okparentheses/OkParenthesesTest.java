@@ -1,15 +1,16 @@
 package programas.clear.okparentheses;
 
-import org.junit.Test;
-import programas.BaseTest;
+import org.junit.jupiter.api.Test;
 
-public class OkParenthesesTest extends BaseTest {
+import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
+
+public class OkParenthesesTest {
 
     @Test
     public void solution() {
-        softly.assertThat(OkParentheses.solution("()()")).isTrue();
-        softly.assertThat(OkParentheses.solution("(())()")).isTrue();
-        softly.assertThat(OkParentheses.solution(")()(")).isFalse();
-        softly.assertThat(OkParentheses.solution("(()(")).isFalse();
+        assertThat(OkParentheses.solution("()()")).isTrue();
+        assertThat(OkParentheses.solution("(())()")).isTrue();
+        assertThat(OkParentheses.solution(")()(")).isFalse();
+        assertThat(OkParentheses.solution("(()(")).isFalse();
     }
 }

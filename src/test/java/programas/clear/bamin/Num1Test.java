@@ -1,12 +1,13 @@
 package programas.clear.bamin;
 
-import org.junit.Test;
-import programas.BaseTest;
+import org.junit.jupiter.api.Test;
 
-public class Num1Test extends BaseTest {
+import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
+
+public class Num1Test {
 
     @Test
     public void solution() {
-        softly.assertThat(Num1.solution(Integer.toBinaryString(28))).isEqualTo(7);
+        assertThat(Num1.solution(Integer.toBinaryString(28))).isEqualTo(7);
     }
 }

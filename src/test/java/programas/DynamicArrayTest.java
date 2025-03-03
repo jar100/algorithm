@@ -1,9 +1,9 @@
 package programas;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 import study.myarraylist.PeterArrayList;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class DynamicArrayTest {
     @Test
@@ -20,7 +20,7 @@ public class DynamicArrayTest {
         assertEquals(size, da3.size());
     }
 
-    @Test(expected = IllegalArgumentException.class)
+    @Test
     public void getWithException() {
         PeterArrayList<Integer> da = new PeterArrayList<>();
         da.get(11);
