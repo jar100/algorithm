@@ -1,12 +1,11 @@
 package study.collections;
 
-import org.junit.Test;
-import programas.BaseTest;
+import org.junit.jupiter.api.Test;
 
 import java.util.*;
 import java.util.concurrent.ConcurrentSkipListSet;
 
-public class SetTest extends BaseTest {
+public class SetTest {
 
 
     @Test

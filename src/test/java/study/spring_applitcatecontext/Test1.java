@@ -1,8 +1,8 @@
 package study.spring_applitcatecontext;
 
+import jakarta.annotation.PostConstruct;
 import org.springframework.beans.factory.InitializingBean;
 
-import javax.annotation.PostConstruct;
 
 public class Test1 implements InitializingBean {
 

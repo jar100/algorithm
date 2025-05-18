@@ -1,9 +1,8 @@
 package meetingtest.icecream;
 
-import org.junit.Test;
-import programas.BaseTest;
+import org.junit.jupiter.api.Test;
 
-public class IceCream2Test extends BaseTest {
+public class IceCream2Test {
 
     @Test
     public void name1() {

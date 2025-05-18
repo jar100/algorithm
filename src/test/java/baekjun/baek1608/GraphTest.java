@@ -1,11 +1,9 @@
 package baekjun.baek1608;
 
-import org.junit.Test;
-import programas.BaseTest;
+import org.junit.jupiter.api.Test;
 
-import static org.junit.Assert.*;
 
-public class GraphTest extends BaseTest {
+public class GraphTest {
 
     @Test
     public void name() {

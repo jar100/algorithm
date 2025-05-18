@@ -1,6 +1,6 @@
 package codility.binarygap;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 public class BinaryGapTest {
     BinaryGap binaryGap = new BinaryGap();

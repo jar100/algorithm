@@ -1,14 +1,15 @@
 package programas.clear.doublepriorityqueue;
 
-import org.junit.Test;
-import programas.BaseTest;
+import org.junit.jupiter.api.Test;
 
-public class DoublePriorityQueueTest extends BaseTest {
+import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
+
+public class DoublePriorityQueueTest {
     @Test
     public void name() {
         DoublePriorityQueue doublePriorityQueue = new DoublePriorityQueue();
 
-        softly.assertThat(doublePriorityQueue.solution(new String[]{"I 16","D 1"})).isEqualTo(new int[]{0,0});
+        assertThat(doublePriorityQueue.solution(new String[]{"I 16","D 1"})).isEqualTo(new int[]{0,0});
     }
 
     @Test

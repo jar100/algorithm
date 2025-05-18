@@ -1,11 +1,8 @@
 package meetingtest.timon;
 
-import org.junit.Test;
-import programas.BaseTest;
+import org.junit.jupiter.api.Test;
 
-import static org.junit.Assert.*;
-
-public class RestaurantSimulationTest extends BaseTest {
+public class RestaurantSimulationTest {
 
     RestaurantSimulation restaurantSimulation = new RestaurantSimulation();
 

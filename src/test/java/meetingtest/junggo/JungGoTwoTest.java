@@ -1,9 +1,8 @@
 package meetingtest.junggo;
 
-import org.junit.Test;
-import programas.BaseTest;
+import org.junit.jupiter.api.Test;
 
-public class JungGoTwoTest extends BaseTest {
+public class JungGoTwoTest {
     JungGoTwo jungGoTwo = new JungGoTwo();
 
     @Test

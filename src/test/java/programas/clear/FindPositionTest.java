@@ -1,6 +1,6 @@
 package programas.clear;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 import programas.clear.FindPosition;
 
 import static org.assertj.core.api.Assertions.assertThat;

@@ -1,11 +1,12 @@
 package study.generics;
 
-import org.junit.Test;
-import programas.BaseTest;
+import org.junit.jupiter.api.Test;
 
 import java.util.*;
 
-public class GenericsStudyTest extends BaseTest {
+import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
+
+public class GenericsStudyTest {
     GenericsStudy genericsStudy = new GenericsStudy();
 
     @Test
@@ -22,14 +23,14 @@ public class GenericsStudyTest extends BaseTest {
         words2.add("Hello ");
         words2.add("world!");
         String s2 = ((String) words2.get(0)) + ((String) words2.get(1));
-        softly.assertThat(s2).isEqualTo("Hello world!");
+        assertThat(s2).isEqualTo("Hello world!");
 
         // 제네릭이 등장한 후
         List<String> words = new ArrayList<String>();
         words.add("Hello ");
         words.add("world!");
         String s = words.get(0) + words.get(1);
-        softly.assertThat(s).isEqualTo("Hello world!");
+        assertThat(s).isEqualTo("Hello world!");
 
         toList(words);
         toList(new int[]{1, 2, 3, 4});

@@ -1,34 +1,33 @@
 package meetingtest.groundx;
 
-import org.junit.Test;
-import programas.BaseTest;
+import org.junit.jupiter.api.Test;
 
-import static org.junit.Assert.*;
+import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 
-public class Gx02Test extends BaseTest {
+public class Gx02Test {
     Gx02 solution = new Gx02();
 
     @Test
     public void name1() {
 
-        softly.assertThat(solution.solution("3(hi)")).isEqualTo("hihihi");
+        assertThat(solution.solution("3(hi)")).isEqualTo("hihihi");
     }
 
     @Test
     public void name2() {
 
-        softly.assertThat(solution.solution("2(3(hi)co)")).isEqualTo("hihihicohihihico");
+        assertThat(solution.solution("2(3(hi)co)")).isEqualTo("hihihicohihihico");
     }
 
     @Test
     public void name3() {
 
-        softly.assertThat(solution.solution("10(p)")).isEqualTo("pppppppppp");
+        assertThat(solution.solution("10(p)")).isEqualTo("pppppppppp");
     }
 
     @Test
     public void name4() {
 
-        softly.assertThat(solution.solution("2(2(hi)2(co))x2(bo)")).isEqualTo("hihicocohihicocoxbobo");
+        assertThat(solution.solution("2(2(hi)2(co))x2(bo)")).isEqualTo("hihicocohihicocoxbobo");
     }
 }

@@ -1,23 +1,24 @@
 package programas.clear.visitlength;
 
-import org.junit.Test;
-import programas.BaseTest;
+import org.junit.jupiter.api.Test;
 
 import java.util.HashSet;
 import java.util.Set;
 
-public class VisitLengthTest extends BaseTest {
+import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
+
+public class VisitLengthTest {
     private VisitLength visitLength = new VisitLength();
 
     @Test
     public void name() {
-        softly.assertThat(visitLength.solution("ULURRDLLU")).isEqualTo(7);
+        assertThat(visitLength.solution("ULURRDLLU")).isEqualTo(7);
 
     }
 
     @Test
     public void name1() {
-        softly.assertThat(visitLength.solution("LULLLLLLU")).isEqualTo(7);
+        assertThat(visitLength.solution("LULLLLLLU")).isEqualTo(7);
 
     }
 

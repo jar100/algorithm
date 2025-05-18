@@ -1,13 +1,11 @@
 package study.sort;
 
-import org.junit.Test;
-import programas.BaseTest;
+import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 
-import static org.junit.Assert.*;
 
-public class QuickSortTest extends BaseTest {
+public class QuickSortTest {
 
     @Test
     public void name() {

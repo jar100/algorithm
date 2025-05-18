@@ -1,13 +1,14 @@
 package programas.clear.samenumdelet;
 
-import org.junit.Test;
-import programas.BaseTest;
+import org.junit.jupiter.api.Test;
 
-public class SameNumDeletTest extends BaseTest {
+import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
+
+public class SameNumDeletTest {
     SameNumDelet sameNumDelet = new SameNumDelet();
 
     @Test
     public void name() {
-        softly.assertThat(sameNumDelet.solution("baabaa")).isEqualTo(1);
+        assertThat(sameNumDelet.solution("baabaa")).isEqualTo(1);
     }
 }

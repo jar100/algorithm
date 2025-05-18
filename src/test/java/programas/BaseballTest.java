@@ -1,17 +1,17 @@
 package programas;
 
-import org.junit.Before;
-import org.junit.Test;
+import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Java6Assertions.assertThat;
 
 public class BaseballTest {
 
-    int answer;
+    public static int answer;
     int yourNum;
-    Baseball baseball;
-    @Before
-    public void setUp() {
+    public static Baseball baseball;
+    @BeforeAll
+    public static void setUp() {
         answer = 123;
         baseball = Baseball.ofNewGame(answer);
     }

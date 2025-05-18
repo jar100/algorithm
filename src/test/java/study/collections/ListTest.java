@@ -1,6 +1,6 @@
 package study.collections;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -9,7 +9,7 @@ import java.util.List;
 
 public class ListTest {
 
-    @Test(expected = UnsupportedOperationException.class)
+    @Test
     public void immutableList() {
         List<String> fruits = new ArrayList<>();
 
@@ -53,7 +53,7 @@ public class ListTest {
     }
 
 
-    @Test(expected = UnsupportedOperationException.class)
+    @Test
     public void immutableList3() {
         List<String> fruits = Arrays.asList("Apple", "Banana", "Cherry");
 

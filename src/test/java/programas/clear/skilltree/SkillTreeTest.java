@@ -1,15 +1,16 @@
 package programas.clear.skilltree;
 
-import org.junit.Test;
-import programas.BaseTest;
+import org.junit.jupiter.api.Test;
 
-public class SkillTreeTest extends BaseTest {
+import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
+
+public class SkillTreeTest {
     private SkillTree skillTree = new SkillTree();
 
     @Test
     public void name() {
 
-        softly.assertThat(skillTree.solution("CBD", new String[]{"BACDE", "CBADF", "AECB", "BDA"})).isEqualTo(2);
+        assertThat(skillTree.solution("CBD", new String[]{"BACDE", "CBADF", "AECB", "BDA"})).isEqualTo(2);
     }
 
     @Test

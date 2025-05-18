@@ -1,17 +1,18 @@
 package programas.clear.maximumnum;
 
-import org.junit.Before;
-import org.junit.Test;
-import programas.BaseTest;
+import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class MaximumNumTest extends BaseTest {
-    private MaximumNum maximumNum;
+import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 
-    @Before
-    public void setup() {
+public class MaximumNumTest {
+    private static MaximumNum maximumNum;
+
+    @BeforeAll
+    public static void setup() {
         maximumNum = new MaximumNum();
     }
 
@@ -28,31 +29,31 @@ public class MaximumNumTest extends BaseTest {
 
     @Test
     public void solution1() {
-        softly.assertThat(maximumNum.solution(new int[]{6, 10, 2})).isEqualTo("6210");
+        assertThat(maximumNum.solution(new int[]{6, 10, 2})).isEqualTo("6210");
     }
 
     @Test
     public void solution2() {
-        softly.assertThat(maximumNum.solution(new int[]{3, 30, 34, 5, 9})).isEqualTo("9534330");
+        assertThat(maximumNum.solution(new int[]{3, 30, 34, 5, 9})).isEqualTo("9534330");
     }
 
     @Test
     public void solution3() {
-        softly.assertThat(maximumNum.solution(new int[]{1, 10, 11})).isEqualTo("11110");
+        assertThat(maximumNum.solution(new int[]{1, 10, 11})).isEqualTo("11110");
     }
 
     @Test
     public void solution4() {
-        softly.assertThat(maximumNum.solution(new int[]{6, 10, 2})).isEqualTo("6210");
+        assertThat(maximumNum.solution(new int[]{6, 10, 2})).isEqualTo("6210");
     }
 
     @Test
     public void solution5() {
-        softly.assertThat(maximumNum.solution(new int[]{6, 10, 2})).isEqualTo("6210");
+        assertThat(maximumNum.solution(new int[]{6, 10, 2})).isEqualTo("6210");
     }
 
     @Test
     public void solution6() {
-        softly.assertThat(maximumNum.solution(new int[]{0, 0, 0})).isEqualTo("0");
+        assertThat(maximumNum.solution(new int[]{0, 0, 0})).isEqualTo("0");
     }
 }

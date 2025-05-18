@@ -1,15 +1,14 @@
 package programas.descripn;
 
-import org.junit.Test;
-import programas.BaseTest;
+import org.junit.jupiter.api.Test;
 
-import static org.junit.Assert.*;
+import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 
-public class DescripNTest extends BaseTest {
+public class DescripNTest {
     DescripN descripN = new DescripN();
 
     @Test
     public void name() {
-        softly.assertThat(descripN.solution(5,12)).isEqualTo(	4);
+        assertThat(descripN.solution(5,12)).isEqualTo(	4);
     }
 }

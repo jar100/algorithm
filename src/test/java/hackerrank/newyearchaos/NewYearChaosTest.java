@@ -1,9 +1,8 @@
 package hackerrank.newyearchaos;
 
-import org.junit.Test;
-import programas.BaseTest;
+import org.junit.jupiter.api.Test;
 
-public class NewYearChaosTest extends BaseTest {
+public class NewYearChaosTest {
     @Test
     public void name() {
         NewYearChaos.minimumBribes(new int[]{2, 1, 5, 3, 4});

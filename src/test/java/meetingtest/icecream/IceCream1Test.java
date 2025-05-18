@@ -1,6 +1,6 @@
 package meetingtest.icecream;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 public class IceCream1Test {
     IceCream1 iceCream1 = new IceCream1();
