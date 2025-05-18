@@ -50,7 +50,7 @@ public class Test1 {
             int count = duplicateCountMap.get(email) + 1;
             duplicateCountMap.put(email, count);
             email = baseEmail + count + AT_SYMBOL + domain;
-        //    test
+            //test
         } else {
             duplicateCountMap.put(email, 1);
         }
