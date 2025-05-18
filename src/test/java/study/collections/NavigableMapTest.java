@@ -1,7 +1,6 @@
 package study.collections;
 
 import org.junit.Test;
-import org.omg.CORBA.INTERNAL;
 import programas.BaseTest;
 
 import java.util.*;

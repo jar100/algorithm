@@ -1,12 +1,13 @@
 package study.spring_applitcatecontext;
 
-import com.sun.tools.javac.util.List;
 import org.junit.jupiter.api.Test;
+
+import java.util.List;
 
 public class testCheck {
     @Test
     void name() {
-        final List<Integer> of = List.of(1, 2, 3, 4, 5, 6);
+        List<Integer> of = List.of(1, 2, 3, 4, 5);
         for (Integer integer : of) {
             try {
                 sAdd(integer);
@@ -18,7 +19,7 @@ public class testCheck {
     }
 
     void sAdd(int integer) {
-        if (integer == 3) {
+        if (integer == 3) {;
             System.out.println("ok");
         }else {
             throw new RuntimeException();

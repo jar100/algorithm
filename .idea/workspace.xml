@@ -1,60 +1,358 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9aa488bf-00a4-4976-962d-6dfe9e9a0cab" name="testTask" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/myutils/ExcelDbUpdater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myutils/ExcelToCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/study/BeanFactoryPostProcessorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/study/DiCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/Test12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/groovy/GroovyScriptTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/spring_applitcatecontext/ApplicationContext2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/spring_applitcatecontext/ApplicationContextTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/spring_applitcatecontext/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/spring_applitcatecontext/testCheck.java" afterDir="false" />
+    <list default="true" id="9aa488bf-00a4-4976-962d-6dfe9e9a0cab" name="testTask" comment="testTask">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codility/kakaomobility/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codility/kakaomobility/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codility/kakaomobility/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codility/kakaomobility/Test1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codility/kakaomobility/Test2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codility/kakaomobility/Test3Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Test_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/programas/JavaTest3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/programas/Test_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/programas/test_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/test_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/programas/JavaTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/programas.JavaTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/programas.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-programas.JavaTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/algorithm.main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/baekjun/baek11066/Baek11066.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/baekjun/baek11066/Baek11066.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/baekjun/baek1608/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/baekjun/baek1608/Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/baekjun/baek1608/StarGameTournament$Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/baekjun/baek1608/StarGameTournament$Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/baekjun/baek1608/StarGameTournament.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/baekjun/baek1608/StarGameTournament.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/baekjun/clear/baek1015/Baek1015.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/baekjun/clear/baek1015/Baek1015.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/baekjun/clear/baek1193/Baek1193.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/baekjun/clear/baek1193/Baek1193.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/baekjun/clear/baek2589/Baek2589.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/baekjun/clear/baek2589/Baek2589.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/codility/binarygap/BinaryGap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/codility/binarygap/BinaryGap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/codility/checkunpair/CheckUnpair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/codility/checkunpair/CheckUnpair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/hackerrank/newyearchaos/NewYearChaos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/hackerrank/newyearchaos/NewYearChaos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/groundx/Extest$State.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/groundx/Extest$State.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/groundx/Extest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/groundx/Extest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/groundx/Gx01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/groundx/Gx01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/groundx/Gx02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/groundx/Gx02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/groundx/Gx03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/groundx/Gx03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/groundx/Refrigerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/groundx/Refrigerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/groundx/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/groundx/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/icecream/IceCream1$Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/icecream/IceCream1$Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/icecream/IceCream1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/icecream/IceCream1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/icecream/IceCream2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/icecream/IceCream2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/junggo/JungGoFour.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/junggo/JungGoFour.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/junggo/JungGoOne$ZPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/junggo/JungGoOne$ZPoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/junggo/JungGoOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/junggo/JungGoOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/junggo/JungGoThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/junggo/JungGoThree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/junggo/JungGoTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/junggo/JungGoTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/kakao/kakaoEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/kakao/kakaoEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/kakao/test/KakaoEx1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/kakao/test/KakaoEx1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/kakao/test/KakaoEx3$Coffee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/kakao/test/KakaoEx3$Coffee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/kakao/test/KakaoEx3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/kakao/test/KakaoEx3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/kakao/test/KakaoEx4$User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/kakao/test/KakaoEx4$User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/kakao/test/KakaoEx4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/kakao/test/KakaoEx4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/kakao/test/KakaoEx5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/kakao/test/KakaoEx5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/kakao/test/kakaoEx2$Coffee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/kakao/test/kakaoEx2$Coffee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/kakao/test/kakaoEx2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/kakao/test/kakaoEx2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/sixshop/SixShop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/sixshop/SixShop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/timon/Cleaner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/timon/Cleaner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/timon/Cook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/timon/Cook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/timon/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/timon/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/timon/RestaurantSimulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/timon/RestaurantSimulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/meetingtest/timon/Table.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/meetingtest/timon/Table.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/myutils/ExcelDbUpdater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/myutils/ExcelDbUpdater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/myutils/ExcelToCall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/myutils/ExcelToCall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/Baseball.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/Baseball.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/FindBigSquare.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/FindBigSquare.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/KakaoTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/KakaoTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/MakeJadenCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/MakeJadenCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/abc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/abc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/cardgame/CardGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/cardgame/CardGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/changechar/ChangeChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/changechar/ChangeChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/FindLCM.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/FindLCM.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/FindPosition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/FindPosition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/MaximumOrMinimum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/MaximumOrMinimum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/NewBigNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/NewBigNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/Phonekemon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/Phonekemon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/bamin/Num1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/bamin/Num1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/bamin/Num2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/bamin/Num2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/bamin/Num3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/bamin/Num3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/bamin/Num4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/bamin/Num4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/bestalbum/BestAlbum$Genres.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/bestalbum/BestAlbum$Genres.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/bestalbum/BestAlbum$Song.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/bestalbum/BestAlbum$Song.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/bestalbum/BestAlbum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/bestalbum/BestAlbum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/camouflage/Camouflage$Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/camouflage/Camouflage$Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/camouflage/Camouflage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/camouflage/Camouflage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/crossingbridge/CrossingBridge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/crossingbridge/CrossingBridge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/crossingbridge/Truck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/crossingbridge/Truck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/doublepriorityqueue/DoublePriorityQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/doublepriorityqueue/DoublePriorityQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/essencetriangle/EssenceTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/essencetriangle/EssenceTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/findsosu/FindSosu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/findsosu/FindSosu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/giveupmath/GiveupMath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/giveupmath/GiveupMath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/gotoschool/GoToSchool.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/gotoschool/GoToSchool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/gymsuit/GymSuit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/gymsuit/GymSuit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/hindex/HIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/hindex/HIndex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/indexknum/IndexOfKNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/indexknum/IndexOfKNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/jobpare/GameItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/jobpare/GameItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/jobpare/JobPare1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/jobpare/JobPare1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/jobpare/JobPare2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/jobpare/JobPare2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/jobpare/JobPare3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/jobpare/JobPare3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/jumpsuit/JumpIronsuit$Jumpsuit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/jumpsuit/JumpIronsuit$Jumpsuit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/jumpsuit/JumpIronsuit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/jumpsuit/JumpIronsuit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/makebignum/MakeBigNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/makebignum/MakeBigNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/maximumnum/MaximumNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/maximumnum/MaximumNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/morehot/MoreHot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/morehot/MoreHot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/network/Network.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/network/Network.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/notfinishrun/NotFinishRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/notfinishrun/NotFinishRun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/numcountry/NumCountry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/numcountry/NumCountry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/okparentheses/OkParentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/okparentheses/OkParentheses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/operationdevelopment/Operateiondevelopment$Work.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/operationdevelopment/Operateiondevelopment$Work.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/operationdevelopment/Operateiondevelopment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/operationdevelopment/Operateiondevelopment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/phonebook/PhoneBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/phonebook/PhoneBook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/programas2016.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/programas2016.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/ramenfactory/RamenFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/ramenfactory/RamenFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/safeboat/SafeBoat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/safeboat/SafeBoat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/samenumdelet/SameNumDelet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/samenumdelet/SameNumDelet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/skill/SkillOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/skill/SkillOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/skill/SkillTwo$Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/skill/SkillTwo$Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/skill/SkillTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/skill/SkillTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/skilltree/SkillTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/skilltree/SkillTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/stockprices/StockPrices.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/stockprices/StockPrices.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/targetnum/TargetNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/targetnum/TargetNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/test_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/test_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/thievery/Thievery.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/thievery/Thievery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/tileornaments/TileOrnaments.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/tileornaments/TileOrnaments.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/visitlength/VisitLength$Coordinate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/visitlength/VisitLength$Coordinate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/visitlength/VisitLength$Line.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/visitlength/VisitLength$Line.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/visitlength/VisitLength$Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/visitlength/VisitLength$Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/clear/visitlength/VisitLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/clear/visitlength/VisitLength.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/descripn/DescripN.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/descripn/DescripN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/joystick/JoyStick.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/joystick/JoyStick.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/longestnode/LongestNode$Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/longestnode/LongestNode$Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/longestnode/LongestNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/longestnode/LongestNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/onemore/Ironrod/IronRod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/onemore/Ironrod/IronRod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/onemore/diskcontroller/DiskController$Disk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/onemore/diskcontroller/DiskController$Disk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/onemore/diskcontroller/DiskController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/onemore/diskcontroller/DiskController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/onemore/printer/Printer$Prints.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/onemore/printer/Printer$Prints.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programas/onemore/printer/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programas/onemore/printer/Printer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/BeanFactoryPostProcessorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/BeanFactoryPostProcessorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/DiCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/DiCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/Dip$Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/Dip$Animal.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/study/Dip$Bard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/Dip$Bard.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/study/Dip$Chicken.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/Dip$Chicken.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/study/Dip$Farm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/Dip$Farm.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/study/Dip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/Dip.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/study/Gh2Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/Gh2Config.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/META-INF/algorithm.main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/GhConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/GhConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/Isp$Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/Isp$Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/Isp$Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/Isp$Bird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/Isp$Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/Isp$Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/Isp$Mammal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/Isp$Mammal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/Isp$Parrot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/Isp$Parrot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/Isp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/Isp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/bfs/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/bfs/Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/dfs/DfsEx1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/dfs/DfsEx1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/dfs/DfsEx2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/dfs/DfsEx2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/generics/GenericsStudy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/generics/GenericsStudy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/jvmoom/HeavyInstance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/jvmoom/HeavyInstance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/jvmoom/OOMTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/jvmoom/OOMTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/myarraylist/DynamicArrayADT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/myarraylist/DynamicArrayADT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/myarraylist/PeterArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/myarraylist/PeterArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/strategy/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/strategy/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/strategy/TireStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/strategy/TireStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/stream/what_is_different_map_and_flatmap/CommpareToMapAndFlatmap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/stream/what_is_different_map_and_flatmap/CommpareToMapAndFlatmap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/templetcallback/Strategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/templetcallback/Strategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/templetcallback/Study$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/templetcallback/Study$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/templetcallback/Study.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/study/templetcallback/Study.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/baekjun/baek1608/GraphTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/baekjun/baek1608/GraphTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/baekjun/clear/baek1015/Baek1015Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/baekjun/clear/baek1015/Baek1015Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/baekjun/clear/baek1193/Baek1193Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/baekjun/clear/baek1193/Baek1193Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/codility/binarygap/BinaryGapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/codility/binarygap/BinaryGapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/codility/checkunpair/CheckUnpairTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/codility/checkunpair/CheckUnpairTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/hackerrank/newyearchaos/NewYearChaosTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/hackerrank/newyearchaos/NewYearChaosTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/meetingtest/groundx/Gx01Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/meetingtest/groundx/Gx01Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/meetingtest/groundx/Gx02Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/meetingtest/groundx/Gx02Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/meetingtest/groundx/Gx03Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/meetingtest/groundx/Gx03Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/meetingtest/groundx/RefrigeratorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/meetingtest/groundx/RefrigeratorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/meetingtest/groundx/TriangleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/meetingtest/groundx/TriangleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/meetingtest/icecream/IceCream1$Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/meetingtest/icecream/IceCream1$Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/meetingtest/icecream/IceCream1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/meetingtest/icecream/IceCream1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/meetingtest/icecream/IceCream1Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/meetingtest/icecream/IceCream1Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/meetingtest/icecream/IceCream2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/meetingtest/icecream/IceCream2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/meetingtest/icecream/IceCream2Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/meetingtest/icecream/IceCream2Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/meetingtest/icecream/IceCream3Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/meetingtest/icecream/IceCream3Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/meetingtest/junggo/JungGoFourTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/meetingtest/junggo/JungGoFourTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/meetingtest/junggo/JungGoOneTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/meetingtest/junggo/JungGoOneTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/meetingtest/junggo/JungGoThreeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/meetingtest/junggo/JungGoThreeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/meetingtest/junggo/JungGoTwoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/meetingtest/junggo/JungGoTwoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/meetingtest/kakao/kakaoEx1Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/meetingtest/kakao/kakaoEx1Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/meetingtest/kakao/test/KakaoEx4Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/meetingtest/kakao/test/KakaoEx4Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/meetingtest/kakao/test/kakaoEx2Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/meetingtest/kakao/test/kakaoEx2Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/meetingtest/kakao/test/kakaoEx3Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/meetingtest/kakao/test/kakaoEx3Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/meetingtest/kakao/test/kakaoTestEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/meetingtest/kakao/test/kakaoTestEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/meetingtest/sixshop/EqualsObjectTest$EqualsObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/meetingtest/sixshop/EqualsObjectTest$EqualsObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/meetingtest/sixshop/EqualsObjectTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/meetingtest/sixshop/EqualsObjectTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/meetingtest/sixshop/SixShopTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/meetingtest/sixshop/SixShopTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/meetingtest/timon/RestaurantSimulationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/meetingtest/timon/RestaurantSimulationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/BaseballTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/BaseballTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/DynamicArrayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/DynamicArrayTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/IteratorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/IteratorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/KakaoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/KakaoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/MakeJadenCaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/MakeJadenCaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/cardgame/CardGameTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/cardgame/CardGameTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/changechar/ChangeCharTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/changechar/ChangeCharTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/FindLCMTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/FindLCMTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/FindPositionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/FindPositionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/JavaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/JavaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/NewBigNumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/NewBigNumTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/bamin/Num1Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/bamin/Num1Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/bamin/Num2Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/bamin/Num2Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/bamin/Num3Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/bamin/Num3Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/bamin/Num4Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/bamin/Num4Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/bestalbum/BestAlbumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/bestalbum/BestAlbumTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/camouflage/CamouflageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/camouflage/CamouflageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/crossingbridge/CrossingBridgeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/crossingbridge/CrossingBridgeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/doublepriorityqueue/DoublePriorityQueueTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/doublepriorityqueue/DoublePriorityQueueTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/essencetriangle/EssenceTriangleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/essencetriangle/EssenceTriangleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/findsosu/FindSosuTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/findsosu/FindSosuTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/giveupmath/GiveupMathTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/giveupmath/GiveupMathTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/gotoschool/GoToSchoolTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/gotoschool/GoToSchoolTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/gymsuit/GymSuitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/gymsuit/GymSuitTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/hindex/HIndexTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/hindex/HIndexTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/indexknum/IndexOfKNumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/indexknum/IndexOfKNumTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/jobpare/JobPare3Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/jobpare/JobPare3Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/jobpare/jobpare1Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/jobpare/jobpare1Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/jobpare/jobpare2Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/jobpare/jobpare2Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/jumpsuit/JumpIronsuitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/jumpsuit/JumpIronsuitTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/makebignum/MakeBigNumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/makebignum/MakeBigNumTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/maximumnum/MaximumNumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/maximumnum/MaximumNumTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/morehot/MoreHotTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/morehot/MoreHotTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/network/NetworkTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/network/NetworkTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/notfinishrun/NotFinishRunTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/notfinishrun/NotFinishRunTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/numcountry/NumCountryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/numcountry/NumCountryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/okparentheses/OkParenthesesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/okparentheses/OkParenthesesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/operationdevelopment/operateiondevelopmentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/operationdevelopment/operateiondevelopmentTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/phonebook/PhoneBookTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/phonebook/PhoneBookTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/ramenfactory/RamenFactoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/ramenfactory/RamenFactoryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/safeboat/SafeBoatTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/safeboat/SafeBoatTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/samenumdelet/SameNumDeletTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/samenumdelet/SameNumDeletTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/skill/SkillOneTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/skill/SkillOneTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/skill/SkillTwoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/skill/SkillTwoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/skilltree/SkillTreeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/skilltree/SkillTreeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/stockprices/StockPricesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/stockprices/StockPricesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/targetnum/TargetNumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/targetnum/TargetNumTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/thievery/ThieveryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/thievery/ThieveryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/tileornaments/TileOrnamentsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/tileornaments/TileOrnamentsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/clear/visitlength/VisitLengthTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/clear/visitlength/VisitLengthTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/descripn/DescripNTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/descripn/DescripNTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/joystick/JoyStickTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/joystick/JoyStickTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/longestnode/LongestNodeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/longestnode/LongestNodeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/onemore/Ironrod/IronRodTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/onemore/Ironrod/IronRodTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/onemore/diskcontroller/DiskControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/onemore/diskcontroller/DiskControllerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/programas/onemore/printer/PrinterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/programas/onemore/printer/PrinterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/StaticTest$StaticClassTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/StaticTest$StaticClassTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/StaticTest$StaticClassTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/StaticTest$StaticClassTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/StaticTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/StaticTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/Test12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/Test12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/VolatileTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/VolatileTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/VolatileTest$1MyVolatile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/VolatileTest$1MyVolatile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/VolatileTest$1VolatileThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/VolatileTest$1VolatileThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/VolatileTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/VolatileTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/Car$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/Car$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/CodingTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/CodingTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/EmptyTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/EmptyTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/IteratorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/IteratorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/ListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/ListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/NavigableMapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/NavigableMapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/PhoneTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/PhoneTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/QueuesTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/QueuesTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/QueuesTest$1Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/QueuesTest$1Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/QueuesTest$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/QueuesTest$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/QueuesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/QueuesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/SetTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/SetTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/SetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/SetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/Task.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/TaskTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/TaskTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/Tire.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/Tire.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/maps/CreditCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/maps/CreditCard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/maps/MapsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/maps/MapsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/produceconsumer/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/produceconsumer/Consumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/produceconsumer/ConsumerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/produceconsumer/ConsumerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/produceconsumer/LinkedBlockingTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/produceconsumer/LinkedBlockingTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/produceconsumer/Produce.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/produceconsumer/Produce.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/collections/produceconsumer/Table.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/collections/produceconsumer/Table.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/generics/GenericsStudyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/generics/GenericsStudyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/AsyncShop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/AsyncShop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/AsyncShopClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/AsyncShopClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/BestPriceFinder$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/BestPriceFinder$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/BestPriceFinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/BestPriceFinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/BestPriceFinderMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/BestPriceFinderMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/CloserTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/CloserTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/CloserTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/CloserTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/Closure2Test$Int.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/Closure2Test$Int.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/Closure2Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/Closure2Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/CompletableFutureTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/CompletableFutureTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/Currying.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/Currying.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/Discount$Code.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/Discount$Code.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/Discount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/Discount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/Dish$Type.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/Dish$Type.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/Dish.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/Dish.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/EffectivlyFinalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/EffectivlyFinalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/ExchangeService$Money.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/ExchangeService$Money.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/ExchangeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/ExchangeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/Functor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/Functor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/GroupingTest$Currency.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/GroupingTest$Currency.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/GroupingTest$Transaction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/GroupingTest$Transaction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/GroupingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/GroupingTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/LambdaTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/LambdaTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/LambdaTest$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/LambdaTest$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/LambdaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/LambdaTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/MappingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/MappingTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/MethodReferenceTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/MethodReferenceTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/MethodReferenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/MethodReferenceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/MyInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/MyInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/OptionalTest$Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/OptionalTest$Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/OptionalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/OptionalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/ParallelStreamTest$1A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/ParallelStreamTest$1A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/ParallelStreamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/ParallelStreamTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/PersistentTrainJourney$TrainJourney.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/PersistentTrainJourney$TrainJourney.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/PersistentTrainJourney.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/PersistentTrainJourney.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/Quote.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/Quote.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/Shop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/Shop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/StreamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/StreamTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/Trader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/Trader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/Transaction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/Transaction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/Util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/v1/BestPriceFinder$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/v1/BestPriceFinder$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/v1/BestPriceFinder$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/v1/BestPriceFinder$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/v1/BestPriceFinder$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/v1/BestPriceFinder$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/v1/BestPriceFinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/v1/BestPriceFinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/v1/BestPriceFinderMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/v1/BestPriceFinderMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/v1/Shop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/v1/Shop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/javainaction/v1/ShopMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/javainaction/v1/ShopMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/jvmoom/HeavyInstanceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/jvmoom/HeavyInstanceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/sort/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/sort/QuickSortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/sort/QuickSortTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/spring_applitcatecontext/ApplicationContext2Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/spring_applitcatecontext/ApplicationContext2Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/classes/study/spring_applitcatecontext/ApplicationContextTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/spring_applitcatecontext/ApplicationContextTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/Dip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Dip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/Gh2Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Gh2Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/study/collections/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/collections/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/study/javainaction/MappingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/javainaction/MappingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/study/spring_applitcatecontext/ApplicationContextTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/spring_applitcatecontext/ApplicationContextTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/spring_applitcatecontext/ApplicationContextTest3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/spring_applitcatecontext/ApplicationContextTest3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/spring_applitcatecontext/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/spring_applitcatecontext/Test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/spring_applitcatecontext/testCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/spring_applitcatecontext/testCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/strategy/CarTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/strategy/CarTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/strategy/CarTest$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/strategy/CarTest$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/strategy/CarTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/strategy/CarTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/strategy/hashCodeTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/strategy/hashCodeTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/strategy/hashCodeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/strategy/hashCodeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/templetcallback/StudyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/study/templetcallback/StudyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/collections/NavigableMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/collections/NavigableMapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/study/spring_applitcatecontext/testCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/study/spring_applitcatecontext/testCheck.java" afterDir="false" />
     </list>
     <list id="5e81a641-9abe-48a5-abd4-666a262df1bf" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/.gradle/" />
-    <ignored path="$PROJECT_DIR$/build/" />
-    <ignored path=".idea/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,9 +372,6 @@
     <expand />
     <select />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
-  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -94,24 +389,6 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="algorithm" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="algorithm" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="algorithm" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="algorithm" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
               </path>
             </expand>
             <select />
@@ -235,6 +512,7 @@
         <option value="Interface" />
         <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -278,6 +556,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gh-baek_yanolja&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jar100/algorithm.git&quot;,
+    &quot;accountId&quot;: &quot;38023ad3-f87d-4ef2-9a21-6feb1db2ead8&quot;
+  }
+}</component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -348,11 +638,15 @@
       <select />
     </treeState>
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="1027" />
   </component>
+  <component name="ProjectId" id="2tnHdWGaa5XLuicJ22zEnjrgLuP" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -425,35 +719,44 @@
       </pane>
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/study/javainaction" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.Test1Test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Test1Test.name.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Test1Test.solution.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Test2Test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Test2Test.solution.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Test3Test.solution.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.testCheck.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/gh.baek/IdeaProjects/algorithm&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.3054278&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.jsOptions&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="study" />
-      <recent name="generics" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="study.collections" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/study/javainaction" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -461,108 +764,99 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/java/study/javainaction" />
     </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="codility.kakaomobility" />
+      <recent name="study" />
+      <recent name="generics" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="study" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/test/java/study/javainaction" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="study.collections" />
-    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.MappingTest.listContainsTest">
-    <configuration name="ApplicationContext2Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.spring_applitcatecontext.ApplicationContext2Test" />
+  <component name="RunManager" selected="JUnit.Test1Test.solution">
+    <configuration name="Test1Test.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.spring_applitcatecontext.*" />
+          <option name="PATTERN" value="codility.kmtest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExcelToCall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myutils.ExcelToCall" />
-      <module name="algorithm.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="myutils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.Test12" />
-      <module name="algorithm.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="myutils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ApplicationContextTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="study.spring_applitcatecontext.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="study.spring_applitcatecontext" />
-      <option name="MAIN_CLASS_NAME" value="study.spring_applitcatecontext.ApplicationContextTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MappingTest.listContainsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="study.javainaction.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="study.javainaction" />
-      <option name="MAIN_CLASS_NAME" value="study.javainaction.MappingTest" />
-      <option name="METHOD_NAME" value="listContainsTest" />
+      <option name="PACKAGE_NAME" value="codility.kakaomobility" />
+      <option name="MAIN_CLASS_NAME" value="codility.kmtest.Test1Test" />
+      <option name="METHOD_NAME" value="name" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="algorithm.main" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <configuration name="Test1Test.solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codility.kmtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="codility.kakaomobility" />
+      <option name="MAIN_CLASS_NAME" value="codility.kmtest.Test1Test" />
+      <option name="METHOD_NAME" value="solution" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codility.kmtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="codility.kakaomobility" />
+      <option name="MAIN_CLASS_NAME" value="codility.kmtest.Test2Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2Test.solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codility.kmtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="codility.kakaomobility" />
+      <option name="MAIN_CLASS_NAME" value="codility.kmtest.Test2Test" />
+      <option name="METHOD_NAME" value="solution" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3Test.solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codility.kmtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="codility.kakaomobility" />
+      <option name="MAIN_CLASS_NAME" value="codility.kmtest.Test3Test" />
+      <option name="METHOD_NAME" value="solution" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="algorithm.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -575,23 +869,32 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ApplicationContext2Test" />
-      <item itemvalue="Application.Test12" />
-      <item itemvalue="Application.ExcelToCall" />
-      <item itemvalue="JUnit.ApplicationContextTest" />
+      <item itemvalue="JUnit.Test1Test.name" />
+      <item itemvalue="JUnit.Test1Test.solution" />
+      <item itemvalue="JUnit.Test2Test" />
+      <item itemvalue="JUnit.Test2Test.solution" />
+      <item itemvalue="JUnit.Test3Test.solution" />
       <item itemvalue="Spring Boot.Application" />
-      <item itemvalue="JUnit.MappingTest.listContainsTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MappingTest.listContainsTest" />
-        <item itemvalue="Application.ExcelToCall" />
-        <item itemvalue="JUnit.ApplicationContextTest" />
-        <item itemvalue="Application.Test12" />
-        <item itemvalue="Application.ApplicationContext2Test" />
+        <item itemvalue="JUnit.Test1Test.solution" />
+        <item itemvalue="JUnit.Test3Test.solution" />
+        <item itemvalue="JUnit.Test2Test.solution" />
+        <item itemvalue="JUnit.Test2Test" />
+        <item itemvalue="JUnit.Test1Test.name" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -663,6 +966,10 @@
       <workItem from="1573739382509" duration="2166000" />
       <workItem from="1573796377859" duration="20246000" />
       <workItem from="1574322711466" duration="1220000" />
+      <workItem from="1740981006749" duration="140000" />
+      <workItem from="1746442153427" duration="1668000" />
+      <workItem from="1746443992400" duration="561000" />
+      <workItem from="1746444563101" duration="8812000" />
     </task>
     <servers />
   </component>
@@ -746,7 +1053,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -759,30 +1066,6 @@
     </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
     <option name="RECENT_FILTERS">
       <map>
         <entry key="Branch">
@@ -793,6 +1076,15 @@
         <entry key="User">
           <value>
             <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
           </value>
         </entry>
       </map>
@@ -809,20 +1101,41 @@
           </properties>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/codility/kakaomobility/Test1Test.java</url>
+          <line>11</line>
+          <properties class="codility.kakaomobility.Test1Test" method="solution">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/study/javainaction/PersistentTrainJourney.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/study/javainaction/PersistentTrainJourney.java</url>
           <line>62</line>
-          <properties />
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/codility/kakaomobility/Test1.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/codility/kakaomobility/Test2.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
