@@ -10,7 +10,7 @@ import org.springframework.test.context.junit.jupiter.SpringExtension;
 import study.BeanFactoryPostProcessorTest;
 import study.GhConfig;
 
-import javax.inject.Inject;
+import jakarta.inject.Inject;
 
 @ExtendWith(SpringExtension.class)
 @ContextConfiguration(classes = {GhConfig.class, BeanFactoryPostProcessorTest.class})

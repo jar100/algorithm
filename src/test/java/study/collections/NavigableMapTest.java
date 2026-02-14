@@ -1,11 +1,13 @@
 package study.collections;
 
+import org.assertj.core.api.SoftAssertions;
 import org.junit.Test;
-import programas.BaseTest;
 
 import java.util.*;
 
-public class NavigableMapTest extends BaseTest {
+public class NavigableMapTest {
+
+    private final SoftAssertions softly = new SoftAssertions();
 
     @Test
     public void whatIsNavigableMap() {

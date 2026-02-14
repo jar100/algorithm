@@ -3,6 +3,7 @@ package myutils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.ss.usermodel.CellType;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
@@ -94,7 +95,7 @@ public class ExcelToCall {
     public void gajagoToYanolja() throws IOException {
         for (Row row : originSheet) {
             final Cell cell = row.getCell(1);
-            if (cell.getCellType() == Cell.CELL_TYPE_NUMERIC && cell.getNumericCellValue() != -2) {
+            if (cell.getCellType() == CellType.NUMERIC && cell.getNumericCellValue() != -2) {
                 final int numericCellValue = (int) cell.getNumericCellValue();
                 String newURL = "https://www.yanolja.com/leisure/" + numericCellValue;
                 HttpURLConnection connection = (HttpURLConnection) new URL(newURL).openConnection();
@@ -108,7 +109,7 @@ public class ExcelToCall {
 
                 if (!String.valueOf(connection.getURL()).equals("https://www.yanolja.com/404")) {
                     System.out.println("redirect URL : " + connection.getURL());
-                    final Cell cell1 = row.createCell(3, 1);
+                    final Cell cell1 = row.createCell(3, CellType.STRING);
                     cell1.setCellValue(String.valueOf(connection.getURL()));
                     log.info("call : {}", cell1);
                 }
@@ -140,7 +141,7 @@ public class ExcelToCall {
 
                 if (row.getRowNum() != 0) {
                     final Cell cell = row.getCell(1);
-                    if (cell.getCellType() == Cell.CELL_TYPE_NUMERIC && cell.getNumericCellValue() != -2) {
+                    if (cell.getCellType() == CellType.NUMERIC && cell.getNumericCellValue() != -2) {
                         final int numericCellValue = (int) cell.getNumericCellValue();
                         String newURL = "https://www.yanolja.com/leisure/" + numericCellValue;
                         HttpURLConnection connection = (HttpURLConnection) new URL(newURL).openConnection();
@@ -150,7 +151,7 @@ public class ExcelToCall {
 
                         if (!String.valueOf(connection.getURL()).equals("https://www.yanolja.com/404")) {
 
-                            final Cell cell1 = row.createCell(3, 1);
+                            final Cell cell1 = row.createCell(3, CellType.STRING);
                             cell1.setCellValue(String.valueOf(connection.getURL()));
                         }
                     }
